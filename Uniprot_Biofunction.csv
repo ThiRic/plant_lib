@@ -1,5214 +1,2200 @@
-Uniprot_ID,SRI_tag
-P14618,Hormones
-P14618,Response to environment
-P14618,Cell proliferation
-O15530,Hormones
-O15530,Response to environment
-O15530,Cell proliferation
-P37231,Hormones
-P37231,Response to environment
-P37231,Cell proliferation
-P06213,Hormones
-P06213,Response to environment
-P06213,Cell proliferation
-Q92831,Hormones
-Q92831,Response to environment
-Q92831,Cell proliferation
-P27986,Hormones
-P27986,Response to environment
-P27986,Cell proliferation
-P12931,Hormones
-P12931,Response to environment
-P12931,Cell proliferation
-P09874,Hormones
-P09874,Response to environment
-P09874,Cell proliferation
-P31749,Hormones
-P31749,Response to environment
-P31749,Cell proliferation
-P14618,Metabolism
-P04406,Metabolism
-P14618,Vasculature
-O15530,Vasculature
-P14618,Cell death
-P11387,Cell death
-O15530,Cytoskeleton
-P42336,Cytoskeleton
-P53667,Cytoskeleton
-P11274,Cytoskeleton
-P00519,Cytoskeleton
-O15530,Metabolism
-O15530,Cell death
-O15530,Cell proliferation
-O15530,Cell migration
-P06213,Metabolism
-P06213,Cell death
-P06213,Cell proliferation
-P06213,Cell migration
-P42345,Metabolism
-P42345,Cell death
-P42345,Cell proliferation
-P42345,Cell migration
-P12931,Metabolism
-P12931,Cell death
-P12931,Cell proliferation
-P12931,Cell migration
-P43005,Metabolism
-P43005,Cell death
-P43005,Cell proliferation
-P43005,Cell migration
-O15530,Calcium signaling
-P41595,Calcium signaling
-Q9NYA1,Calcium signaling
-P19174,Calcium signaling
-P20309,Calcium signaling
-P25024,Calcium signaling
-P32302,Calcium signaling
-O15530,Cell migration
-P42336,Cell migration
-P42338,Cell migration
-P10586,Cell migration
-P06493,Cell migration
-Q12866,Cell migration
-P08581,Cell migration
-Q05397,Cell migration
-P48736,Cell migration
-P09619,Cell migration
-P19174,Cell migration
-P30530,Cell migration
-O15530,Cell migration
-O15530,Cell proliferation
-P04626,Cell migration
-P04626,Cell proliferation
-P00533,Cell migration
-P00533,Cell proliferation
-Q06124,Cell migration
-Q06124,Cell proliferation
-P19174,Cell migration
-P19174,Cell proliferation
-P31749,Cell migration
-P31749,Cell proliferation
-O15530,Cell migration
-O15530,Cell proliferation
-P42336,Cell migration
-P42336,Cell proliferation
-Q14289,Cell migration
-Q14289,Cell proliferation
-P00533,Cell migration
-P00533,Cell proliferation
-Q05397,Cell migration
-Q05397,Cell proliferation
-P12931,Cell migration
-P12931,Cell proliferation
-Q06124,Cell migration
-Q06124,Cell proliferation
-P19174,Cell migration
-P19174,Cell proliferation
-P31749,Cell migration
-P31749,Cell proliferation
-P15056,Cell migration
-P15056,Cell proliferation
-P00519,Cell migration
-P00519,Cell proliferation
-O15530,Cell death
-P84022,Cell death
-P49841,Cell death
-O15530,Cell death
-Q16236,Cell death
-P00519,Cell death
-O15530,Immune system
-O15530,Cell death
-O15530,Cell differentiation
-O15530,Cell migration
-O15530,Cell proliferation
-P37231,Cell death
-P37231,Cell differentiation
-P37231,Cell migration
-P37231,Cell proliferation
-P0DMV8,Cell death
-P0DMV8,Cell differentiation
-P0DMV8,Cell migration
-P0DMV8,Cell proliferation
-Q07869,Cell death
-Q07869,Cell differentiation
-Q07869,Cell migration
-Q07869,Cell proliferation
-P04637,Cell death
-P04637,Cell differentiation
-P04637,Cell migration
-P04637,Cell proliferation
-O15530,Signal transduction
-P53350,Signal transduction
-O95271,Signal transduction
-P06493,Signal transduction
-P10415,Signal transduction
-P49841,Signal transduction
-P42345,Signal transduction
-Q05655,Signal transduction
-P43405,Signal transduction
-Q16539,Signal transduction
-Q16512,Signal transduction
-P12931,Signal transduction
-P11387,Signal transduction
-P28482,Signal transduction
-P31749,Signal transduction
-O14920,Signal transduction
-Q9HC98,Signal transduction
-P68400,Signal transduction
-Q13627,Signal transduction
-Q92630,Signal transduction
-P43005,Signal transduction
-Q13315,Signal transduction
-P24941,Signal transduction
-O15530,Signal transduction
-O95271,Signal transduction
-P06493,Signal transduction
-P10415,Signal transduction
-P49841,Signal transduction
-P42345,Signal transduction
-Q05655,Signal transduction
-P28482,Signal transduction
-P31749,Signal transduction
-P68400,Signal transduction
-Q13627,Signal transduction
-Q92630,Signal transduction
-O15530,Vasculature
-Q16236,Vasculature
-P40763,Vasculature
-Q16665,Vasculature
-P38398,Vasculature
-Q14289,Vasculature
-Q16678,Vasculature
-Q9NYA1,Vasculature
-P19174,Vasculature
-P36544,Vasculature
-O15530,Vasculature
-Q16236,Vasculature
-Q16665,Vasculature
-P19174,Vasculature
-P31749,Vasculature
-O15530,Signal transduction
-O15530,Molecular transport
-Q99527,Molecular transport
-P00533,Molecular transport
-P27986,Molecular transport
-P31749,Molecular transport
-O15530,Calcium signaling
-Q99527,Calcium signaling
-P19174,Calcium signaling
-P00519,Calcium signaling
-O15530,Cell proliferation
-O15530,Vasculature
-P40763,Cell proliferation
-P40763,Vasculature
-P19174,Cell proliferation
-P19174,Vasculature
-O15530,Immune system
-O15530,Immune system
-Q14432,Signal transduction
-Q08499,Signal transduction
-P35869,Signal transduction
-Q14432,Signal transduction
-Q14432,Cell death
-Q14432,Cell differentiation
-Q14432,Cell migration
-Q14432,Cell proliferation
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell migration
-P84022,Cell proliferation
-Q92769,Cell death
-Q92769,Cell differentiation
-Q92769,Cell migration
-Q92769,Cell proliferation
-P06241,Cell death
-P06241,Cell differentiation
-P06241,Cell migration
-P06241,Cell proliferation
-O14727,Cell death
-O14727,Cell differentiation
-O14727,Cell migration
-O14727,Cell proliferation
-P08069,Cell death
-P08069,Cell differentiation
-P08069,Cell migration
-P08069,Cell proliferation
-P04150,Cell death
-P04150,Cell differentiation
-P04150,Cell migration
-P04150,Cell proliferation
-P00519,Cell death
-P00519,Cell differentiation
-P00519,Cell migration
-P00519,Cell proliferation
-Q14432,Signal transduction
-P41595,Signal transduction
-Q14432,Metabolism
-Q14432,Regulation of lipids
-P37231,Metabolism
-P37231,Regulation of lipids
-Q99714,Metabolism
-Q99714,Regulation of lipids
-P09960,Metabolism
-P09960,Regulation of lipids
-Q01469,Metabolism
-Q01469,Regulation of lipids
-P18054,Metabolism
-P18054,Regulation of lipids
-Q03181,Metabolism
-Q03181,Regulation of lipids
-Q14432,Cell death
-P53350,Cell death
-P84022,Cell death
-P0DMV8,Cell death
-P41595,Cell death
-Q92769,Cell death
-P06493,Cell death
-P10415,Cell death
-P49841,Cell death
-Q13547,Cell death
-Q14289,Cell death
-P09211,Cell death
-P00533,Cell death
-Q07820,Cell death
-P19838,Cell death
-O15379,Cell death
-P15559,Cell death
-Q05397,Cell death
-P04637,Cell death
-P27986,Cell death
-P14174,Cell death
-Q9NYA1,Cell death
-Q03181,Cell death
-P12931,Cell death
-P09619,Cell death
-P30530,Cell death
-Q04206,Cell death
-P35916,Cell death
-P31749,Cell death
-P08069,Cell death
-P15056,Cell death
-P15121,Cell death
-P53355,Cell death
-P55789,Cell death
-Q14432,Signal transduction
-Q08499,Signal transduction
-Q14432,Vasculature
-Q14432,Vasculature
-Q14432,Response to environment
-P41595,Response to environment
-Q92769,Response to environment
-P06493,Response to environment
-P10415,Response to environment
-O15118,Response to environment
-P27695,Response to environment
-P27338,Response to environment
-Q14289,Response to environment
-P05412,Response to environment
-P16220,Response to environment
-P33527,Response to environment
-P12931,Response to environment
-P11387,Response to environment
-P07949,Response to environment
-P35354,Response to environment
-P06239,Response to environment
-P43005,Response to environment
-P00519,Response to environment
-P80365,Response to environment
-P35869,Response to environment
-P50750,Response to environment
-Q14432,Signal transduction
-Q07343,Signal transduction
-Q08499,Signal transduction
-O76074,Signal transduction
-P42338,Signal transduction
-P37231,Signal transduction
-P40763,Signal transduction
-Q16665,Signal transduction
-Q9UM73,Signal transduction
-Q13554,Signal transduction
-P53667,Signal transduction
-Q02750,Signal transduction
-P49841,Signal transduction
-P08581,Signal transduction
-P04626,Signal transduction
-Q14289,Signal transduction
-P29466,Signal transduction
-P00533,Signal transduction
-P16220,Signal transduction
-P11274,Signal transduction
-Q05655,Signal transduction
-Q16539,Signal transduction
-Q16512,Signal transduction
-P12931,Signal transduction
-P09619,Signal transduction
-P42226,Signal transduction
-P28482,Signal transduction
-P30530,Signal transduction
-P07949,Signal transduction
-P20309,Signal transduction
-P31749,Signal transduction
-P36544,Signal transduction
-P10721,Signal transduction
-P08069,Signal transduction
-P68400,Signal transduction
-P04150,Signal transduction
-Q13315,Signal transduction
-Q92793,Signal transduction
-P24941,Signal transduction
-P46098,Signal transduction
-Q07343,Metabolism
-Q08499,Metabolism
-Q07343,Response to environment
-Q08499,Response to environment
-Q07343,Response to environment
-P29466,Response to environment
-P09211,Response to environment
-Q13133,Response to environment
-P19838,Response to environment
-P11274,Response to environment
-Q9HC29,Response to environment
-Q16539,Response to environment
-Q03181,Response to environment
-P12931,Response to environment
-P30530,Response to environment
-Q04206,Response to environment
-Q00613,Response to environment
-P00519,Response to environment
-P55789,Response to environment
-Q07343,Response to environment
-Q16236,Response to environment
-P04637,Response to environment
-Q00613,Response to environment
-Q07343,Immune system
-P06241,Immune system
-P12931,Immune system
-P06239,Immune system
-Q07343,Immune system
-P43405,Immune system
-P48736,Immune system
-P25024,Immune system
-Q07343,Immune system
-Q07343,Immune system
-Q08499,Immune system
-P00519,Immune system
-Q07343,Immune system
-Q08499,Immune system
-P00519,Immune system
-Q07343,Calcium signaling
-Q07343,Immune system
-Q08499,Immune system
-P42336,Immune system
-P06241,Immune system
-P19174,Immune system
-P28482,Immune system
-O14920,Immune system
-P06239,Immune system
-P00519,Immune system
-Q08499,Signal transduction
-P25105,Signal transduction
-P27695,Signal transduction
-Q16678,Signal transduction
-P48736,Signal transduction
-P35869,Signal transduction
-Q08499,Vasculature
-Q08499,Signal transduction
-Q08499,Immune system
-Q08499,Calcium signaling
-Q08499,Calcium signaling
-Q08499,Signal transduction
-Q05655,Signal transduction
-O76074,Metabolism
-O76074,Immune system
-P29350,Immune system
-P14902,Immune system
-O76074,Signal transduction
-P41595,Signal transduction
-P06213,Signal transduction
-P04626,Signal transduction
-P00533,Signal transduction
-Q9HC29,Signal transduction
-P14174,Signal transduction
-P48736,Signal transduction
-P12931,Signal transduction
-P09619,Signal transduction
-P10721,Signal transduction
-O76074,Vasodilatation
-P53350,Molecular transport
-P55072,Molecular transport
-P00519,Molecular transport
-P53350,Cell cycle
-P53350,Signal transduction
-Q9NYA1,Signal transduction
-P28482,Signal transduction
-P53350,Ubiquitin-proteasome system
-P0DMV8,Ubiquitin-proteasome system
-P49841,Ubiquitin-proteasome system
-P55072,Ubiquitin-proteasome system
-P31749,Ubiquitin-proteasome system
-P04062,Ubiquitin-proteasome system
-P53350,Molecular transport
-P06493,Molecular transport
-P06241,Molecular transport
-P12931,Molecular transport
-P09874,Molecular transport
-P31749,Molecular transport
-P53350,Proteolysis
-Q92769,Proteolysis
-P53350,Autophagy
-P53350,Ubiquitin-proteasome system
-P53350,Signal transduction
-P53350,Ubiquitin-proteasome system
-P53350,Signal transduction
-P53350,Misfolded protein degradation
-Q9UBN7,Misfolded protein degradation
-Q09472,Misfolded protein degradation
-P12931,Misfolded protein degradation
-P42858,Misfolded protein degradation
-Q92793,Misfolded protein degradation
-P53350,Autophagy
-P53350,Ubiquitin-proteasome system
-P53350,Signal transduction
-Q16236,Autophagy
-Q16236,Ubiquitin-proteasome system
-Q16236,Signal transduction
-P38398,Autophagy
-P38398,Ubiquitin-proteasome system
-P38398,Signal transduction
-P55072,Autophagy
-P55072,Ubiquitin-proteasome system
-P55072,Signal transduction
-P31749,Autophagy
-P31749,Ubiquitin-proteasome system
-P31749,Signal transduction
-P53350,Cell proliferation
-O00444,Cell proliferation
-Q96GD4,Cell proliferation
-P53350,Protein-protein interaction
-P12931,Protein-protein interaction
-P53350,Molecular transport
-P42336,Tissue development
-Q03181,Tissue development
-P42336,Vasculature
-Q16665,Vasculature
-P05412,Vasculature
-P54760,Vasculature
-Q16678,Vasculature
-P50281,Vasculature
-Q05397,Vasculature
-P43405,Vasculature
-Q16539,Vasculature
-P48736,Vasculature
-P09619,Vasculature
-P35354,Vasculature
-P42336,Cell death
-P42345,Cell death
-P31749,Cell death
-P42336,Response to environment
-Q99527,Response to environment
-O75460,Response to environment
-P08069,Response to environment
-P42336,Cell migration
-P42336,Vasculature
-Q16678,Cell migration
-Q16678,Vasculature
-P00519,Cell migration
-P00519,Vasculature
-P42336,Metabolism
-P40763,Metabolism
-Q9UM73,Metabolism
-P42336,Metabolism
-P04406,Metabolism
-Q01469,Metabolism
-Q16539,Metabolism
-Q03181,Metabolism
-P31749,Metabolism
-P10253,Metabolism
-P42336,Cell growth
-P42336,Cell proliferation
-P42336,Response to environment
-P42336,Cytoskeleton
-P42336,Cell death
-P10415,Cell death
-Q07820,Cell death
-Q05397,Cell death
-P12931,Cell death
-P42336,Cell death
-P42336,Skin
-P48736,Cell death
-P48736,Skin
-P42336,Endocytosis
-Q12866,Endocytosis
-P08581,Endocytosis
-P30530,Endocytosis
-P42336,Cell growth
-P42336,Cell proliferation
-P42336,Cell death
-P42336,Autophagy
-P42338,Cell growth
-P42338,Cell proliferation
-P42338,Cell death
-P42338,Autophagy
-P41595,Cell growth
-P41595,Cell proliferation
-P41595,Cell death
-P41595,Autophagy
-P04626,Cell growth
-P04626,Cell proliferation
-P04626,Cell death
-P04626,Autophagy
-P27986,Cell growth
-P27986,Cell proliferation
-P27986,Cell death
-P27986,Autophagy
-P48736,Cell growth
-P48736,Cell proliferation
-P48736,Cell death
-P48736,Autophagy
-P31749,Cell growth
-P31749,Cell proliferation
-P31749,Cell death
-P31749,Autophagy
-P08069,Cell growth
-P08069,Cell proliferation
-P08069,Cell death
-P08069,Autophagy
-P42336,Metabolism
-P42338,Metabolism
-P48736,Metabolism
-P42336,Signal transduction
-P42338,Signal transduction
-P25105,Signal transduction
-P48736,Signal transduction
-P09619,Signal transduction
-P08069,Signal transduction
-P42336,Metabolism
-P42338,Metabolism
-P27986,Metabolism
-P48736,Metabolism
-P42336,Signal transduction
-P10415,Signal transduction
-Q9UBN7,Signal transduction
-P00533,Signal transduction
-P14174,Signal transduction
-P35354,Signal transduction
-P31749,Signal transduction
-P15056,Signal transduction
-P42336,Metabolism
-P42336,Cell death
-P42336,Cell proliferation
-P42336,Cell migration
-P42338,Metabolism
-P42338,Cell death
-P42338,Cell proliferation
-P42338,Cell migration
-P06213,Metabolism
-P06213,Cell death
-P06213,Cell proliferation
-P06213,Cell migration
-P08581,Metabolism
-P08581,Cell death
-P08581,Cell proliferation
-P08581,Cell migration
-P00533,Metabolism
-P00533,Cell death
-P00533,Cell proliferation
-P00533,Cell migration
-Q05397,Metabolism
-Q05397,Cell death
-Q05397,Cell proliferation
-Q05397,Cell migration
-P48736,Metabolism
-P48736,Cell death
-P48736,Cell proliferation
-P48736,Cell migration
-P12931,Metabolism
-P12931,Cell death
-P12931,Cell proliferation
-P12931,Cell migration
-P30530,Metabolism
-P30530,Cell death
-P30530,Cell proliferation
-P30530,Cell migration
-P07949,Metabolism
-P07949,Cell death
-P07949,Cell proliferation
-P07949,Cell migration
-P08069,Metabolism
-P08069,Cell death
-P08069,Cell proliferation
-P08069,Cell migration
-P42336,Autophagy
-P42336,Cell growth
-P42336,Cell proliferation
-O15379,Autophagy
-O15379,Cell growth
-O15379,Cell proliferation
-P42336,Metabolism
-P42336,Cell death
-P42336,Cell proliferation
-P42336,Cell migration
-Q12866,Metabolism
-Q12866,Cell death
-Q12866,Cell proliferation
-Q12866,Cell migration
-P30530,Metabolism
-P30530,Cell death
-P30530,Cell proliferation
-P30530,Cell migration
-P31749,Metabolism
-P31749,Cell death
-P31749,Cell proliferation
-P31749,Cell migration
-P42336,Cytoskeleton
-P42336,Cellular respiration
-P42336,Response to environment
-P25105,Response to environment
-Q16678,Response to environment
-P04062,Response to environment
-P42336,Response to environment
-P42336,Immune system
-P29350,Immune system
-P41279,Immune system
-P06241,Immune system
-P12931,Immune system
-Q06124,Immune system
-P31749,Immune system
-P06239,Immune system
-P42336,Vasculature
-P35916,Vasculature
-P42336,Vasculature
-P35916,Vasculature
-P42338,Vasculature
-P42338,Wound healing
-P42338,Autophagy
-Q9UBN7,Autophagy
-O15118,Autophagy
-P04637,Autophagy
-P55072,Autophagy
-P04062,Autophagy
-P00519,Autophagy
-P42338,Calcium signaling
-Q13002,Calcium signaling
-P41595,Calcium signaling
-P36544,Calcium signaling
-P42338,Chemotaxis
-P25105,Chemotaxis
-Q02750,Chemotaxis
-Q13822,Chemotaxis
-Q16539,Chemotaxis
-P28482,Chemotaxis
-P42338,Endocytosis
-O15118,Endocytosis
-P48736,Endocytosis
-P00519,Endocytosis
-P42338,Cell proliferation
-P42338,Vasculature
-O75460,Cell proliferation
-O75460,Vasculature
-P50281,Cell proliferation
-P50281,Vasculature
-P42338,Cell adhesion
-P07949,Cell adhesion
-P42338,Cell death
-P42338,Cell cycle
-P42338,Cell death
-P42338,Cell differentiation
-P42338,Cell motility
-P42338,Cell proliferation
-P18031,Cell cycle
-P18031,Cell death
-P18031,Cell differentiation
-P18031,Cell motility
-P18031,Cell proliferation
-P37231,Cell cycle
-P37231,Cell death
-P37231,Cell differentiation
-P37231,Cell motility
-P37231,Cell proliferation
-P29350,Cell cycle
-P29350,Cell death
-P29350,Cell differentiation
-P29350,Cell motility
-P29350,Cell proliferation
-P04035,Cell cycle
-P04035,Cell death
-P04035,Cell differentiation
-P04035,Cell motility
-P04035,Cell proliferation
-P09211,Cell cycle
-P09211,Cell death
-P09211,Cell differentiation
-P09211,Cell motility
-P09211,Cell proliferation
-Q05655,Cell cycle
-Q05655,Cell death
-Q05655,Cell differentiation
-Q05655,Cell motility
-Q05655,Cell proliferation
-P04062,Cell cycle
-P04062,Cell death
-P04062,Cell differentiation
-P04062,Cell motility
-P04062,Cell proliferation
-P42338,Metabolism
-P42338,Cell death
-P42338,Cell proliferation
-P42338,Cell migration
-Q99527,Metabolism
-Q99527,Cell death
-Q99527,Cell proliferation
-Q99527,Cell migration
-Q07869,Metabolism
-Q07869,Cell death
-Q07869,Cell proliferation
-Q07869,Cell migration
-P42338,Vasculature
-P09917,Vasculature
-P42338,Vasculature
-P42338,Autophagy
-P49841,Autophagy
-P53355,Autophagy
-P42338,Cell migration
-P42338,Vasculature
-Q14289,Cell migration
-Q14289,Vasculature
-P48736,Cell migration
-P48736,Vasculature
-P35916,Cell migration
-P35916,Vasculature
-P31749,Cell migration
-P31749,Vasculature
-P00519,Cell migration
-P00519,Vasculature
-P42338,Immune system
-Q8TDS4,Immune system
-P42338,Vasodilatation
-Q16665,Vasodilatation
-P41595,Vasodilatation
-Q14289,Vasodilatation
-P31749,Vasodilatation
-P00374,Vasodilatation
-P42338,Cytoskeleton
-P48736,Cytoskeleton
-P42338,Cell adhesion
-P10415,Cell adhesion
-P42338,Endocytosis
-P42338,Cell proliferation
-P42338,Cytoskeleton
-P42338,Immune system
-P42338,Vasculature
-P48736,Cell proliferation
-P48736,Cytoskeleton
-P48736,Immune system
-P48736,Vasculature
-P31749,Cell proliferation
-P31749,Cytoskeleton
-P31749,Immune system
-P31749,Vasculature
-P23219,Immune system
-P23219,Inflammation
-P16152,Immune system
-P16152,Inflammation
-P35354,Immune system
-P35354,Inflammation
-P23219,Inflammation
-P25105,Inflammation
-Q16236,Inflammation
-P40763,Inflammation
-Q99527,Inflammation
-P14902,Inflammation
-P35367,Inflammation
-P19838,Inflammation
-P42345,Inflammation
-P14174,Inflammation
-P48736,Inflammation
-Q9NYA1,Inflammation
-P30530,Inflammation
-Q04206,Inflammation
-P35354,Inflammation
-P31749,Inflammation
-O14920,Inflammation
-P10721,Inflammation
-P06746,Inflammation
-P34972,Inflammation
-P23219,Hormones
-P23219,Immune system
-P14174,Hormones
-P14174,Immune system
-P35354,Hormones
-P35354,Immune system
-P23219,Cell proliferation
-P40763,Cell proliferation
-Q9UM73,Cell proliferation
-P05412,Cell proliferation
-Q05397,Cell proliferation
-O75030,Cell proliferation
-O75030,Cell proliferation
-P42226,Cell proliferation
-P10721,Cell proliferation
-P11474,Cell proliferation
-P23219,Reactive oxygen species
-P23219,Response to environment
-O75874,Reactive oxygen species
-O75874,Response to environment
-P50281,Reactive oxygen species
-P50281,Response to environment
-P15559,Reactive oxygen species
-P15559,Response to environment
-P35354,Reactive oxygen species
-P35354,Response to environment
-P31749,Reactive oxygen species
-P31749,Response to environment
-P00519,Reactive oxygen species
-P00519,Response to environment
-P25105,Immune system
-P25105,Inflammation
-P25105,Regulation of lipids
-P25105,Response to environment
-P12931,Regulation of lipids
-P12931,Response to environment
-P25105,Immune system
-P84022,Immune system
-Q13822,Immune system
-P08069,Immune system
-P25024,Immune system
-P34972,Immune system
-P32302,Immune system
-P25105,Muscles
-P25105,Nervous system
-P25105,Cell proliferation
-P25105,Autophagy
-P25105,Immune system
-P25105,Vasculature
-P25105,Metabolism
-P25105,Inflammation
-P40763,Inflammation
-Q9HC29,Inflammation
-P43405,Inflammation
-Q06124,Inflammation
-P25105,Regulation of lipids
-P09619,Regulation of lipids
-P10721,Regulation of lipids
-P25105,Nervous system
-P25105,Molecular transport
-P25105,Cell death
-P25105,Cell proliferation
-P25105,Cell differentiation
-P40763,Cell death
-P40763,Cell proliferation
-P40763,Cell differentiation
-Q92769,Cell death
-Q92769,Cell proliferation
-Q92769,Cell differentiation
-Q9HC29,Cell death
-Q9HC29,Cell proliferation
-Q9HC29,Cell differentiation
-P43405,Cell death
-P43405,Cell proliferation
-P43405,Cell differentiation
-P27986,Cell death
-P27986,Cell proliferation
-P27986,Cell differentiation
-P14174,Cell death
-P14174,Cell proliferation
-P14174,Cell differentiation
-Q06124,Cell death
-Q06124,Cell proliferation
-Q06124,Cell differentiation
-P25105,Cell differentiation
-P25105,Cell migration
-P25105,Cell proliferation
-P25105,Regulation of pH
-P25105,Homeostasis
-P25105,Bacteria
-P25105,Molecular transport
-P12931,Molecular transport
-P08069,Molecular transport
-P51151,Exocytosis
-P51151,Molecular transport
-O95271,Molecular transport
-P51151,Molecular transport
-P51151,Molecular transport
-P10415,Molecular transport
-P09874,Molecular transport
-P51151,Molecular transport
-Q96LD8,Ubiquitin-proteasome system
-P06493,Ubiquitin-proteasome system
-O75604,Ubiquitin-proteasome system
-P18031,Cytoskeleton
-P10721,Cytoskeleton
-P18031,Unfolded protein response
-P0DMV8,Unfolded protein response
-O75460,Unfolded protein response
-Q00613,Unfolded protein response
-P18031,Unfolded protein response
-Q16236,Unfolded protein response
-P55072,Unfolded protein response
-P18031,Hormones
-P18031,Cell proliferation
-P40763,Hormones
-P40763,Cell proliferation
-P42226,Hormones
-P42226,Cell proliferation
-P18031,Hormones
-P18031,Cell proliferation
-P49841,Hormones
-P49841,Cell proliferation
-P06213,Hormones
-P06213,Cell proliferation
-P14735,Hormones
-P14735,Cell proliferation
-P27986,Hormones
-P27986,Cell proliferation
-P17706,Hormones
-P17706,Cell proliferation
-P31749,Hormones
-P31749,Cell proliferation
-P08069,Hormones
-P08069,Cell proliferation
-P18031,Unfolded protein response
-O75460,Unfolded protein response
-P18031,Cell death
-P0DMV8,Cell death
-P18031,Cell adhesion
-P18031,Cell differentiation
-P18031,Cell migration
-P18031,Cell proliferation
-Q99527,Cell adhesion
-Q99527,Cell differentiation
-Q99527,Cell migration
-Q99527,Cell proliferation
-P09211,Cell adhesion
-P09211,Cell differentiation
-P09211,Cell migration
-P09211,Cell proliferation
-P17706,Cell adhesion
-P17706,Cell differentiation
-P17706,Cell migration
-P17706,Cell proliferation
-P00519,Cell adhesion
-P00519,Cell differentiation
-P00519,Cell migration
-P00519,Cell proliferation
-P18031,Hormones
-P18031,Cell proliferation
-Q05655,Hormones
-Q05655,Cell proliferation
-P17706,Hormones
-P17706,Cell proliferation
-P18031,Unfolded protein response
-P18031,Signal transduction
-P18031,Vasculature
-P18031,Cell growth
-P18031,Cell proliferation
-P18031,Metabolism
-P10586,Metabolism
-P29350,Metabolism
-Q06124,Metabolism
-P17706,Metabolism
-P18031,Metabolism
-P18031,Immune system
-P18031,Cell differentiation
-P09619,Immune system
-P09619,Cell differentiation
-P00519,Immune system
-P00519,Cell differentiation
-P18031,Unfolded protein response
-P18031,Cell death
-P18031,Cell differentiation
-P18031,Cell growth
-O75460,Cell death
-O75460,Cell differentiation
-O75460,Cell growth
-Q14289,Cell death
-Q14289,Cell differentiation
-Q14289,Cell growth
-P43405,Cell death
-P43405,Cell differentiation
-P43405,Cell growth
-P18031,Cell differentiation
-P18031,Cell growth
-P18031,Cell migration
-P18031,Metabolism
-P18031,Endocytosis
-Q9NYA1,Endocytosis
-P00519,Endocytosis
-P18031,Molecular transport
-P18031,Immune system
-P18031,Inflammation
-P29350,Immune system
-P29350,Inflammation
-Q06124,Immune system
-Q06124,Inflammation
-P10586,Cell adhesion
-P54760,Cell adhesion
-Q16678,Cell adhesion
-P12931,Cell adhesion
-P10586,Nervous system
-P10586,Signal transduction
-P84022,Cell death
-P37231,Cell death
-P55072,Cell death
-P07949,Cell death
-O14727,Cell death
-P06239,Cell death
-P43005,Cell death
-P84022,Cell death
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell migration
-P84022,Cell proliferation
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell migration
-P84022,Cell proliferation
-P37231,Cell death
-P37231,Cell differentiation
-P37231,Cell migration
-P37231,Cell proliferation
-P27361,Cell death
-P27361,Cell differentiation
-P27361,Cell migration
-P27361,Cell proliferation
-P84022,Cell-cell adhesion
-P84022,Cell differentiation
-P37231,Cell differentiation
-P29350,Cell differentiation
-Q14289,Cell differentiation
-P00533,Cell differentiation
-Q13133,Cell differentiation
-Q07869,Cell differentiation
-Q05397,Cell differentiation
-P06241,Cell differentiation
-P55055,Cell differentiation
-P43405,Cell differentiation
-P19793,Cell differentiation
-Q03181,Cell differentiation
-P12931,Cell differentiation
-P10828,Cell differentiation
-P31749,Cell differentiation
-O14727,Cell differentiation
-P06239,Cell differentiation
-P84022,Viruses
-Q16665,Viruses
-P19838,Viruses
-Q16539,Viruses
-P10070,Viruses
-P84022,Immune system
-Q13936,Immune system
-P84022,Cell cycle
-P84022,Cell death
-P19838,Cell cycle
-P19838,Cell death
-P84022,Cell growth
-P0DMV8,Cell growth
-P10415,Cell growth
-P04637,Cell growth
-Q03181,Cell growth
-P84022,Cell proliferation
-P29350,Cell proliferation
-P40763,Cell proliferation
-Q99527,Cell proliferation
-P0DMV8,Cell proliferation
-P02545,Cell proliferation
-Q02750,Cell proliferation
-Q00534,Cell proliferation
-Q9UBS5,Cell proliferation
-Q14289,Cell proliferation
-P05412,Cell proliferation
-Q16678,Cell proliferation
-Q92831,Cell proliferation
-P04637,Cell proliferation
-P17706,Cell proliferation
-P35354,Cell proliferation
-P84022,Calcium signaling
-P49286,Calcium signaling
-P84022,Cell differentiation
-Q99527,Cell differentiation
-P84022,Inflammation
-P37231,Inflammation
-Q99527,Inflammation
-P09917,Inflammation
-Q13133,Inflammation
-Q07869,Inflammation
-P19838,Inflammation
-P11274,Inflammation
-Q05655,Inflammation
-Q03181,Inflammation
-P17706,Inflammation
-P21589,Inflammation
-P34972,Inflammation
-P04062,Inflammation
-P84022,Metabolism
-P04035,Metabolism
-P00533,Metabolism
-P06241,Metabolism
-Q04206,Metabolism
-P84022,Wound healing
-P09917,Wound healing
-P84022,Signal transduction
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell proliferation
-O95271,Cell death
-O95271,Cell differentiation
-O95271,Cell proliferation
-P00533,Cell death
-P00533,Cell differentiation
-P00533,Cell proliferation
-P19838,Cell death
-P19838,Cell differentiation
-P19838,Cell proliferation
-P12931,Cell death
-P12931,Cell differentiation
-P12931,Cell proliferation
-P55072,Cell death
-P55072,Cell differentiation
-P55072,Cell proliferation
-P84022,Cell migration
-P40763,Cell migration
-Q99527,Cell migration
-P06213,Cell migration
-Q14289,Cell migration
-P00533,Cell migration
-P50281,Cell migration
-Q05397,Cell migration
-P27986,Cell migration
-Q9NYA1,Cell migration
-P09619,Cell migration
-P07949,Cell migration
-P10721,Cell migration
-P08069,Cell migration
-Q13315,Cell migration
-P84022,Wound healing
-Q92769,Wound healing
-P42345,Wound healing
-P84022,Extracellular matrix
-P84022,Cell adhesion
-P00519,Cell adhesion
-P84022,Inflammation
-P40763,Inflammation
-P29466,Inflammation
-Q9HC29,Inflammation
-P84022,Metabolism
-P84022,Vasodilatation
-P06213,Metabolism
-P06213,Vasodilatation
-Q14289,Metabolism
-Q14289,Vasodilatation
-P35354,Metabolism
-P35354,Vasodilatation
-P31749,Metabolism
-P31749,Vasodilatation
-P84022,Chemotaxis
-P84022,Molecular transport
-P06493,Molecular transport
-O15379,Molecular transport
-Q05655,Molecular transport
-P27986,Molecular transport
-Q16539,Molecular transport
-P35354,Molecular transport
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell migration
-P84022,Cell proliferation
-P84022,Cell proliferation
-P84022,Immune response
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell migration
-P84022,Cell proliferation
-Q16665,Cell death
-Q16665,Cell differentiation
-Q16665,Cell migration
-Q16665,Cell proliferation
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell migration
-P84022,Cell proliferation
-P84022,Signal transduction
-P09874,Signal transduction
-P84022,Cell growth
-P84022,Cell death
-P84022,Vasculature
-P84022,Cell growth
-P84022,Cell death
-P84022,Vasculature
-P05412,Cell growth
-P05412,Cell death
-P05412,Vasculature
-P84022,Immune system
-P48736,Immune system
-P84022,Cell differentiation
-P84022,Cell death
-P84022,Cell differentiation
-P84022,Cell migration
-P84022,Cell proliferation
-P40763,Cell death
-P40763,Cell differentiation
-P40763,Cell migration
-P40763,Cell proliferation
-P05412,Cell death
-P05412,Cell differentiation
-P05412,Cell migration
-P05412,Cell proliferation
-P15428,Cell death
-P15428,Cell differentiation
-P15428,Cell migration
-P15428,Cell proliferation
-Q05397,Cell death
-Q05397,Cell differentiation
-Q05397,Cell migration
-Q05397,Cell proliferation
-P04637,Cell death
-P04637,Cell differentiation
-P04637,Cell migration
-P04637,Cell proliferation
-P12931,Cell death
-P12931,Cell differentiation
-P12931,Cell migration
-P12931,Cell proliferation
-P09874,Cell death
-P09874,Cell differentiation
-P09874,Cell migration
-P09874,Cell proliferation
-P84022,Wound healing
-P04626,Wound healing
-Q07869,Wound healing
-Q03181,Wound healing
-P09619,Wound healing
-Q16236,Metabolism
-Q16236,Toxins
-Q16236,Aging
-Q96GD4,Aging
-P27695,Aging
-P15559,Aging
-P09619,Aging
-P04798,Aging
-P35354,Aging
-O14727,Aging
-P06746,Aging
-P21554,Aging
-Q16236,Homeostasis
-P27695,Homeostasis
-P15559,Homeostasis
-Q16236,Hormones
-Q16236,Vasoconstriction
-P19838,Hormones
-P19838,Vasoconstriction
-Q05655,Hormones
-Q05655,Vasoconstriction
-Q04206,Hormones
-Q04206,Vasoconstriction
-Q00613,Hormones
-Q00613,Vasoconstriction
-P08069,Hormones
-P08069,Vasoconstriction
-Q16236,Response to environment
-P04798,Response to environment
-P56818,Response to environment
-P56819,Response to environment
-P56817,Response to environment
-Q00613,Response to environment
-Q16236,Autophagy
-Q16236,Response to environment
-P10415,Autophagy
-P10415,Response to environment
-P11166,Autophagy
-P11166,Response to environment
-P04637,Autophagy
-P04637,Response to environment
-Q16236,Reactive oxygen species
-Q16236,Response to environment
-Q92769,Reactive oxygen species
-Q92769,Response to environment
-P06493,Reactive oxygen species
-P06493,Response to environment
-Q9UBN7,Reactive oxygen species
-Q9UBN7,Response to environment
-O75460,Reactive oxygen species
-O75460,Response to environment
-P27695,Reactive oxygen species
-P27695,Response to environment
-Q16678,Reactive oxygen species
-Q16678,Response to environment
-P15559,Reactive oxygen species
-P15559,Response to environment
-Q05655,Reactive oxygen species
-Q05655,Response to environment
-Q9NYA1,Reactive oxygen species
-Q9NYA1,Response to environment
-P12931,Reactive oxygen species
-P12931,Response to environment
-P42226,Reactive oxygen species
-P42226,Response to environment
-P30530,Reactive oxygen species
-P30530,Response to environment
-Q04206,Reactive oxygen species
-Q04206,Response to environment
-Q00613,Reactive oxygen species
-Q00613,Response to environment
-P00519,Reactive oxygen species
-P00519,Response to environment
-Q16236,Reactive oxygen species
-Q16236,Response to environment
-P0DMV8,Reactive oxygen species
-P0DMV8,Response to environment
-P33527,Reactive oxygen species
-P33527,Response to environment
-P09874,Reactive oxygen species
-P09874,Response to environment
-P00519,Reactive oxygen species
-P00519,Response to environment
-Q16236,Cell death
-Q16236,Cell proliferation
-Q16236,Cell differentiation
-Q99527,Cell death
-Q99527,Cell proliferation
-Q99527,Cell differentiation
-P38398,Cell death
-P38398,Cell proliferation
-P38398,Cell differentiation
-P19838,Cell death
-P19838,Cell proliferation
-P19838,Cell differentiation
-Q16678,Cell death
-Q16678,Cell proliferation
-Q16678,Cell differentiation
-Q16539,Cell death
-Q16539,Cell proliferation
-Q16539,Cell differentiation
-P27361,Cell death
-P27361,Cell proliferation
-P27361,Cell differentiation
-P28482,Cell death
-P28482,Cell proliferation
-P28482,Cell differentiation
-Q04206,Cell death
-Q04206,Cell proliferation
-Q04206,Cell differentiation
-P31749,Cell death
-P31749,Cell proliferation
-P31749,Cell differentiation
-O14920,Cell death
-O14920,Cell proliferation
-O14920,Cell differentiation
-P04062,Cell death
-P04062,Cell proliferation
-P04062,Cell differentiation
-P55789,Cell death
-P55789,Cell proliferation
-P55789,Cell differentiation
-Q16236,Cell death
-Q16236,Reactive oxygen species
-Q16236,Cell death
-Q16236,Reactive oxygen species
-P31749,Cell death
-P31749,Reactive oxygen species
-Q16236,Unfolded protein response
-Q16236,Metabolism
-Q16236,Ubiquitin-proteasome system
-Q16236,Molecular transport
-P06213,Molecular transport
-P27986,Molecular transport
-Q16539,Molecular transport
-Q06124,Molecular transport
-P31749,Molecular transport
-Q16236,Metabolism
-Q16236,Metabolism
-Q16236,Reactive oxygen species
-Q14289,Metabolism
-Q14289,Reactive oxygen species
-P16152,Metabolism
-P16152,Reactive oxygen species
-Q16678,Metabolism
-Q16678,Reactive oxygen species
-P04637,Metabolism
-P04637,Reactive oxygen species
-Q16539,Metabolism
-Q16539,Reactive oxygen species
-P09619,Metabolism
-P09619,Reactive oxygen species
-Q16236,Response to environment
-Q16665,Response to environment
-P04637,Response to environment
-Q16236,Reactive oxygen species
-Q16236,Response to environment
-P04637,Response to environment
-Q16236,Metabolism
-Q16236,Ubiquitin-proteasome system
-Q16236,Metabolism
-Q16236,Ubiquitin-proteasome system
-P55072,Metabolism
-P55072,Ubiquitin-proteasome system
-P04062,Metabolism
-P04062,Ubiquitin-proteasome system
-Q16236,Immune system
-Q16236,Reactive oxygen species
-P00374,Reactive oxygen species
-Q16236,Response to environment
-Q14289,Response to environment
-P35354,Response to environment
-Q9BQF6,Immune system
-Q9BQF6,Viruses
-P37231,Cell differentiation
-O75030,Cell differentiation
-O75030,Cell differentiation
-P37231,Cell differentiation
-P30530,Cell differentiation
-P04062,Cell differentiation
-P37231,Response to environment
-Q16665,Response to environment
-P02545,Response to environment
-P10415,Response to environment
-P42345,Response to environment
-P04637,Response to environment
-Q03181,Response to environment
-P12931,Response to environment
-P07237,Response to environment
-P35354,Response to environment
-P37231,Response to environment
-O15118,Response to environment
-P43405,Response to environment
-P37231,Cell differentiation
-P06493,Cell differentiation
-P16152,Cell differentiation
-P07858,Cell differentiation
-P37231,Regulation of lipids
-P37231,Response to environment
-Q99714,Regulation of lipids
-Q99714,Response to environment
-Q07869,Regulation of lipids
-Q07869,Response to environment
-Q03181,Regulation of lipids
-Q03181,Response to environment
-P04798,Regulation of lipids
-P04798,Response to environment
-P37231,Homeostasis
-P40763,Homeostasis
-P09917,Homeostasis
-P06213,Homeostasis
-Q01469,Homeostasis
-P06737,Homeostasis
-P49286,Homeostasis
-Q06124,Homeostasis
-P17706,Homeostasis
-P31749,Homeostasis
-P08069,Homeostasis
-P21554,Homeostasis
-P37231,Hormones
-Q13133,Hormones
-Q07869,Hormones
-P19793,Hormones
-Q03181,Hormones
-P10828,Hormones
-Q06124,Hormones
-P37231,Immune response
-Q99527,Immune response
-Q14289,Immune response
-Q05397,Immune response
-P06241,Immune response
-Q9HC29,Immune response
-P43405,Immune response
-P14174,Immune response
-P48736,Immune response
-P12931,Immune response
-P30530,Immune response
-Q04206,Immune response
-O14920,Immune response
-P06239,Immune response
-Q9HC16,Immune response
-P37231,Homeostasis
-Q13133,Homeostasis
-P37231,Molecular transport
-P37231,Regulation of lipids
-P37231,Molecular transport
-P37231,Regulation of lipids
-Q01469,Molecular transport
-Q01469,Regulation of lipids
-P37231,Cell differentiation
-P37231,Immune system
-Q09472,Cell differentiation
-Q09472,Immune system
-P35610,Cell differentiation
-P35610,Immune system
-P37231,Cell differentiation
-P37231,Immune system
-P05412,Cell differentiation
-P05412,Immune system
-P37231,Vasculature
-P09917,Vasculature
-P37231,Vasculature
-P37231,Cell death
-P37231,Cell differentiation
-P37231,Cell migration
-P37231,Cell proliferation
-P00519,Cell death
-P00519,Cell differentiation
-P00519,Cell migration
-P00519,Cell proliferation
-P37231,Cell death
-P37231,Cell differentiation
-P37231,Cell migration
-P37231,Cell proliferation
-P37231,Cholesterol
-P37231,Regulation of lipids
-Q13133,Cholesterol
-Q13133,Regulation of lipids
-Q07869,Cholesterol
-Q07869,Regulation of lipids
-P55055,Cholesterol
-P55055,Regulation of lipids
-Q03181,Cholesterol
-Q03181,Regulation of lipids
-P37231,Wound healing
-P37231,Immune system
-Q13133,Immune system
-P55055,Immune system
-P17706,Immune system
-P37231,Regulation of lipids
-P17706,Regulation of lipids
-P37231,Cell differentiation
-P37231,Immune system
-Q13133,Cell differentiation
-Q13133,Immune system
-Q07869,Cell differentiation
-Q07869,Immune system
-P55055,Cell differentiation
-P55055,Immune system
-P37231,Mitochondria
-P37231,Cell growth
-P37231,Cell death
-P37231,Vasculature
-P37231,Cell death
-P37231,Cell proliferation
-P37231,Regulation of lipids
-Q07869,Regulation of lipids
-P37231,Cell growth
-P37231,Cell death
-P37231,Vasculature
-P37231,Cell proliferation
-P37231,Muscles
-Q03181,Cell proliferation
-Q03181,Muscles
-P37231,Cell proliferation
-P37231,Vasculature
-P37231,Inflammation
-P37231,Regulation of lipids
-P19793,Inflammation
-P19793,Regulation of lipids
-P37231,Inflammation
-P37231,Regulation of lipids
-Q8TDS4,Inflammation
-Q8TDS4,Regulation of lipids
-P37231,Cholesterol
-P37231,Regulation of lipids
-Q13133,Cholesterol
-Q13133,Regulation of lipids
-P55055,Cholesterol
-P55055,Regulation of lipids
-P19793,Cholesterol
-P19793,Regulation of lipids
-P37231,Cell differentiation
-P37231,Regulation of lipids
-P16220,Cell differentiation
-P16220,Regulation of lipids
-Q03181,Cell differentiation
-Q03181,Regulation of lipids
-P31749,Cell differentiation
-P31749,Regulation of lipids
-P37231,Metabolism
-P37231,Regulation of lipids
-Q07869,Metabolism
-Q07869,Regulation of lipids
-Q03181,Metabolism
-Q03181,Regulation of lipids
-P37231,Cholesterol
-P37231,Regulation of lipids
-P37231,Cell growth
-P37231,Cell death
-P37231,Vasculature
-P37231,Cell growth
-P37231,Cell death
-P37231,Vasculature
-P09874,Cell growth
-P09874,Cell death
-P09874,Vasculature
-P37231,Cell death
-P37231,Muscles
-P37231,Cholesterol
-P37231,Molecular transport
-P37231,Circadian rhythm
-P06493,Circadian rhythm
-Q9Y2K7,Circadian rhythm
-P49841,Circadian rhythm
-Q13133,Circadian rhythm
-Q07869,Circadian rhythm
-O15379,Circadian rhythm
-P42345,Circadian rhythm
-P11388,Circadian rhythm
-P37231,Metabolism
-P37231,Regulation of lipids
-Q07869,Metabolism
-Q07869,Regulation of lipids
-Q03181,Metabolism
-Q03181,Regulation of lipids
-P37231,Regulation of lipids
-P37231,Response to environment
-Q07869,Regulation of lipids
-Q07869,Response to environment
-Q03181,Regulation of lipids
-Q03181,Response to environment
-P37231,Cell death
-P37231,Cell differentiation
-P37231,Cell growth
-P55055,Cell death
-P55055,Cell differentiation
-P55055,Cell growth
-P19793,Cell death
-P19793,Cell differentiation
-P19793,Cell growth
-P37231,Cell differentiation
-O95271,Cell cycle
-O95271,Cell proliferation
-P06493,Cell cycle
-P06493,Cell proliferation
-P30305,Cell cycle
-P30305,Cell proliferation
-Q00534,Cell cycle
-Q00534,Cell proliferation
-P51955,Cell cycle
-P51955,Cell proliferation
-Q9HC98,Cell cycle
-Q9HC98,Cell proliferation
-P04150,Cell cycle
-P04150,Cell proliferation
-P24941,Cell cycle
-P24941,Cell proliferation
-O95271,Molecular transport
-O14980,Molecular transport
-Q00613,Molecular transport
-O95271,Telomere maintenance
-P09874,Telomere maintenance
-O95271,Telomere maintenance
-O95271,Telomere maintenance
-Q96GD4,Telomere maintenance
-P27361,Telomere maintenance
-P28482,Telomere maintenance
-P51955,Telomere maintenance
-O95271,Telomere maintenance
-Q96GD4,Telomere maintenance
-P27361,Telomere maintenance
-P28482,Telomere maintenance
-P51955,Telomere maintenance
-O95271,Telomere maintenance
-Q96GD4,Telomere maintenance
-P27361,Telomere maintenance
-P28482,Telomere maintenance
-P51955,Telomere maintenance
-Q13315,Telomere maintenance
-O95271,Metabolism
-P09874,Metabolism
-O95271,Metabolism
-P09874,Metabolism
-O95271,Telomere maintenance
-O95271,Metabolism
-P09874,Metabolism
-O95271,Protein-protein interaction
-O95271,Ubiquitin-proteasome system
-O95271,Signal transduction
-P10415,Protein-protein interaction
-P10415,Ubiquitin-proteasome system
-P10415,Signal transduction
-Q9UBN7,Protein-protein interaction
-Q9UBN7,Ubiquitin-proteasome system
-Q9UBN7,Signal transduction
-P38398,Protein-protein interaction
-P38398,Ubiquitin-proteasome system
-P38398,Signal transduction
-O95271,Telomere maintenance
-Q13315,Telomere maintenance
-O95271,Cell death
-O95271,Cell differentiation
-O95271,Cell proliferation
-P43250,Cell death
-P43250,Cell differentiation
-P43250,Cell proliferation
-P68400,Cell death
-P68400,Cell differentiation
-P68400,Cell proliferation
-P29350,Inflammation
-P40763,Inflammation
-Q06124,Inflammation
-P42226,Inflammation
-Q04206,Inflammation
-P31749,Inflammation
-P10721,Inflammation
-P43005,Inflammation
-P29350,Immune system
-Q09472,Immune system
-Q06124,Immune system
-P10721,Immune system
-P29350,Immune system
-P29350,Immune system
-P29350,Inflammation
-P04062,Inflammation
-P29350,Immune system
-P29350,Metabolism
-Q05655,Metabolism
-P29350,Immune system
-P17706,Immune system
-P29350,Cell death
-P29350,Cell proliferation
-P29350,Cell differentiation
-P09211,Cell death
-P09211,Cell proliferation
-P09211,Cell differentiation
-Q9HC29,Cell death
-Q9HC29,Cell proliferation
-Q9HC29,Cell differentiation
-P30530,Cell death
-P30530,Cell proliferation
-P30530,Cell differentiation
-P36544,Cell death
-P36544,Cell proliferation
-P36544,Cell differentiation
-P29350,Metabolism
-P06213,Metabolism
-P04626,Metabolism
-Q14289,Metabolism
-P00533,Metabolism
-Q05397,Metabolism
-P06241,Metabolism
-P43405,Metabolism
-P12931,Metabolism
-P09619,Metabolism
-P35916,Metabolism
-P06239,Metabolism
-Q13627,Metabolism
-P00519,Metabolism
-P29350,Cell adhesion
-P43405,Cell adhesion
-P07949,Cell adhesion
-P29350,Cell proliferation
-Q99527,Cell proliferation
-P41595,Cell proliferation
-Q92769,Cell proliferation
-P30305,Cell proliferation
-P10415,Cell proliferation
-Q13547,Cell proliferation
-P06213,Cell proliferation
-P04626,Cell proliferation
-Q14289,Cell proliferation
-P00533,Cell proliferation
-Q05397,Cell proliferation
-P14174,Cell proliferation
-P09619,Cell proliferation
-Q04206,Cell proliferation
-P35916,Cell proliferation
-P31749,Cell proliferation
-P36544,Cell proliferation
-Q00613,Cell proliferation
-P10721,Cell proliferation
-P08069,Cell proliferation
-P68400,Cell proliferation
-P11926,Cell proliferation
-P24941,Cell proliferation
-P29350,Cell growth
-P29350,Cell proliferation
-P29350,Cell death
-P29350,Autophagy
-Q99527,Cell growth
-Q99527,Cell proliferation
-Q99527,Cell death
-Q99527,Autophagy
-P06213,Cell growth
-P06213,Cell proliferation
-P06213,Cell death
-P06213,Autophagy
-Q05397,Cell growth
-Q05397,Cell proliferation
-Q05397,Cell death
-Q05397,Autophagy
-Q03181,Cell growth
-Q03181,Cell proliferation
-Q03181,Cell death
-Q03181,Autophagy
-P12931,Cell growth
-P12931,Cell proliferation
-P12931,Cell death
-P12931,Autophagy
-P09619,Cell growth
-P09619,Cell proliferation
-P09619,Cell death
-P09619,Autophagy
-P10721,Cell growth
-P10721,Cell proliferation
-P10721,Cell death
-P10721,Autophagy
-P08069,Cell growth
-P08069,Cell proliferation
-P08069,Cell death
-P08069,Autophagy
-P29350,Cell death
-Q9UM73,Cell death
-P27695,Cell death
-P29466,Cell death
-Q07820,Cell death
-P04637,Cell death
-P55072,Cell death
-P31749,Cell death
-O14727,Cell death
-Q13315,Cell death
-P00519,Cell death
-P53355,Cell death
-P07858,Cell death
-P29350,Immune system
-P29350,Cell adhesion
-P29350,Cell differentiation
-P29350,Cell migration
-P29350,Cell proliferation
-P04626,Cell adhesion
-P04626,Cell differentiation
-P04626,Cell migration
-P04626,Cell proliferation
-P09211,Cell adhesion
-P09211,Cell differentiation
-P09211,Cell migration
-P09211,Cell proliferation
-P00533,Cell adhesion
-P00533,Cell differentiation
-P00533,Cell migration
-P00533,Cell proliferation
-P43405,Cell adhesion
-P43405,Cell differentiation
-P43405,Cell migration
-P43405,Cell proliferation
-P29350,Calcium signaling
-Q14289,Calcium signaling
-Q9HAS3,Molecular transport
-Q9HAS3,Molecular transport
-Q9HAS3,Molecular transport
-Q9HAS3,Molecular transport
-Q9HAS3,Molecular transport
-Q9HAS3,Molecular transport
-P40763,Cell proliferation
-Q96GD4,Cell proliferation
-P06493,Cell proliferation
-Q03181,Cell proliferation
-P12931,Cell proliferation
-P14679,Cell proliferation
-P04798,Cell proliferation
-P31749,Cell proliferation
-P50750,Cell proliferation
-P40763,Hormones
-P40763,Hormones
-P40763,Hormones
-P40763,Cell proliferation
-Q05397,Hormones
-Q05397,Cell proliferation
-P27986,Hormones
-P27986,Cell proliferation
-P40763,Inflammation
-P12931,Inflammation
-P40763,Hormones
-P40763,Autophagy
-P41595,Autophagy
-P10415,Autophagy
-P08581,Autophagy
-Q07820,Autophagy
-P42345,Autophagy
-P31749,Autophagy
-O75164,Autophagy
-P40763,Metablosim
-Q07869,Metablosim
-P40763,Cell differentiation
-P40763,Inflammation
-Q16665,Inflammation
-Q9HC29,Inflammation
-P40763,Inflammation
-Q9HC29,Inflammation
-P43405,Inflammation
-P40763,Inflammation
-P0DMV8,Inflammation
-Q9HC29,Inflammation
-P43405,Inflammation
-Q04206,Inflammation
-P40763,Immune system
-P0DMV8,Immune system
-Q9UM73,Immune system
-Q09472,Immune system
-Q9HC29,Immune system
-Q9NYA1,Immune system
-Q04206,Immune system
-O14920,Immune system
-P40763,Cell differentiation
-Q9HC29,Cell differentiation
-P12931,Cell differentiation
-P10721,Cell differentiation
-P40763,Molecular transport
-P02545,Molecular transport
-P04637,Molecular transport
-P43405,Molecular transport
-P27986,Molecular transport
-P31749,Molecular transport
-P40763,Immune system
-P40763,Inflammation
-P42226,Immune system
-P42226,Inflammation
-P40763,Hormones
-Q16678,Hormones
-P15559,Hormones
-P15428,Hormones
-P30531,Hormones
-P09619,Hormones
-P35354,Hormones
-P47898,Hormones
-P11474,Hormones
-P40763,Hormones
-P40763,Hormones
-P09960,Hormones
-P42226,Hormones
-P40763,Cell proliferation
-P10721,Cell proliferation
-P40763,Immune system
-P40763,Immune system
-Q16665,Mitochondria
-Q16665,Nervous system
-Q9UBN7,Mitochondria
-Q9UBN7,Nervous system
-Q16665,Immune system
-P00519,Immune system
-Q16665,Homeostasis
-Q16665,Response to environment
-P27986,Homeostasis
-P27986,Response to environment
-Q16665,Homeostasis
-Q16665,Response to environment
-Q16665,Inflammation
-P19838,Inflammation
-Q04206,Inflammation
-Q16665,Extracelluar matrix
-Q16665,Metabolism
-Q16665,Inflammation
-Q16665,Wound healing
-Q16665,Extracelluar matrix
-Q16665,Metabolism
-Q16665,Wound healing
-P49841,Wound healing
-Q16665,Metabolism
-Q16665,Response to environment
-Q16665,Cell death
-Q16665,Wound healing
-Q16665,Reactive oxygen species
-P10415,Reactive oxygen species
-P38398,Reactive oxygen species
-P11274,Reactive oxygen species
-P04637,Reactive oxygen species
-Q16665,Autophagy
-Q16665,Cell growth
-Q16665,Cell proliferation
-Q16665,Autophagy
-Q16665,Mitochondria
-P42858,Autophagy
-P42858,Mitochondria
-Q16665,Immune system
-Q16665,Immune system
-Q16665,Cell proliferation
-Q16665,Vasculature
-P41595,Cell proliferation
-P41595,Vasculature
-P05412,Cell proliferation
-P05412,Vasculature
-P35916,Cell proliferation
-P35916,Vasculature
-P31749,Cell proliferation
-P31749,Vasculature
-Q16665,Cell migration
-Q9UBN7,Cell migration
-Q13822,Cell migration
-P05412,Cell migration
-P12931,Cell migration
-P19174,Cell migration
-Q16665,Metabolism
-Q16665,Response to environment
-P06213,Metabolism
-P06213,Response to environment
-Q16665,Hormones
-Q16665,Metabolism
-Q16665,Hormones
-Q16665,Response to environment
-Q16665,Cell proliferation
-Q03181,Hormones
-Q03181,Response to environment
-Q03181,Cell proliferation
-Q16665,Autophagy
-Q16665,Vasculature
-Q16665,Cell growth
-Q16665,Cell proliferation
-P38398,Vasculature
-P38398,Cell growth
-P38398,Cell proliferation
-Q16678,Vasculature
-Q16678,Cell growth
-Q16678,Cell proliferation
-P35916,Vasculature
-P35916,Cell growth
-P35916,Cell proliferation
-P35354,Vasculature
-P35354,Cell growth
-P35354,Cell proliferation
-Q16665,Vasculature
-Q16665,Cell growth
-Q16665,Cell proliferation
-Q16665,Metabolism
-Q09472,Metabolism
-Q16665,Reactive oxygen species
-Q16665,Response to environment
-P10415,Response to environment
-Q16665,Reactive oxygen species
-P09211,Reactive oxygen species
-Q16665,Vasculature
-Q16665,Cell growth
-Q16665,Cell proliferation
-Q8TDS4,Metabolism
-Q8TDS4,Regulation of lipids
-Q9UM73,Metabolism
-Q9UM73,Regulation of lipids
-Q8TDS4,Immune system
-Q99714,Hormones
-Q99714,Hormones
-Q99714,Hormones
-P11712,Hormones
-P05177,Hormones
-Q16678,Hormones
-P10635,Hormones
-P04798,Hormones
-Q99714,Regulation of lipids
-Q03181,Regulation of lipids
-Q99714,Mitochondria
-P09874,Mitochondria
-P04035,Cholesterol
-P04035,Regulation of lipids
-P04035,Metabolism
-P04035,Metabolism
-P04035,Exocytosis
-P04035,Hormones
-P04035,Metabolism
-P09960,Inflammation
-P09960,Metabolism
-P09917,Inflammation
-P09917,Metabolism
-P43405,Inflammation
-P43405,Metabolism
-P09960,Response to environment
-Q13002,Nervous system
-Q13002,Nervous system
-P39086,Nervous system
-P43005,Nervous system
-Q13002,Cell cycle
-Q13002,Cell death
-P00533,Cell cycle
-P00533,Cell death
-P08069,Cell cycle
-P08069,Cell death
-Q96GD4,Cell death
-P42345,Cell death
-Q09472,Cell death
-O75604,Cell death
-P31749,Cell death
-Q92630,Cell death
-Q13315,Cell death
-Q99527,Signal transduction
-P47898,Signal transduction
-P21554,Signal transduction
-P34972,Signal transduction
-P41279,Cell cycle
-Q99527,Cell cycle
-Q92831,Cell cycle
-Q09472,Cell cycle
-Q05655,Cell cycle
-P12931,Cell cycle
-P27361,Cell cycle
-P28482,Cell cycle
-O75604,Cell cycle
-P68400,Cell cycle
-P04150,Cell cycle
-P35869,Cell cycle
-Q99527,Hormones
-P00533,Hormones
-Q00613,Hormones
-P08069,Hormones
-Q99527,Hormones
-Q99527,Hormones
-P27695,Hormones
-P12931,Hormones
-Q99527,Hormones
-P04150,Hormones
-Q99527,Immune system
-Q99527,Regulation of lipids
-Q99527,Cell death
-Q99527,Cell death
-P55210,Cell death
-P05412,Cell death
-P07339,Cell death
-Q07820,Cell death
-Q16678,Cell death
-P15428,Cell death
-P04637,Cell death
-P12931,Cell death
-P09619,Cell death
-P11388,Cell death
-P35354,Cell death
-O14727,Cell death
-P42858,Cell death
-P21554,Cell death
-Q13315,Cell death
-P00519,Cell death
-P53355,Cell death
-Q99527,Cell death
-P29466,Cell death
-P07339,Cell death
-P43405,Cell death
-Q00613,Cell death
-P53355,Cell death
-Q99527,Calcium signaling
-Q13936,Calcium signaling
-Q14289,Calcium signaling
-P48736,Calcium signaling
-P25024,Calcium signaling
-P00519,Calcium signaling
-P32302,Calcium signaling
-Q99527,Cell death
-P19174,Cell death
-Q99527,Cell migration
-Q99527,Cell proliferation
-Q99527,Cell adhesion
-Q99527,Cell differentiation
-Q99527,Cell migration
-Q99527,Cell proliferation
-P41595,Cell adhesion
-P41595,Cell differentiation
-P41595,Cell migration
-P41595,Cell proliferation
-Q02750,Cell adhesion
-Q02750,Cell differentiation
-Q02750,Cell migration
-Q02750,Cell proliferation
-Q14289,Cell adhesion
-Q14289,Cell differentiation
-Q14289,Cell migration
-Q14289,Cell proliferation
-P05412,Cell adhesion
-P05412,Cell differentiation
-P05412,Cell migration
-P05412,Cell proliferation
-P00533,Cell adhesion
-P00533,Cell differentiation
-P00533,Cell migration
-P00533,Cell proliferation
-Q9HC29,Cell adhesion
-Q9HC29,Cell differentiation
-Q9HC29,Cell migration
-Q9HC29,Cell proliferation
-P14174,Cell adhesion
-P14174,Cell differentiation
-P14174,Cell migration
-P14174,Cell proliferation
-P12931,Cell adhesion
-P12931,Cell differentiation
-P12931,Cell migration
-P12931,Cell proliferation
-P27361,Cell adhesion
-P27361,Cell differentiation
-P27361,Cell migration
-P27361,Cell proliferation
-P09619,Cell adhesion
-P09619,Cell differentiation
-P09619,Cell migration
-P09619,Cell proliferation
-Q06124,Cell adhesion
-Q06124,Cell differentiation
-Q06124,Cell migration
-Q06124,Cell proliferation
-P35916,Cell adhesion
-P35916,Cell differentiation
-P35916,Cell migration
-P35916,Cell proliferation
-P36544,Cell adhesion
-P36544,Cell differentiation
-P36544,Cell migration
-P36544,Cell proliferation
-P15056,Cell adhesion
-P15056,Cell differentiation
-P15056,Cell migration
-P15056,Cell proliferation
-P00519,Cell adhesion
-P00519,Cell differentiation
-P00519,Cell migration
-P00519,Cell proliferation
-Q99527,Cell death
-Q99527,Signal transduction
-Q99527,Muscles
-Q99527,Nervous system
-Q99527,Cell proliferation
-Q99527,Autophagy
-P35367,Muscles
-P35367,Nervous system
-P35367,Cell proliferation
-P35367,Autophagy
-Q99527,Hormones
-Q99527,Response to environment
-Q99527,Cell proliferation
-Q99527,Signal transduction
-Q9UM73,Signal transduction
-P06213,Signal transduction
-P04626,Signal transduction
-P07949,Signal transduction
-P35916,Signal transduction
-P36544,Signal transduction
-P10721,Signal transduction
-P08069,Signal transduction
-Q99527,Cellular respiration
-Q99527,Mitochondria
-P04637,Cellular respiration
-P04637,Mitochondria
-Q99527,Calcium signaling
-Q99527,Hormones
-Q99527,Vasodilatation
-Q03181,Vasodilatation
-P0DMV8,Metabolism
-P55072,Metabolism
-P0DMV8,Response to environment
-P0DMV8,Response to environment
-Q92769,Response to environment
-P55072,Response to environment
-P35354,Response to environment
-Q00613,Response to environment
-P0DMV8,Hormones
-O15118,Hormones
-P04150,Hormones
-P0DMV8,Molecular transport
-O15118,Molecular transport
-P0DMV8,Cell death
-P41595,Cell death
-O15118,Cell death
-O75164,Cell death
-P0DMV8,Cell death
-P10415,Cell death
-Q07820,Cell death
-P31749,Cell death
-P0DMV8,Cell component assembly
-Q00613,Cell component assembly
-P0DMV8,Cell death
-P0DMV8,Cellular respiration
-P0DMV8,Mitochondria
-P0DMV8,Ubiquitination
-Q9BY41,Ubiquitination
-P06241,Ubiquitination
-P31749,Ubiquitination
-P0DMV8,Response to environment
-P0DMV8,Cytoskeleton
-P0DMV8,Cell death
-P0DMV8,Cell proliferation
-P0DMV8,Cell differentiation
-P29466,Cell death
-P29466,Cell proliferation
-P29466,Cell differentiation
-P0DMV8,Protein folding
-P0DMV8,Ubiquitination
-P0DMV8,Protein folding
-P0DMV8,Molecular transport
-P02545,DNA damage response
-P02545,Cell death
-P09211,Cell death
-P12931,Cell death
-Q04206,Cell death
-P42858,Cell death
-P02545,Cell death
-P02545,Cellular respiration
-P02545,Mitochondria
-P31749,Cell death
-P31749,Cellular respiration
-P31749,Mitochondria
-P02545,Aging
-P04637,Aging
-P02545,Cell migration
-Q13822,Cell migration
-P31749,Cell migration
-P02545,Telomere maintenance
-Q9BY41,Telomere maintenance
-P04183,Metabolism
-P41595,Regulation of lipids
-P00533,Regulation of lipids
-P41595,Cell adhesion
-P41595,Cell differentiation
-P41595,Cell migration
-P41595,Cell proliferation
-P06493,Cell adhesion
-P06493,Cell differentiation
-P06493,Cell migration
-P06493,Cell proliferation
-Q02750,Cell adhesion
-Q02750,Cell differentiation
-Q02750,Cell migration
-Q02750,Cell proliferation
-P27361,Cell adhesion
-P27361,Cell differentiation
-P27361,Cell migration
-P27361,Cell proliferation
-P28482,Cell adhesion
-P28482,Cell differentiation
-P28482,Cell migration
-P28482,Cell proliferation
-P41595,Nervous system
-P41595,Nervous system
-P41595,Cell division
-P41595,Immune system
-P04406,Immune system
-P14174,Immune system
-P48736,Immune system
-P12931,Immune system
-P41595,Immune system
-P04406,Immune system
-P29466,Immune system
-P06241,Immune system
-Q9HC29,Immune system
-Q04206,Immune system
-O14920,Immune system
-Q9HC98,Immune system
-P00519,Immune system
-P41595,Signal transduction
-P41595,Calcium signaling
-P06239,Calcium signaling
-P41595,Vasoconstriction
-P05091,Metabolism
-P05091,Metabolism
-P05091,Metabolism
-P06213,Metabolism
-P15121,Metabolism
-P05091,Metabolism
-P05091,Metabolism
-P05091,Nervous system
-P05091,Metabolism
-P05091,Nervous system
-Q9UM73,Cell cycle
-P06213,Cell cycle
-Q12866,Cell cycle
-P08581,Cell cycle
-P04626,Cell cycle
-P00533,Cell cycle
-P54760,Cell cycle
-P09619,Cell cycle
-P30530,Cell cycle
-P07949,Cell cycle
-P35916,Cell cycle
-P10721,Cell cycle
-P08069,Cell cycle
-Q9UM73,Nervous system
-Q13554,Calcium signaling
-P10415,Calcium signaling
-P09917,Metabolism
-P09211,Metabolism
-P18054,Metabolism
-P09917,Immune system
-P10415,Immune system
-P09917,Inflammation
-P09917,Inflammation
-P09917,Metabolism
-P09917,Regulation of lipids
-P09917,Metabolism
-P09917,Regulation of lipids
-P33527,Metabolism
-P33527,Regulation of lipids
-P09917,Inflammation
-P09917,Regulation of lipids
-P09917,Metabolism
-P09917,Regulation of lipids
-P09211,Metabolism
-P09211,Regulation of lipids
-P18054,Metabolism
-P18054,Regulation of lipids
-P09917,Regulation of lipids
-P18054,Regulation of lipids
-P09917,Inflammation
-P09917,Inflammation
-P15428,Inflammation
-P18054,Inflammation
-P09917,Regulation of lipids
-P11712,Regulation of lipids
-P05177,Regulation of lipids
-P10635,Regulation of lipids
-P04798,Regulation of lipids
-P09917,Cell proliferation
-P09917,Vasculature
-P09917,Response to environment
-Q13133,Response to environment
-P55055,Response to environment
-P09917,Vasculature
-P09917,Wound healing
-P09917,Immune system
-P09917,Response to environment
-P09917,Inflammation
-Q16539,Inflammation
-P09917,Cell differentiation
-Q9UBN7,Cell differentiation
-P09917,Inflammation
-P29466,Inflammation
-Q9HC29,Inflammation
-Q04206,Inflammation
-P35354,Inflammation
-P09917,Inflammation
-P09917,Wound healing
-P09917,Hormones
-P09917,Response to environment
-P09917,Cell proliferation
-P49286,Hormones
-P49286,Response to environment
-P49286,Cell proliferation
-P21554,Hormones
-P21554,Response to environment
-P21554,Cell proliferation
-P09917,Reactive oxygen species
-P53667,Ubiquitination
-P00519,Ubiquitination
-P53667,Cell cycle
-P53667,Cytoskeleton
-P53667,Signal transduction
-P14902,Metabolism
-P14902,Immune system
-P14902,Metabolism
-P14902,Inflammation
-P14902,Immune system
-P14902,Cell death
-P14902,Immune system
-P14902,Inflammation
-P14902,Immune system
-Q9HC29,Immune system
-P43405,Immune system
-Q16539,Immune system
-Q04206,Immune system
-P14902,Cell death
-P14902,Immune system
-P14902,Immune system
-P14902,Immune system
-Q9HC29,Immune system
-P14902,Response to environment
-Q92769,Response to environment
-P27338,Response to environment
-P15428,Response to environment
-P04798,Response to environment
-P05186,Response to environment
-P35354,Response to environment
-P21554,Response to environment
-P34972,Response to environment
-P14902,Metabolism
-P14902,Metabolism
-O75874,Metabolism
-O75874,Metabolism
-P09211,Metabolism
-O75874,Metabolism
-O75874,Metabolism
-O75874,Metabolism
-O75874,Metabolism
-O75874,Regulation of lipids
-O75874,Metabolism
-O75874,Regulation of lipids
-O75874,Hormones
-O75874,Metabolism
-P00492,Metabolism
-P00492,Metabolism
-P00492,Metabolism
-P55263,Metabolism
-P00492,Metabolism
-P00492,Metabolism
-P00492,Metabolism
-P00492,Metabolism
-P00492,Metabolism
-P00492,Immune system
-P00492,Metabolism
-P00492,Nervous system
-P27338,Metabolism
-P27338,Nervous system
-P00492,Metabolism
-P00492,Metabolism
-P55263,Metabolism
-P00492,Immune system
-Q92769,Nervous system
-P27361,Nervous system
-P28482,Nervous system
-P00519,Nervous system
-Q92769,Response to environment
-Q92769,Vitamins
-P49841,Response to environment
-P49841,Vitamins
-Q14289,Response to environment
-Q14289,Vitamins
-P16220,Response to environment
-P16220,Vitamins
-P07949,Response to environment
-P07949,Vitamins
-Q13315,Response to environment
-Q13315,Vitamins
-Q92769,Circadian rhythm
-Q9Y2K7,Circadian rhythm
-Q13547,Circadian rhythm
-Q07869,Circadian rhythm
-O15379,Circadian rhythm
-Q03164,Circadian rhythm
-P11387,Circadian rhythm
-O75604,Circadian rhythm
-P35869,Circadian rhythm
-Q92769,Nervous system
-Q92769,Cell differentiation
-Q92769,Skin
-Q13547,Cell differentiation
-Q13547,Skin
-P10070,Cell differentiation
-P10070,Skin
-Q92769,Metabolism
-Q92769,Extracellular matrix
-Q92769,Metabolism
-P09619,Extracellular matrix
-P09619,Metabolism
-Q92769,Inflammation
-Q92769,Cell death
-Q92769,Cell proliferation
-Q92769,Immune system
-Q92769,Vasculature
-P06241,Cell death
-P06241,Cell proliferation
-P06241,Immune system
-P06241,Vasculature
-Q00613,Cell death
-Q00613,Cell proliferation
-Q00613,Immune system
-Q00613,Vasculature
-P10721,Cell death
-P10721,Cell proliferation
-P10721,Immune system
-P10721,Vasculature
-Q92769,Response to environment
-Q92769,Response to environment
-P09619,Response to environment
-P04798,Response to environment
-P06746,Response to environment
-Q92769,Response to environment
-P10415,Response to environment
-Q9UBS5,Response to environment
-P28482,Response to environment
-P36544,Response to environment
-P08069,Response to environment
-P21554,Response to environment
-P35367,Inflammation
-P35367,Response to environment
-P35367,Immune system
-P35367,Signal transduction
-P35367,Vasoconstriction
-O00519,Vasoconstriction
-P35354,Vasoconstriction
-P00519,Vasoconstriction
-P35367,Vasculature
-P11274,Vasculature
-P12931,Vasculature
-P06493,Aging
-P10415,Aging
-P04637,Aging
-P14174,Aging
-P06493,Cell component assembly
-P06493,Cytoskeleton
-P04406,Cytoskeleton
-Q13509,Cytoskeleton
-P06493,Cell cycle
-P00533,Cell cycle
-P10070,Cell cycle
-P06493,Cellular respiration
-P06493,Mitochondria
-P06493,Response to environment
-P15559,Response to environment
-P06493,Response to environment
-O15118,Response to environment
-P10721,Response to environment
-P06493,Response to environment
-P06493,Response to environment
-Q9UBS5,Response to environment
-P27338,Response to environment
-Q14289,Response to environment
-Q07869,Response to environment
-P15559,Response to environment
-P15428,Response to environment
-P06241,Response to environment
-P08069,Response to environment
-P06746,Response to environment
-P21554,Response to environment
-P06493,Response to environment
-P50281,Response to environment
-P06493,Response to environment
-P06493,Toxins
-P10415,Response to environment
-P10415,Toxins
-P27338,Response to environment
-P27338,Toxins
-Q16678,Response to environment
-Q16678,Toxins
-P15559,Response to environment
-P15559,Toxins
-P30531,Response to environment
-P30531,Toxins
-P09619,Response to environment
-P09619,Toxins
-P34913,Response to environment
-P34913,Toxins
-P35869,Response to environment
-P35869,Toxins
-Q9Y2K7,DNA damage response
-P09884,DNA damage response
-P06746,DNA damage response
-Q13315,DNA damage response
-Q02750,Cell cycle
-Q05655,Cell cycle
-Q16539,Cell cycle
-P08069,Cell cycle
-Q13315,Cell cycle
-P24941,Cell cycle
-Q02750,Cell differentiation
-Q02750,Skin
-P11274,Cell differentiation
-P11274,Skin
-Q02750,Cell proliferation
-Q02750,Cell death
-Q02750,Cell differentiation
-Q02750,Cell migration
-Q14289,Cell proliferation
-Q14289,Cell death
-Q14289,Cell differentiation
-Q14289,Cell migration
-P27361,Cell proliferation
-P27361,Cell death
-P27361,Cell differentiation
-P27361,Cell migration
-P07949,Cell proliferation
-P07949,Cell death
-P07949,Cell differentiation
-P07949,Cell migration
-Q00613,Cell proliferation
-Q00613,Cell death
-Q00613,Cell differentiation
-Q00613,Cell migration
-P15056,Cell proliferation
-P15056,Cell death
-P15056,Cell differentiation
-P15056,Cell migration
-Q02750,miRNA
-P00533,miRNA
-P04637,miRNA
-Q02750,Signal transduction
-P12931,Signal transduction
-Q02750,Cell component assembly
-Q02750,Molecular transport
-P12931,Cell component assembly
-P12931,Molecular transport
-P27361,Cell component assembly
-P27361,Molecular transport
-P28482,Cell component assembly
-P28482,Molecular transport
-Q02750,Cell component assembly
-P27361,Cell component assembly
-P28482,Cell component assembly
-Q02750,Response to environment
-Q02750,Cell proliferation
-Q02750,Cell death
-Q02750,Cell differentiation
-Q02750,Cell migration
-P09211,Response to environment
-P09211,Cell proliferation
-P09211,Cell death
-P09211,Cell differentiation
-P09211,Cell migration
-P27361,Response to environment
-P27361,Cell proliferation
-P27361,Cell death
-P27361,Cell differentiation
-P27361,Cell migration
-P28482,Response to environment
-P28482,Cell proliferation
-P28482,Cell death
-P28482,Cell differentiation
-P28482,Cell migration
-P30305,Signal transduction
-Q14289,Signal transduction
-Q05397,Signal transduction
-P10415,Cytoskeleton
-P10415,Immune system
-P10415,Cell adhesion
-P00533,Cell adhesion
-P12931,Cell adhesion
-P10415,Response to environment
-P29466,Response to environment
-P10415,Calcium signaling
-P10415,Cell death
-P49841,Cell death
-Q07820,Cell death
-P10415,Cell death
-P27986,Cell death
-P53355,Cell death
-P10415,Cell adhesion
-Q14289,Cell adhesion
-P11274,Cell adhesion
-P12931,Cell adhesion
-P10415,Cell cycle
-P10415,Cell proliferation
-Q06124,Cell cycle
-Q06124,Cell proliferation
-P10415,Cell death
-P38398,Cell death
-Q07820,Cell death
-P27986,Cell death
-P06746,Cell death
-Q13315,Cell death
-P00519,Cell death
-P10415,Cell death
-O75460,Cell death
-P04637,Cell death
-O14727,Cell death
-P10415,Cell death
-Q16678,Cell death
-Q05655,Cell death
-P10415,Metabolism
-P10415,Skin
-P10415,Cell differentiation
-P10415,Skin
-O75030,Cell differentiation
-O75030,Skin
-O75030,Cell differentiation
-O75030,Skin
-P10721,Cell differentiation
-P10721,Skin
-P10415,Cell development
-P10415,Cell death
-P68400,Cell death
-P10415,Calcium signaling
-P10415,Molecular transport
-P10415,Cell migration
-Q16678,Cell migration
-O75030,Cell migration
-O75030,Cell migration
-P14174,Cell migration
-P10415,Regulation of pH
-P10415,Cell death
-Q13547,Cell death
-Q07820,Cell death
-P12931,Cell death
-P10415,Cell death
-P10415,DNA damage response
-P14174,Cell death
-P14174,DNA damage response
-P10415,Mitochondria
-P12931,Mitochondria
-P10415,Cell death
-P10415,Immune system
-P14174,Cell death
-P14174,Immune system
-P10415,Skin
-P10415,Metabolism
-P10415,Cell growth
-P04626,Cell growth
-Q14289,Cell growth
-P00533,Cell growth
-P50281,Cell growth
-Q9NYA1,Cell growth
-P31749,Cell growth
-P68400,Cell growth
-P10415,Cell differentiation
-P10415,Skin
-P10415,Metabolism
-P10415,Reactive oxygen species
-P10415,Metabolism
-P10415,Cellular respiration
-P10415,Mitochondria
-P10415,Cellular respiration
-P10415,Mitochondria
-P10415,Metabolism
-P10415,Molecular transport
-P10415,Mitochondria
-P04637,Mitochondria
-P10415,Immunsystem
-P10415,Inflammation
-Q07820,Immunsystem
-Q07820,Inflammation
-Q04206,Immunsystem
-Q04206,Inflammation
-P10415,Immunsystem
-P10415,Inflammation
-P10415,Response to environment
-P05186,Immunsystem
-P05186,Inflammation
-P05186,Response to environment
-P35354,Immunsystem
-P35354,Inflammation
-P35354,Response to environment
-P35573,Immunsystem
-P35573,Inflammation
-P35573,Response to environment
-P80365,Immunsystem
-P80365,Inflammation
-P80365,Response to environment
-P10415,Response to environment
-Q14289,Response to environment
-P06241,Response to environment
-P09619,Response to environment
-P10415,Response to environment
-P56818,Response to environment
-P56819,Response to environment
-P56817,Response to environment
-P10415,UV
-P10415,Response to environment
-Q04206,UV
-Q04206,Response to environment
-P10415,Immune system
-P49841,Immune system
-P49841,Response to environment
-P04637,Response to environment
-P49841,Nervous system
-P31749,Nervous system
-P49841,Metabolism
-P06737,Metabolism
-P49841,Immune system
-P42345,Immune system
-Q92630,Immune system
-P49841,Nervous system
-P49841,Cell death
-P38398,Cell death
-P49841,Metabolism
-P49841,Metabolism
-P49841,Cell death
-P49841,Nervous system
-Q07869,Cell death
-Q07869,Nervous system
-P31749,Cell death
-P31749,Nervous system
-Q00613,Cell death
-Q00613,Nervous system
-P04062,Cell death
-P04062,Nervous system
-P49841,Localization
-P49841,Nervous system
-Q14289,Nervous system
-P49841,Nervous system
-P49841,Cell differentiation
-P49841,Cell adhesion
-Q00534,Cell adhesion
-Q14289,Cell adhesion
-P49841,Cell component assembly
-P42858,Cell component assembly
-P49841,Metabolism
-P04626,Metabolism
-P49841,Cell death
-P49841,Mitochondria
-P49841,Cell death
-P49841,Nervous system
-P06241,Cell death
-P06241,Nervous system
-P09874,Cell death
-P09874,Nervous system
-P49841,Molecular transport
-P49841,Cytoskeleton
-P49841,Cell component assembly
-P49841,Cell component assembly
-P49841,Nervous system
-P00519,Nervous system
-P49841,Nervous system
-P07949,Nervous system
-P49841,Response to environment
-P42345,Response to environment
-Q09472,Response to environment
-Q00613,Response to environment
-Q13315,Response to environment
-Q92793,Response to environment
-P49841,Nervous system
-P49841,Cytoskeleton
-P49841,Cytoskeleton
-P04626,Cytoskeleton
-P49841,Cytoskeleton
-P49841,Nervous system
-P31749,Nervous system
-P49841,Molecular transport
-Q06124,Molecular transport
-O14980,Molecular transport
-O75496,Cell cycle
-Q00534,Cell cycle
-P15428,Cell cycle
-P35354,Cell cycle
-Q13547,Cell proliferation
-Q13547,Cell growth
-Q13547,Cell differentiation
-Q13547,Vasculature
-P06241,Cell proliferation
-P06241,Cell growth
-P06241,Cell differentiation
-P06241,Vasculature
-P12931,Cell proliferation
-P12931,Cell growth
-P12931,Cell differentiation
-P12931,Vasculature
-Q13547,Hormones
-Q13547,Immune system
-P09211,Immune system
-P00519,Immune system
-P06213,Cell growth
-P06213,Cell proliferation
-P04626,Cell growth
-P04626,Cell proliferation
-Q9NYA1,Cell growth
-Q9NYA1,Cell proliferation
-P06213,Nervous system
-P06213,Metabolism
-Q14289,Metabolism
-P00533,Metabolism
-P12931,Metabolism
-P27361,Metabolism
-P08069,Metabolism
-Q13627,Metabolism
-P00519,Metabolism
-P06213,Development
-P06213,Metabolism
-P31749,Metabolism
-Q92630,Metabolism
-P06213,Meiosis
-P06213,Mitosis
-P06213,Cell cycle
-Q9NYA1,Mitosis
-Q9NYA1,Cell cycle
-P09619,Mitosis
-P09619,Cell cycle
-P06213,Protein-protein interaction
-P08069,Protein-protein interaction
-P04062,Protein-protein interaction
-P06213,Endocytosis
-P43405,Endocytosis
-P06213,Endocytosis
-P06213,Viruses
-O15118,Viruses
-P30530,Viruses
-P07858,Viruses
-Q9UBN7,Cell component assembly
-Q9UBN7,Misfolded protein degradation
-P55072,Cell component assembly
-P55072,Misfolded protein degradation
-Q9UBN7,Misfolded protein degradation
-Q9UBN7,Misfolded protein degradation
-Q9UBN7,Nervous system
-P00519,Nervous system
-Q9UBN7,Misfolded protein degradation
-Q9UBN7,Response to environment
-Q9UBN7,Molecular transport
-Q9UBN7,Molecular transport
-Q9UBN7,Autophagy
-Q9UBN7,Metabolism
-Q9UBN7,Cytoskeleton
-Q9UBN7,Protein-protein interaction
-Q9UBN7,Proteolysis
-Q13133,Proteolysis
-P55055,Proteolysis
-P04637,Proteolysis
-P31749,Proteolysis
-Q9UBN7,Mitochondria
-Q9UBN7,Autophagy
-Q9UBN7,Metabolism
-Q969S8,Metabolism
-Q9UBN7,Molecular transport
-Q9UBN7,Cell death
-P00519,Cell death
-Q9UBN7,Protein-protein interaction
-Q9UBN7,Misfolded protein degradation
-Q9UBN7,Hormones
-Q09472,Hormones
-Q16512,Hormones
-Q9UBN7,Autophagy
-Q09472,Autophagy
-Q13315,Autophagy
-P00519,Autophagy
-P53355,Autophagy
-Q9UBN7,Mitochondria
-Q9UBN7,Autophagy
-Q9UBN7,Molecular transport
-P07339,Molecular transport
-Q9UBN7,Autophagy
-O75460,Autophagy
-P04406,Autophagy
-P42345,Autophagy
-P04062,Autophagy
-Q9UBN7,Cell motility
-Q9UBN7,Cytoskeleton
-Q9UBN7,Cell growth
-Q9UBN7,Cell proliferation
-P31749,Cell growth
-P31749,Cell proliferation
-Q9UBN7,Misfolded protein degradation
-Q9UBN7,Cytoskeleton
-Q9UBN7,Metabolism
-O15118,Molecular transport
-P15056,Molecular transport
-O15118,Regulation of lipids
-O00748,Metabolism
-O00748,Hormones
-O00748,Metabolism
-P09211,Hormones
-P09211,Metabolism
-P15428,Hormones
-P15428,Metabolism
-P48147,Proteolysis
-P55210,Proteolysis
-P29466,Proteolysis
-P07339,Proteolysis
-P50281,Proteolysis
-P14735,Proteolysis
-P56818,Proteolysis
-P56819,Proteolysis
-P56817,Proteolysis
-P07858,Proteolysis
-P10415,Cell cycle
-P10415,Mitosis
-Q9GZU7,Cell cycle
-Q9GZU7,Mitosis
-Q9GZU7,Nervous system
-Q9GZU7,Nervous system
-P06493,Cell death
-P10415,Cell death
-P55210,Cell death
-Q14289,Cell death
-P29466,Cell death
-P19838,Cell death
-Q03164,Cell death
-Q09472,Cell death
-Q05655,Cell death
-Q16539,Cell death
-Q03181,Cell death
-P27361,Cell death
-P09874,Cell death
-P28482,Cell death
-O14727,Cell death
-Q9HC98,Cell death
-P42858,Cell death
-P68400,Cell death
-P04150,Cell death
-P53355,Cell death
-P35869,Cell death
-P55210,Cell death
-P31749,Cell death
-P55210,UV
-P55210,Response to environment
-P14679,UV
-P14679,Response to environment
-Q12866,Immune system
-P30530,Immune system
-Q12866,Immune system
-Q12866,Immune system
-Q12866,Cell death
-Q12866,Immune system
-P30530,Immune system
-Q12866,Immune system
-P30530,Immune system
-Q12866,Endocytosis
-P11274,Endocytosis
-Q9HC29,Endocytosis
-Q12866,Cell adhesion
-P27986,Cell adhesion
-P12931,Cell adhesion
-P30530,Cell adhesion
-P00519,Cell adhesion
-O43570,Molecular transport
-Q9ULX7,Metabolism
-O43570,Metabolism
-Q9Y2D0,Metabolism
-Q8N1Q1,Metabolism
-P00374,Metabolism
-P00918,Metabolism
-Q13936,Molecular transport
-Q13936,Molecular transport
-Q13936,Molecular transport
-Q13936,Calcium signaling
-Q13936,Metabolism
-Q9Y2D0,Bacteria
-P06737,Bacteria
-Q00534,Cell differentiation
-Q00534,Nervous system
-Q00534,Cell differentiation
-P04637,Cell differentiation
-Q00534,Cell differentiation
-P28482,Cell differentiation
-Q00534,Cell cycle
-P00519,Cell cycle
-Q00534,Cell proliferation
-Q03181,Cell proliferation
-Q00534,Immune system
-Q00534,Cell differentiation
-Q00534,Skin
-Q00534,Cell proliferation
-P05412,Skin
-P05412,Cell proliferation
-P00533,Skin
-P00533,Cell proliferation
-P14174,Skin
-P14174,Cell proliferation
-Q9NYA1,Skin
-Q9NYA1,Cell proliferation
-P09619,Skin
-P09619,Cell proliferation
-P00519,Skin
-P00519,Cell proliferation
-Q00534,Cell motility
-Q16512,Cell motility
-P00519,Cell motility
-Q00534,Cell differentiation
-Q00534,Immune system
-Q00534,Cell differentiation
-P00519,Immune system
-P00519,Cell differentiation
-Q00534,Viruses
-P12931,Viruses
-P04798,Viruses
-P08172,Viruses
-O14920,Viruses
-P11926,Viruses
-P11712,Metabolism
-P11712,Regulation of lipids
-P11712,Metabolism
-P05177,Regulation of lipids
-P05177,Metabolism
-Q16678,Regulation of lipids
-Q16678,Metabolism
-P04798,Regulation of lipids
-P04798,Metabolism
-P11712,Metabolism
-P11712,Metabolism
-P05177,Metabolism
-P11712,Metabolism
-P05177,Metabolism
-P10635,Metabolism
-P11712,Regulation of lipids
-P11712,Metabolism
-P05177,Regulation of lipids
-P05177,Metabolism
-Q16678,Regulation of lipids
-Q16678,Metabolism
-P04798,Regulation of lipids
-P04798,Metabolism
-P11712,Metabolism
-P10635,Metabolism
-P11712,Metabolism
-P05177,Metabolism
-P10635,Metabolism
-P11712,Hormones
-P11712,Metabolism
-Q16678,Hormones
-Q16678,Metabolism
-P10635,Hormones
-P10635,Metabolism
-P04798,Hormones
-P04798,Metabolism
-P11712,Metabolism
-P11712,Metabolism
-P05177,Metabolism
-P10635,Metabolism
-P11712,Metabolism
-P05177,Metabolism
-P16152,Metabolism
-P09211,Metabolism
-Q16678,Metabolism
-P15559,Metabolism
-P10635,Metabolism
-P04798,Metabolism
-P35869,Metabolism
-P08581,Development
-P08581,Skin
-P18054,Skin
-P08581,Cell death
-P08581,Cell cycle
-P08581,Cytoskeleton
-P08581,Signal transduction
-P08581,Cytoskeleton
-P27986,Cytoskeleton
-P08581,Immune system
-P08581,Cell growth
-P08581,Chemotaxis
-P08581,Chemotaxis
-P08581,Cytoskeleton
-P08581,Development
-P08581,Nervous system
-O75460,Vasculature
-O75460,Cell growth
-O75460,Cell proliferation
-Q16539,Vasculature
-Q16539,Cell growth
-Q16539,Cell proliferation
-Q9NYA1,Vasculature
-Q9NYA1,Cell growth
-Q9NYA1,Cell proliferation
-Q04206,Vasculature
-Q04206,Cell growth
-Q04206,Cell proliferation
-P35916,Vasculature
-P35916,Cell growth
-P35916,Cell proliferation
-P31749,Vasculature
-P31749,Cell growth
-P31749,Cell proliferation
-O75460,Metabolism
-P14735,Metabolism
-O75460,Misfolded protein degradation
-P27986,Misfolded protein degradation
-O75460,Muscles
-O75460,Cell proliferation
-P05412,Muscles
-P05412,Cell proliferation
-P15428,Muscles
-P15428,Cell proliferation
-P26358,Muscles
-P26358,Cell proliferation
-O75460,Response to environment
-P27986,Response to environment
-P07237,Response to environment
-P00519,Response to environment
-P10415,DNA damage response
-P38398,DNA damage response
-P04637,DNA damage response
-P09874,DNA damage response
-P55072,DNA damage response
-P28482,DNA damage response
-P11388,DNA damage response
-P06746,DNA damage response
-Q92630,DNA damage response
-Q13315,DNA damage response
-P00519,DNA damage response
-P54132,DNA damage response
-P38398,Hormones
-P38398,Metabolism
-P38398,DNA damage response
-P04637,DNA damage response
-Q16539,DNA damage response
-P54132,DNA damage response
-P38398,X chromosome inactivation
-P38398,Regulation of lipids
-P38398,Cell cycle
-Q92831,Cell cycle
-P38398,Regulation of lipids
-P38398,Hormones
-P38398,DNA damage response
-P00533,DNA damage response
-P38398,Ubiquitin-proteasome system
-P38398,Autophagy
-P38398,Protein-protein interaction
-O15379,Ubiquitin-proteasome system
-O15379,Autophagy
-O15379,Protein-protein interaction
-Q9NYA1,Ubiquitin-proteasome system
-Q9NYA1,Autophagy
-Q9NYA1,Protein-protein interaction
-P38398,DNA damage response
-P38398,Ubiquitin-proteasome system
-P38398,Autophagy
-P38398,Protein-protein interaction
-P38398,DNA damage response
-P38398,Autophagy
-P38398,Hormones
-P50281,Hormones
-Q09472,Hormones
-P09619,Hormones
-P04062,Hormones
-P38398,DNA damage response
-Q13315,DNA damage response
-Q9UBS5,Nervous system
-P28566,Nervous system
-Q9UBS5,Nervous system
-Q9UBS5,Metabolism
-Q9UBS5,Nervous system
-P21554,Nervous system
-Q9UBS5,Hormones
-Q9UBS5,Nervous system
-Q9UBS5,Nervous system
-Q9UBS5,Nervous system
-Q9UBS5,Hormones
-Q9UBS5,Cell proliferation
-P04626,Nervous system
-P04626,Nervous system
-P04626,Immune system
-P04626,Nervous system
-P04626,Cell adhesion
-P07237,Cell adhesion
-Q13315,Cell adhesion
-P04626,Cell proliferation
-P00533,Cell proliferation
-Q9HC29,Cell proliferation
-P04626,Molecular transport
-P06241,Molecular transport
-P04626,Vasculature
-Q13822,Vasculature
-Q02750,Cell motility
-Q13822,Cell motility
-P50281,Cell motility
-Q05397,Cell motility
-Q13822,Metabolism
-Q13822,Regulation of lipids
-Q13822,Metabolism
-P19174,Regulation of lipids
-P19174,Metabolism
-Q13822,Cell motility
-P12931,Cell motility
-Q13822,Metabolism
-Q14289,Metabolism
-P42345,Metabolism
-Q9HC29,Metabolism
-P04637,Metabolism
-P43405,Metabolism
-P14174,Metabolism
-P12931,Metabolism
-Q06124,Metabolism
-P00519,Metabolism
-Q13822,Regulation of lipids
-Q13822,Metabolism
-O00519,Regulation of lipids
-O00519,Metabolism
-Q03181,Regulation of lipids
-Q03181,Metabolism
-O00519,Metabolism
-P27695,DNA damage response
-P06746,DNA damage response
-P27695,DNA damage response
-P06746,DNA damage response
-P27695,Metabolism
-P27695,Muscles
-Q03181,Muscles
-P27695,Cell cycle
-P00533,Cell cycle
-P04798,Cell cycle
-P31749,Cell cycle
-P27695,Telomere maintenance
-P09874,Telomere maintenance
-Q13315,Telomere maintenance
-P54132,Telomere maintenance
-P27695,Telomere maintenance
-P27338,Metabolism
-P27338,Nervous system
-P21397,Metabolism
-P21397,Nervous system
-P27338,Reactive oxygen species
-P05177,Reactive oxygen species
-P04798,Reactive oxygen species
-P27338,Nervous system
-P21554,Nervous system
-P27338,Metabolism
-P27338,Nervous system
-P21397,Metabolism
-P21397,Nervous system
-P27338,Hormones
-P05177,Metabolism
-P10635,Metabolism
-P05177,Cellular respiration
-P05177,Metabolism
-P05177,Metabolism
-P10635,Metabolism
-P05177,Metabolism
-P04798,Metabolism
-P05177,Metabolism
-Q16678,Metabolism
-P10635,Metabolism
-P04798,Metabolism
-P00352,Metabolism
-P05177,Hormones
-P05177,Metabolism
-P05177,Toxins
-Q14289,Metabolism
-P11274,Metabolism
-Q14289,Immune system
-Q14289,Immune system
-P06241,Immune system
-P43405,Immune system
-P48736,Immune system
-Q14289,Vasculature
-Q14289,Response to environment
-Q04206,Response to environment
-Q14289,Immune system
-Q14289,Muscles
-Q14289,Nervous system
-Q14289,Cell adhesion
-Q05397,Cell adhesion
-P43405,Cell adhesion
-P12931,Cell adhesion
-Q06124,Cell adhesion
-P00519,Cell adhesion
-Q14289,Nervous system
-Q14289,Molecular transport
-Q14289,Cytoskeleton
-P42345,Cytoskeleton
-Q14289,Metabolism
-Q16678,Metabolism
-P12931,Metabolism
-P09619,Metabolism
-P55789,Metabolism
-Q14289,Nervous system
-P36544,Nervous system
-Q14289,Immune system
-Q14289,Cell death
-Q14289,Metabolism
-Q9HC29,Immune system
-Q9HC29,Cell death
-Q9HC29,Metabolism
-P35916,Immune system
-P35916,Cell death
-P35916,Metabolism
-Q14289,Cell growth
-Q14289,Cell proliferation
-Q14289,Cell death
-Q14289,Autophagy
-Q05397,Cell growth
-Q05397,Cell proliferation
-Q05397,Cell death
-Q05397,Autophagy
-Q9HC29,Cell growth
-Q9HC29,Cell proliferation
-Q9HC29,Cell death
-Q9HC29,Autophagy
-P12931,Cell growth
-P12931,Cell proliferation
-P12931,Cell death
-P12931,Autophagy
-P09619,Cell growth
-P09619,Cell proliferation
-P09619,Cell death
-P09619,Autophagy
-P10721,Cell growth
-P10721,Cell proliferation
-P10721,Cell death
-P10721,Autophagy
-Q14289,Nervous system
-P35354,Nervous system
-Q14289,Metabolism
-Q05397,Metabolism
-Q14289,Cytoskeleton
-P00519,Cytoskeleton
-Q14289,Calcium signaling
-Q14289,Cell adhesion
-Q05397,Cell adhesion
-P07949,Cell adhesion
-P00519,Cell adhesion
-Q14289,Cytoskeleton
-Q05397,Cytoskeleton
-P06241,Cytoskeleton
-P10721,Cytoskeleton
-Q14289,Muscles
-Q14289,Nervous system
-Q14289,Cell proliferation
-Q14289,Autophagy
-Q14289,Immune system
-Q14289,Nervous system
-P53355,Nervous system
-Q14289,Metabolism
-Q14289,Response to environment
-Q14289,Calcium signaling
-P30531,Response to environment
-P30531,Calcium signaling
-Q14289,Response to environment
-P14679,Response to environment
-Q14289,Response to environment
-Q03181,Response to environment
-Q14289,Hormones
-Q14289,Response to environment
-P15559,Hormones
-P15559,Response to environment
-Q14289,Response to environment
-P04798,Response to environment
-Q14289,Response to environment
-P50281,Response to environment
-P12931,Response to environment
-Q14289,Response to environment
-Q14289,Protein-protein interaction
-Q05397,Protein-protein interaction
-P12931,Protein-protein interaction
-Q14289,Vasculature
-P35916,Vasculature
-Q14289,Cytoskeleton
-P12931,Cytoskeleton
-Q14289,Vasculature
-Q14289,Cell growth
-Q14289,Cell proliferation
-Q05397,Vasculature
-Q05397,Cell growth
-Q05397,Cell proliferation
-P06241,Vasculature
-P06241,Cell growth
-P06241,Cell proliferation
-Q16539,Vasculature
-Q16539,Cell growth
-Q16539,Cell proliferation
-P12931,Vasculature
-P12931,Cell growth
-P12931,Cell proliferation
-P30530,Vasculature
-P30530,Cell growth
-P30530,Cell proliferation
-P35916,Vasculature
-P35916,Cell growth
-P35916,Cell proliferation
-P39086,Nervous system
-P21554,Nervous system
-P05412,Calcium signaling
-P15056,Calcium signaling
-P05412,Reactive oxygen species
-P00533,Reactive oxygen species
-P27361,Reactive oxygen species
-P28482,Reactive oxygen species
-P31749,Reactive oxygen species
-P05412,Cell differentiation
-P05412,Nervous system
-P05412,Viruses
-Q09472,Viruses
-P50750,Viruses
-P05412,Response to environment
-Q04206,Response to environment
-P51570,Metabolism
-P51570,Metabolism
-P51570,Metabolism
-P51570,Metabolism
-P04066,Metabolism
-P04066,Metabolism
-P04066,Metabolism
-P04406,Immune system
-P04406,Immune system
-P29466,Immune system
-P53355,Immune system
-P04406,Immune system
-P04406,Immune system
-P04406,Cell cycle
-P00374,Cell cycle
-P53355,Cell cycle
-P04406,Metabolism
-P04406,Immune system
-P43405,Immune system
-P29466,Response to environment
-P11166,Response to environment
-P19838,Response to environment
-P27361,Response to environment
-P35354,Response to environment
-P08069,Response to environment
-P29466,Immune system
-P29466,Inflammation
-P33527,Inflammation
-P29466,Proteolysis
-P09874,Proteolysis
-P29466,Immune system
-P29466,Cell death
-P07339,Immune system
-P07339,Metabolism
-Q13315,Metabolism
-P16152,Vitamins
-P16152,Metabolism
-P09211,Nervous system
-P09211,Metabolism
-P09211,Inflammation
-P09211,Skin
-P09211,Cell proliferation
-P04637,Skin
-P04637,Cell proliferation
-P09211,Immune system
-P09211,Immune system
-P09211,Cell death
-P09211,Metabolism
-P09211,Immune system
-P09211,Cell proliferation
-P09211,Cell death
-P09211,Cell differentiation
-P09211,Cell migration
-P08069,Cell proliferation
-P08069,Cell death
-P08069,Cell differentiation
-P08069,Cell migration
-P09211,Immune system
-P09211,Vasodilatation
-P09211,Cell proliferation
-P09211,Cell death
-P09211,Cell differentiation
-P09211,Cell migration
-P09211,Reactive oxygen species
-Q05655,Reactive oxygen species
-P43405,Reactive oxygen species
-P00533,Calcium signaling
-P00533,Cytoskeleton
-Q16539,Cytoskeleton
-P00533,Hair
-P00533,Development
-Q04206,Hair
-Q04206,Development
-P00533,Cytoskeleton
-P00533,Cell-cell junction
-P00533,Cell migration
-P00533,Cell proliferation
-P17706,Cell migration
-P17706,Cell proliferation
-P00533,Cell cycle
-P12931,Cell cycle
-P31749,Cell cycle
-P00533,Immune system
-Q09472,Immune system
-Q9HC29,Immune system
-Q9NYA1,Immune system
-Q04206,Immune system
-P00533,Vasodilatation
-P00533,Cell cycle
-P00533,Molecular transport
-P00533,Vasodilatation
-P00533,Metabolism
-P06241,Metabolism
-P00533,Cell growth
-P00533,Cell proliferation
-P00533,Cell death
-P00533,Autophagy
-P00533,UV
-P00533,Response to environment
-P31749,UV
-P31749,Response to environment
-P11166,Response to environment
-P11166,Molecular transport
-P11166,Molecular transport
-Q03181,Molecular transport
-P11166,Metabolism
-P11166,Metabolism
-P11166,Regulation of lipids
-Q16875,Metabolism
-Q16875,Metabolism
-P54760,Nervous system
-Q05397,Nervous system
-P06241,Nervous system
-Q13509,Nervous system
-P07949,Nervous system
-P10070,Nervous system
-P54760,Cell migration
-P54760,Vasculature
-P31749,Cell migration
-P31749,Vasculature
-P54760,Nervous system
-P54760,Vasculature
-P54760,Cell differentiation
-Q05397,Nervous system
-Q05397,Vasculature
-Q05397,Cell differentiation
-P06241,Nervous system
-P06241,Vasculature
-P06241,Cell differentiation
-P12931,Nervous system
-P12931,Vasculature
-P12931,Cell differentiation
-Q06124,Nervous system
-Q06124,Vasculature
-Q06124,Cell differentiation
-Q13133,Cell death
-Q13133,Response to environment
-P55055,Response to environment
-P00352,Response to environment
-Q13133,Regulation of lipids
-P55055,Regulation of lipids
-Q13133,Immune system
-Q13133,Endocytosis
-P55055,Endocytosis
-Q13133,Proteolysis
-Q13133,Autophagy
-Q13133,Metabolism
-P55055,Metabolism
-Q13133,Metabolism
-P55055,Metabolism
-P31749,Metabolism
-Q13133,Molecular transport
-Q13133,Regulation of lipids
-P55055,Molecular transport
-P55055,Regulation of lipids
-Q13133,Regulation of lipids
-P55055,Regulation of lipids
-Q13133,Regulation of lipids
-P55055,Regulation of lipids
-Q13133,Immune system
-Q13133,Metabolism
-Q13133,Regulation of lipids
-P55055,Metabolism
-P55055,Regulation of lipids
-Q13133,Hormones
-Q13133,Regulation of lipids
-Q13133,Regulation of lipids
-Q07869,Autophagy
-Q07869,Response to environment
-P42345,Autophagy
-P42345,Response to environment
-P04062,Autophagy
-P04062,Response to environment
-Q07869,Regulation of lipids
-Q07869,Metabolism
-Q07869,Regulation of lipids
-Q07869,Inflammation
-Q07869,Immune system
-P31749,Immune system
-Q07869,Reactive oxygen species
-Q07869,Metabolism
-P55072,Metabolism
-Q07869,Regulation of lipids
-Q07869,Regulation of lipids
-Q03181,Regulation of lipids
-Q07869,Metabolism
-Q92831,Metabolism
-P17706,Metabolism
-Q07869,Regulation of lipids
-P42345,Regulation of lipids
-P16220,Regulation of lipids
-P31749,Regulation of lipids
-Q07869,Viruses
-Q07869,Metabolism
-Q07869,Regulation of lipids
-Q07869,Molecular transport
-Q07869,Regulation of lipids
-Q07820,Cell differentiation
-Q07820,Cell death
-Q07820,Nervous system
-Q07820,DNA damage response
-P00519,DNA damage response
-P19838,Virus
-P19838,Immune system
-Q04206,Immune system
-P19838,Response to environment
-Q04206,Response to environment
-P19838,Metabolism
-P14174,Metabolism
-P19838,Molecular transport
-P19838,Regulation of lipids
-P19838,Immune system
-Q9HC29,Immune system
-P19838,Vitamins
-P19838,Extracellular matrix
-P19838,Regulation of lipids
-P55055,Regulation of lipids
-P19838,Immune system
-P19838,Metabolism
-Q04206,Metabolism
-P09917,Metabolism
-P09917,Regulation of lipids
-O00519,Metabolism
-O00519,Regulation of lipids
-Q16678,Metabolism
-Q16678,Regulation of lipids
-P10635,Metabolism
-P10635,Regulation of lipids
-P18054,Metabolism
-P18054,Regulation of lipids
-Q16678,Metabolism
-Q16678,Hormones
-Q16678,Hormones
-Q16678,Response to environment
-Q9HC29,Response to environment
-P04798,Response to environment
-P05186,Response to environment
-P43005,Response to environment
-Q16678,Hormones
-P12931,Hormones
-P08069,Hormones
-Q16678,Extracellular matrix
-Q16678,Cell adhesion
-Q16678,Hormones
-P08069,Hormones
-Q16678,Metabolism
-Q16678,Regulation of lipids
-Q16678,Cell adhesion
-Q06124,Cell adhesion
-Q16678,Immune system
-Q9HC29,Immune system
-Q16678,Vasodilatation
-P15559,Vasodilatation
-P31749,Vasodilatation
-Q16678,Reactive oxygen species
-Q16678,Hormones
-Q16678,Hormones
-Q16678,Response to environment
-Q16678,Metabolism
-Q16678,Toxins
-Q16678,Metabolism
-P50281,Extracellular matrix
-P50281,Metabolism
-P07858,Extracellular matrix
-P07858,Metabolism
-P50281,Cell differentiation
-P50281,Skin
-P50281,Extracellular matrix
-P50281,Extracellular matrix
-P50281,Cell adhesion
-P12931,Cell adhesion
-P50281,Cell differentiation
-P31749,Cell differentiation
-P50281,Immune system
-P50281,Cytoskeleton
-P42345,Cytoskeleton
-Q16539,Cytoskeleton
-P50281,Molecular transport
-P50281,Tissue development
-P06213,Skin
-P06213,Tissue development
-Q07869,Skin
-Q07869,Tissue development
-Q01469,Skin
-Q01469,Tissue development
-Q01469,Molecular transport
-Q01469,Regulation of lipids
-Q03181,Molecular transport
-Q03181,Regulation of lipids
-Q01469,Metabolism
-Q01469,Molecular transport
-Q01469,Metabolism
-Q01469,Response to environment
-O15379,Response to environment
-P43405,Response to environment
-P42226,Response to environment
-P05186,Response to environment
-Q00613,Response to environment
-P08069,Response to environment
-Q01469,Cell differentiation
-Q01469,Metabolism
-Q01469,Hormones
-Q01469,Nervous system
-Q01469,Nervous system
-Q16236,Response to environment
-Q14289,Response to environment
-O15379,Response to environment
-P12931,Response to environment
-P35354,Response to environment
-O15379,Immune system
-O15379,Cell death
-O15379,Metabolism
-P42345,Metabolism
-P42345,Autophagy
-P42345,Response to environment
-P27361,Autophagy
-P27361,Response to environment
-P28482,Autophagy
-P28482,Response to environment
-P42345,Response to environment
-P42345,Autophagy
-P42345,Response to environment
-P42345,Autophagy
-P42345,Response to environment
-P42345,Metabolism
-P42345,Autophagy
-P42345,Cell component assembly
-P10253,Autophagy
-P10253,Cell component assembly
-P04062,Autophagy
-P04062,Cell component assembly
-P42345,Cell growth
-P42345,Cell component assembly
-P42345,Cell migration
-P42345,Skin
-P42345,Skin
-P42345,Wounding healing
-P42345,Metabolism
-P14735,Metabolism
-P31749,Metabolism
-P42345,Cytoskeleton
-Q05655,Cytoskeleton
-P09619,Cytoskeleton
-P00519,Cytoskeleton
-P42345,Cell growth
-P42345,Cell growth
-P16220,Cell growth
-P42345,Metabolism
-Q05397,Metabolism
-P42345,Molecular transport
-P42345,Nervous system
-P31749,Nervous system
-P42345,Metabolism
-P42345,Cell death
-P42345,Cell proliferation
-P42345,Cell migration
-P42345,Autophagy
-P42345,Response to environment
-P42345,Response to environment
-P31749,Response to environment
-P42345,Autophagy
-P42345,Response to environment
-P55055,Autophagy
-P55055,Response to environment
-P12931,Autophagy
-P12931,Response to environment
-O75164,Autophagy
-O75164,Response to environment
-P42345,Cytoskeleton
-P42345,Immune system
-P42226,Immune system
-P42345,Autophagy
-P42345,Cell growth
-P42345,Cell proliferation
-P42345,Autophagy
-P42345,Cell growth
-P42345,Cell proliferation
-P31749,Autophagy
-P31749,Cell growth
-P31749,Cell proliferation
-P10415,Nervous system
-P16220,Nervous system
-Q06124,Nervous system
-P08069,Nervous system
-P16220,Response to environment
-P09874,Response to environment
-P16220,Hormones
-Q06124,Hormones
-P16220,Metabolism
-P16220,Response to environment
-Q04206,Response to environment
-P16220,Cell component assembly
-P15559,Response to enviornment
-P15559,Metabolism
-P15559,Metabolism
-P15559,Metabolism
-P15559,Response to environment
-P15559,Response to environment
-P15559,Response to environment
-P12931,Response to environment
-P15559,Response to environment
-P15559,Response to environment
-P15559,Response to environment
-P15559,Hormones
-P15559,Response to environment
-Q00613,Hormones
-Q00613,Response to environment
-P04062,Hormones
-P04062,Response to environment
-P15559,Response to environment
-P15559,Nervous system
-P36544,Nervous system
-P15428,Hormones
-P15428,Response to environment
-P15428,Immune system
-P15428,Cell growth
-P14735,Immune system
-P14735,Metabolism
-P14735,Vasodilatation
-P14735,Metabolism
-P14735,Aging
-P04637,Aging
-P04062,Aging
-Q13315,Aging
-P14735,Hormones
-P14735,Metabolism
-P14735,Hormones
-P14735,Metabolism
-P14735,Metabolism
-P07858,Metabolism
-P14735,Ubiquitin-proteasome system
-Q09472,Cell differentiation
-Q09472,Cell death
-Q09472,DNA damage response
-P04637,Cell death
-P04637,DNA damage response
-Q92630,Cell death
-Q92630,DNA damage response
-Q09472,Metabolism
-Q09472,Cell death
-Q09472,Cell differentiation
-Q09472,Cell migration
-Q09472,Cell proliferation
-Q92793,Cell death
-Q92793,Cell differentiation
-Q92793,Cell migration
-Q92793,Cell proliferation
-Q09472,Mitochondria
-Q09472,Cytoskeleton
-Q09472,Immune system
-P06241,Immune system
-P43405,Immune system
-P12931,Immune system
-O14920,Immune system
-Q92793,Immune system
-Q09472,Nervous system
-Q05397,Muscles
-Q05397,Cell-cell adhesion
-P00519,Cell-cell adhesion
-Q05397,Development
-Q05397,Nervous system
-Q05397,Cell migration
-Q05397,Skin
-P31749,Cell migration
-P31749,Skin
-Q05397,Immune system
-P27361,Immune system
-P28482,Immune system
-Q05397,Immune system
-P27361,Immune system
-P28482,Immune system
-Q05397,Wound healing
-Q05397,Cell adhesion
-P48736,Cell adhesion
-Q06124,Cell adhesion
-Q05397,Cytoskeleton
-P27361,Cytoskeleton
-P28482,Cytoskeleton
-Q05397,Cell migration
-Q05397,Cell migration
-P12931,Cell migration
-Q05397,Cytoskeleton
-Q05397,Cell adhesion
-P06241,Immune system
-P00519,Immune system
-P06241,Response to environment
-P06241,Nervous system
-P06241,Nervous system
-P56818,Nervous system
-P56819,Nervous system
-P56817,Nervous system
-P06241,Reactive oxygen species
-P06241,Inflammation
-Q9HC29,Inflammation
-P43405,Inflammation
-Q16539,Inflammation
-P12931,Inflammation
-P19174,Inflammation
-P06241,Cell death
-P06241,Molecular transport
-P06241,Molecular transport
-P06241,Nervous system
-P06241,Reactive oxygen species
-P06241,Response to environment
-P11274,Immune system
-P11274,Cell proliferation
-P06746,Cell proliferation
-P04062,Cell proliferation
-P11274,Molecular transport
-P11274,Vasculature
-P11274,Immune system
-P11274,Immune system
-P11274,Metabolism
-P11274,Cell cycle
-P11274,Cytoskeleton
-P11274,Cell cycle
-P11274,Cytoskeleton
-P11274,Cell cycle
-P11274,Cytoskeleton
-Q9HC29,Immune system
-Q9HC29,Response to environment
-Q9HC29,Response to environment
-Q04206,Response to environment
-Q9HC29,Bacteria
-Q05655,Bacteria
-P43405,Bacteria
-Q9HC29,Bacteria
-Q9HC29,Bacteria
-Q9HC29,Immune system
-Q9HC29,Immune system
-P30530,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9HC29,Bacteria
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-P10721,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9HC29,Immune system
-Q9NYA1,Immune system
-Q9HC29,Immune system
-P43405,Immune system
-Q9HC29,Vasodilatation
-Q9HC29,Reactive oxygen species
-P00519,Reactive oxygen species
-Q9HC29,Hormones
-Q9HC29,Hormones
-Q9HC29,Ubiquitin-proteasome system
-Q9HC29,Autophagy
-Q9HC29,Protein-protein interaction
-Q9HC29,Cell proliferation
-Q9HC29,Cell death
-Q9HC29,Cell differentiation
-Q9HC29,Cell migration
-Q9HC29,Autophagy
-P27361,Autophagy
-Q9HC29,Immune system
-Q9HC29,Viruses
-P27361,Viruses
-P28482,Viruses
-Q9HC29,Bacteria
-Q16539,Bacteria
-Q04206,Bacteria
-P55055,Regulation of lipids
-P55055,Autophagy
-P02545,Molecular transport
-P04637,Molecular transport
-P04637,UV
-P04637,Response to environment
-P04637,Circadian rhythm
-O75604,Circadian rhythm
-P04637,DNA damage response
-P14174,DNA damage response
-P04637,DNA damage response
-Q13315,DNA damage response
-P04637,DNA damage response
-P04637,Nervous system
-O75604,Nervous system
-P04637,Immune system
-P04637,Cell death
-O14727,Cell death
-P04637,Cell death
-P04637,Cell death
-P04637,Mitochondria
-P09874,Mitochondria
-P04637,Mitochondria
-P24941,Mitochondria
-P04637,Mitochondria
-P06737,Mitochondria
-P04637,Cell cycle
-P04637,Metabolism
-P04637,Autophagy
-P04637,Mitochondria
-P04637,Nervous system
-P04637,Metabolism
-P04637,Telomere maintenance
-P12931,Telomere maintenance
-P04637,DNA damage response
-P04637,Cell death
-P04637,Cell cycle
-P04637,Response to environment
-P04637,Cell death
-P04637,Cell death
-P06239,Cell death
-P04637,Mitochondria
-P04637,Cell death
-P04637,Cell death
-P04637,Protein-protein interaction
-P04637,Cell cycle
-P04637,Cell cycle
-Q9HC98,Cell cycle
-P04637,DNA damage response
-P04637,Cell death
-P04637,Skin
-P04637,Cell death
-P04637,Cell death
-P04637,Tissue development
-P04637,DNA damage response
-P04637,Cell cycle
-Q13315,Cell cycle
-P04637,Response to environment
-P04798,Response to environment
-P05186,Response to environment
-P04637,Response to environment
-P04637,Response to environment
-P54132,Response to environment
-P04637,Immune system
-P04637,Immune system
-P04637,Viruses
-Q05655,Chemotaxis
-P33527,Chemotaxis
-P09619,Chemotaxis
-P10721,Chemotaxis
-P25024,Chemotaxis
-P32302,Chemotaxis
-Q05655,Response to environment
-P53355,Response to environment
-Q05655,Cytoskeleton
-Q05655,Cytoskeleton
-Q05655,Cell death
-Q05655,Immune system
-P18054,Immune system
-Q05655,Immune system
-Q05655,Cell death
-O14727,Cell death
-Q05655,Regulation of lipids
-Q05655,Metabolism
-Q05655,Regulation of lipids
-Q05655,Regulation of lipids
-Q05655,DNA damage response
-Q05655,Metabolism
-Q05655,Nervous system
-Q05655,Metabolism
-Q05655,Regulation of lipids
-P43405,Immune system
-P43405,Response to environment
-P43405,Regulation of lipids
-P43405,Response to environment
-P43405,Fungi
-P43405,Response to environment
-P43405,Cell differentiation
-P43405,Cell growth
-P43405,Cell migration
-P43405,Metabolism
-P43405,Immune system
-P19174,Immune system
-O14920,Immune system
-P43405,Immune system
-P43405,Immune system
-P43405,Immune system
-P21589,Immune system
-P43405,Immune system
-P43405,Tissue development
-P35916,Immune system
-P35916,Tissue development
-P43405,Immune system
-P43405,Immune system
-P43405,Immune system
-P43405,Immune system
-P43405,Calcium signaling
-P43405,Immune system
-P43405,Immune system
-P43405,Immune system
-P43405,Immune system
-P43405,Immune system
-P43405,Endocytosis
-P25024,Endocytosis
-P43405,Regulation of lipids
-P43405,Immune system
-P43405,Endocytosis
-Q9NYA1,Endocytosis
-P43405,Reactive oxygen species
-P43405,Hormones
-P43405,Immune system
-O75030,Cell death
-O75030,Cell death
-P33527,Molecular transport
-P33527,Metabolism
-P33527,Molecular transport
-P33527,Molecular transport
-P33527,Metabolism
-P33527,Molecular transport
-P33527,Regulation of lipids
-P33527,Regulation of lipids
-P33527,Molecular transport
-P43005,Molecular transport
-P33527,Molecular transport
-Q96FL8,Molecular transport
-P33527,Molecular transport
-O15245,Molecular transport
-O75751,Molecular transport
-Q96FL8,Molecular transport
-P33527,Molecular transport
-O15245,Molecular transport
-P10635,Metabolism
-P10635,Metabolism
-P04798,Metabolism
-P10635,Metabolism
-P10635,Protein-protein interaction
-P10635,Metabolism
-P27986,Hormones
-P27986,Response to environment
-P27986,Cell proliferation
-P31749,Hormones
-P31749,Response to environment
-P31749,Cell proliferation
-P08069,Hormones
-P08069,Response to environment
-P08069,Cell proliferation
-P27986,Cell adhesion
-P27986,Extracellular matrix
-P27986,Cytoskeleton
-P27986,Cytoskeleton
-P27986,Hormones
-P27986,Response to environment
-P27986,Cell proliferation
-P27986,Cell growth
-P27986,Cell proliferation
-P27986,Cell death
-P27986,Autophagy
-P06737,Metabolism
-P06737,Metabolism
-P10253,Metabolism
-P35573,Metabolism
-P18054,Metabolism
-P18054,Regulation of lipids
-Q16539,Metabolism
-Q16539,Regulation of lipids
-P18054,Metabolism
-P18054,Metabolism
-P18054,Regulation of lipids
-P18054,Metabolism
-P18054,Regulation of lipids
-P18054,Reactive oxygen species
-P18054,Metabolism
-P18054,Regulation of lipids
-Q9UKM7,Metabolism
-Q9UKM7,Metabolism
-Q9UKM7,Metabolism
-P06280,Metabolism
-Q9UKM7,Metabolism
-Q9UKM7,Metabolism
-Q9UKM7,Metabolism
-Q9UKM7,Metabolism
-Q9UKM7,Ubiquitin-proteasome system
-Q9UKM7,Autophagy
-P55072,Ubiquitin-proteasome system
-P55072,Autophagy
-P14174,Metabolism
-P14174,Aging
-P14174,DNA damage response
-Q13627,DNA damage response
-P14174,Immune system
-P14174,Regulation of lipids
-P14174,Immune system
-P14174,Immune system
-P14174,Immune system
-P14174,Hormones
-P14174,Immune system
-P14174,Metabolism
-P14174,Protein-protein interaction
-Q99720,Protein-protein interaction
-P14174,Immune system
-Q16539,Regulation of lipids
-Q16539,Response to environment
-Q04206,Regulation of lipids
-Q04206,Response to environment
-Q16539,Cell cycle
-Q16539,DNA damage response
-Q06124,Cell cycle
-Q06124,DNA damage response
-Q13315,Cell cycle
-Q13315,DNA damage response
-Q16539,Response to enviornment
-P27361,Response to enviornment
-P28482,Response to enviornment
-P31749,Response to enviornment
-Q16539,Cell death
-Q16539,Cell proliferation
-Q16539,Autophagy
-Q16539,Cell death
-Q16539,Cell differentiation
-Q16539,Cell differentiation
-P35354,Cell differentiation
-Q16539,Cell differentiation
-Q16539,Muscles
-Q16539,Cell differentiation
-Q16539,Muscles
-Q16539,Muscles
-Q16539,Cell adhesion
-Q16539,Nervous system
-Q16539,Response to environment
-Q16539,DNA damage response
-P00519,DNA damage response
-Q16539,Cell cycle
-Q16539,Cell differentiation
-Q16539,Muscles
-P31749,Cell differentiation
-P31749,Muscles
-P19793,Hormones
-P10828,Hormones
-P19793,Vitamins
-P19793,Vitamins
-P09619,Vitamins
-Q16512,Cell migration
-Q16512,Cell proliferation
-Q16512,Immune system
-Q13315,Cell proliferation
-Q13315,Immune system
-Q99720,Cell death
-Q99720,Molecular transport
-P48736,Immune system
-P10721,Immune system
-P48736,Immune system
-P48736,Metabolism
-P48736,Immune system
-P48736,Inflammation
-P48736,Immune system
-P48736,Localization
-P48736,Immune system
-P48736,Immune system
-Q9UBE0,Mitochondria
-Q9NYA1,Vasculature
-P35869,Vasculature
-Q9NYA1,Regulation of lipids
-Q9NYA1,Signal transduction
-Q9NYA1,Muscles
-P35354,Muscles
-P20309,Muscles
-Q9NYA1,Molecular transport
-Q9NYA1,Immune system
-Q9NYA1,Inflammation
-Q9NYA1,Nervous system
-P35354,Inflammation
-P35354,Nervous system
-Q9NYA1,Cell death
-Q9NYA1,Cell proliferation
-Q9NYA1,Cell differentiation
-P35354,Cell death
-P35354,Cell proliferation
-P35354,Cell differentiation
-Q9NYA1,Regulation of lipids
-Q9NYA1,Regulation of lipids
-Q9NYA1,Regulation of lipids
-Q9NYA1,Regulation of lipids
-P04062,Regulation of lipids
-Q9NYA1,Regulation of lipids
-Q03181,Cell death
-P53355,Cell death
-Q03181,Cell adhesion
-Q03181,Cell migration
-Q03181,Cell proliferation
-Q03181,Extracellular matrix
-Q03181,Muscles
-Q03181,Regulation of lipids
-Q03181,Tissue development
-Q03181,Muscles
-Q03181,Cell proliferation
-Q03181,Muscles
-Q03181,Cell proliferation
-Q03181,Extracellular matrix
-Q03181,Metabolism
-Q03181,Muscles
-Q03181,Cell proliferation
-Q03181,Vitamins
-P04798,Vitamins
-Q03181,Vitamins
-O15245,Molecular transport
-O15245,Toxins
-O75751,Molecular transport
-O75751,Toxins
-P12931,Cell-cell junction
-P12931,Bacteria
-P12931,Cell proliferation
-P12931,Cell adhesion
-P12931,Cell growth
-P12931,Tissue development
-P12931,Guts
-P12931,Autophagy
-P55072,Autophagy
-Q969S8,Autophagy
-P12931,Cell death
-P35354,Cell death
-P31749,Cell death
-P68400,Cell death
-P12931,Telomere maintenance
-P12931,Nervous system
-Q06124,Nervous system
-P12931,Hormones
-P12931,Cell proliferation
-Q06124,Hormones
-Q06124,Cell proliferation
-P12931,Cell adhesion
-P12931,Cell-cell junction
-P12931,Cell adhesion
-P12931,Cell motility
-P12931,Cytoskeleton
-P12931,Signal transduction
-P12931,Immune system
-P12931,Cell differentiation
-P12931,Hormones
-P12931,Endocytosis
-P12931,Cell-cell junction
-P12931,Cell component assembly
-P12931,Hormones
-P12931,Response to environment
-P12931,Regulation of pH
-P12931,Immune system
-Q04206,Immune system
-P12931,Response to environment
-O75751,Immune system
-O75751,Immune system
-O75751,Molecular transport
-O75751,Response to environment
-P27361,Endocytosis
-P28482,Endocytosis
-P27361,DNA damage response
-Q13315,DNA damage response
-P00519,DNA damage response
-P27361,Immune system
-Q04206,Immune system
-O14920,Immune system
-P27361,Regulation of pH
-P28482,Regulation of pH
-P27361,Cell migration
-P27361,Cell proliferation
-P28482,Cell migration
-P28482,Cell proliferation
-P27361,Nervous system
-P35354,Nervous system
-P21554,Nervous system
-P34972,Nervous system
-P27361,Response to environment
-P27361,Cell proliferation
-P27361,Cell death
-P27361,Cell differentiation
-P27361,Cell migration
-P28482,Response to environment
-P28482,Cell proliferation
-P28482,Cell death
-P28482,Cell differentiation
-P28482,Cell migration
-O14920,Response to environment
-O14920,Cell proliferation
-O14920,Cell death
-O14920,Cell differentiation
-O14920,Cell migration
-P49286,Hormones
-P49286,Cell proliferation
-Q06124,Hormones
-Q06124,Cell proliferation
-P49286,Vasculature
-P49286,Sleep
-P49286,Circadian rhythm
-P30531,Nervous system
-P30531,Nervous system
-P30531,Response to environment
-P10828,Hormones
-P09619,Vasculature
-P09619,Extracellular matrix
-P09619,Lipid signaling
-P09619,Membrane trafficking
-P19174,Lipid signaling
-P19174,Membrane trafficking
-P09619,Cell proliferation
-P09619,Cell growth
-P09619,Cell differentiation
-P09619,Vasculature
-Q06124,Cell proliferation
-Q06124,Cell growth
-Q06124,Cell differentiation
-Q06124,Vasculature
-P09619,Molecular transport
-P09619,Cell proliferation
-P09619,Chemotaxis
-P09619,Response to environment
-P31749,Response to environment
-P09619,Muscles
-P09619,Chemotaxis
-Q06124,Response to environment
-Q06124,Cell proliferation
-Q06124,Cell death
-Q06124,Cell differentiation
-Q06124,Cell migration
-P28482,Response to environment
-P28482,Cell proliferation
-P28482,Cell death
-P28482,Cell differentiation
-P28482,Cell migration
-Q06124,Cell proliferation
-Q06124,Wound healing
-Q06124,Vasculature
-Q06124,Cell differentiation
-Q06124,Nervous system
-Q06124,Hormones
-Q06124,Cell migration
-Q06124,Hormones
-Q06124,Response to environment
-Q06124,Hormones
-Q06124,Cell proliferation
-Q06124,Immune system
-Q06124,Metabolism
-Q06124,Regulation of lipids
-O15118,Cholesterol
-O15118,Regulation of lipids
-P35610,Cholesterol
-P35610,Regulation of lipids
-P35610,Cholesterol
-P35610,Regulation of lipids
-P35610,Cholesterol
-P35610,Regulation of lipids
-P35610,Cholesterol
-P35610,Regulation of lipids
-P35610,Cholesterol
-P35610,Regulation of lipids
-P09874,Metabolism
-P09874,Immune system
-P09874,Metabolism
-P09874,Mitochondria
-P09874,Metabolism
-P09874,DNA damage response
-P09874,Hormones
-P09874,Mitochondria
-P09874,Muscles
-P09874,Cell differentiation
-P09874,DNA damage response
-P09874,Cell growth
-P09874,Cell death
-P09874,Vasculature
-P09874,Hormones
-P09874,Vasoconstriction
-Q96FL8,Molecular transport
-Q96FL8,Molecular transport
-Q96FL8,Molecular transport
-Q96FL8,Molecular transport
-Q96FL8,Toxins
-P42226,Response to environment
-P42226,Immune system
-P42226,Immune system
-O14980,Ubiquitin-proteasome system
-P55072,Autophagy
-P55072,Response to environment
-P55072,Molecular transport
-P55072,Molecular transport
-P55072,Autophagy
-P55072,Misfolded protein degradation
-P55072,Misfolded protein degradation
-P55072,DNA damage response
-P55072,Metabolism
-P55072,Ubiquitination
-P55072,Mitochondria
-P31749,Mitochondria
-P55072,Cellular respiration
-P55072,Ubiquitination
-P55072,Ubiquitin-proteasome system
-P55072,DNA damage response
-P55072,Molecular transport
-P55072,Cell component assembly
-P55072,DNA damage response
-P28482,Immune system
-P31749,Immune system
-P06493,DNA damage response
-P27695,DNA damage response
-P46063,DNA damage response
-P09874,DNA damage response
-P55072,DNA damage response
-Q9NUW8,DNA damage response
-Q00613,DNA damage response
-Q969S8,DNA damage response
-P09884,DNA damage response
-P06746,DNA damage response
-P54132,DNA damage response
-P24941,DNA damage response
-P50750,DNA damage response
-Q9NUW8,DNA damage response
-Q99527,Cell death
-P11388,Cell death
-P11388,DNA damage response
-P30530,Vasculature
-P30530,Response to environment
-P30530,Immune system
-P30530,Immune system
-P30530,Immune system
-P30530,Endocytosis
-Q04206,Immune system
-P31749,Immune system
-O14920,Immune system
-Q04206,Immune system
-Q04206,Nervous system
-Q04206,Immune system
-P31749,Immune system
-Q04206,Amyloids
-P36544,Amyloids
-Q04206,Immune system
-Q04206,Immune system
-P06239,Immune system
-Q04206,Response to environment
-Q04206,Immune system
-P07949,Cell size
-P07949,Cell death
-P07949,Cell death
-P07949,Cell proliferation
-P07949,Immune system
-P07949,Vasculature
-P07949,Nervous system
-P17706,Chemotaxis
-P17706,Immune system
-P17706,Immune system
-P17706,Immune system
-P17706,Immune system
-P17706,Immune system
-P17706,Immune system
-P17706,Cell differentiation
-P17706,Immune system
-P17706,Cell death
-P17706,Cell proliferation
-P17706,Immune system
-P17706,Vasculature
-P17706,Response to environment
-P17706,Cell death
-P17706,Unfolded protein response
-P17706,Immune system
-P14679,Melanin
-P14679,Melanin
-P14679,Melanin
-P10721,Melanin
-P14679,Response to environment
-P14679,Response to environment
-P14679,Vitamins
-P05186,Response to environment
-P05186,Vitamins
-P35354,Response to environment
-P35354,Vitamins
-O75604,Ubiquitination
-Q16678,Vasculature
-P43405,Vasculature
-P35916,Vasculature
-P43005,Vasculature
-P35916,Immune system
-P35916,Vasculature
-P35916,Cell cycle
-P35916,Vasculature
-P04798,Vitamins
-P04798,Metabolism
-P04798,Metabolism
-P04798,Toxins
-P04798,Metabolism
-P04798,Metabolism
-P04798,Regulation of lipids
-P04798,Regulation of lipids
-P04798,Metabolism
-P04798,Response to environment
-P04798,Response to environment
-P04798,Wound healing
-P04798,Hormones
-P04798,Vitamins
-P05186,Vitamins
-P07237,Immune system
-P07237,Immune system
-P07237,Immune system
-P07237,Extracellular matrix
-P07237,Cell adhesion
-P00519,Cell adhesion
-P07237,Protein folding
-P07237,Protein folding
-P07237,Cell death
-P07237,Response to environment
-P35354,Response to environment
-P35354,Hair
-P35354,Cell death
-P35354,Muscles
-P35354,Vasculature
-P35354,Cell migration
-P00519,Vasculature
-P00519,Cell migration
-P35354,Cell proliferation
-P35354,Wound healing
-P35354,Vasculature
-P35354,Cell differentiation
-P35354,Nervous system
-P35354,Cell proliferation
-P35354,Cell growth
-P35354,Cell differentiation
-P35354,Vasculature
-P35354,Hormones
-P35354,Immune system
-P35354,Cell proliferation
-P35354,Vasculature
-P35354,Wound healing
-P35354,Immune system
-P35354,Hormones
-P35354,Vasoconstriction
-P35354,Response to environment
-P35354,Metabolism
-P35354,Response to environment
-P35354,Metabolism
-P20309,Nervous system
-P36544,Nervous system
-P20309,Muscles
-P20309,Vasoconstriction
-P20309,Muscles
-P56818,Amyloids
-P56819,Amyloids
-P56817,Amyloids
-P47898,Nervous system
-P28566,Nervous system
-P04066,Metabolism
-P06280,Metabolism
-P06280,Metabolism
-P06280,Metabolism
-P06280,Metabolism
-P06280,Vasodilatation
-P06280,Metabolism
-P06280,Vasodilatation
-P21554,Metabolism
-P21554,Vasodilatation
-P34972,Metabolism
-P34972,Vasodilatation
-P31749,Cell death
-P31749,Mitochondria
-P31749,Molecular transport
-P31749,Response to environment
-P31749,Cell proliferation
-P31749,Cell growth
-P31749,Cell differentiation
-P31749,Nervous system
-P31749,Response to environment
-P31749,Hormones
-P31749,Immune system
-P31749,Cell migration
-P31749,Immune system
-P31749,Regulation of lipids
-P21554,Regulation of lipids
-P31749,Regulation of lipids
-P31749,Cell migration
-P31749,Immune system
-P31749,Nervous system
-P31749,Immune system
-P31749,Molecular transport
-P31749,Metabolism
-P31749,Hormones
-P31749,Cell proliferation
-P31749,Hormones
-P31749,Cell proliferation
-O14727,Hormones
-O14727,Cell proliferation
-O14727,Cell death
-O14727,Cell death
-O14727,DNA damage response
-P54707,Regulation of pH
-P36544,Metabolism
-P36544,Regulation of lipids
-P36544,Metabolism
-P04062,Metabolism
-P36544,Amyloids
-P36544,Amyloids
-P36544,Metabolism
-P36544,Vasodilatation
-P36544,Nervous system
-P36544,Nervous system
-P20309,Nervous system
-P08172,Nervous system
-P08172,Nervous system
-P21554,Nervous system
-P08172,Nervous system
-P08172,Muscles
-P56817,Amyloids
-P21397,Metabolism
-O14920,Cytoskeleton
-O14920,Cell-cell junction
-O14920,Cell motility
-O14920,Cytoskeleton
-O14920,Cell-cell junction
-Q00613,DNA damage response
-Q00613,Cell death
-Q00613,Misfolded protein degradation
-Q00613,Cell component assembly
-Q00613,Immune system
-Q00613,Cytoskeleton
-P00519,Cytoskeleton
-Q00613,Response to environment
-Q00613,Response to environment
-Q00613,Response to environment
-P51955,Meiosis
-P24941,Meiosis
-P51955,Mitosis
-P51955,Cell cycle
-P51955,Cytoskeleton
-P51955,Cell cycle
-P51955,Cytoskeleton
-P51955,Mitosis
-P51955,Mitosis
-Q969S8,DNA damage response
-P42858,Cell component assembly
-P42858,Cytoskeleton
-P42858,Molecular transport
-P42858,Autophagy
-P42858,Calcium signaling
-P42858,Autophagy
-P42858,Signal transduction
-P42858,Signal transduction
-P42858,Molecular transport
-P42858,Molecular transport
-P10721,Cell proliferation
-P42858,Signal transduction
-P10721,Immune system
-P10721,Metabolism
-P10721,Cell growth
-P10721,Cell proliferation
-P10721,Cell differentiation
-P10721,Cell adhesion
-P10721,Cell motility
-P10721,Immune system
-P10721,Chemotaxis
-P10721,Immune system
-P10721,Differentiation
-P10721,Immune system
-P10721,Proliferation
-P10721,Cell adhesion
-P10721,Cell migration
-P10721,Cell death
-P10721,Immune system
-P10721,Cell adhesion
-P10721,Cell motility
-P10721,Muscles
-P10721,Muscles
-P10721,Muscles
-P10721,Vasculature
-P10721,Cell differentiation
-O15118,Regulation of lipids
-O15118,Response to environment
-Q13133,Regulation of lipids
-Q13133,Response to environment
-P55055,Regulation of lipids
-P55055,Response to environment
-P35610,Regulation of lipids
-P35610,Response to environment
-P34913,Regulation of lipids
-P34913,Response to environment
-P34913,Metabolism
-P34913,Regulation of lipids
-P34913,Regulation of lipids
-P34913,Metabolism
-P06239,Homeostasis
-P43005,Homeostasis
-P06239,Cell-cell junction
-P06239,Cell adhesion
-P06239,Immune system
-P06239,Cell adhesion
-P06239,Immune system
-P06239,Immune system
-P10253,Metabolism
-P10253,Metabolism
-P10253,Cell component assembly
-P08069,Hormones
-P08069,Vasoconstriction
-P08069,Immune system
-P04150,Immune system
-P08069,Hormones
-P08069,Response to environment
-P08069,Cell proliferation
-P08069,Hormones
-P08069,Cell death
-P08069,Metabolism
-P08069,Hormones
-P08069,Nervous system
-P08069,Vitamins
-P68400,Protein folding
-P68400,Ubiquitination
-P68400,Cell death
-P68400,Cell differentiation
-P68400,Cell proliferation
-P09884,Cell cycle
-P09884,Cell cycle
-P09884,Cell cycle
-P09884,DNA damage response
-P09884,Mitosis
-P09884,Immune system
-Q13627,Cytoskeleton
-P06746,DNA damage response
-P06746,DNA damage response
-Q13627,Signal transduction
-P00374,Metabolism
-P00374,Metabolism
-P00374,Metabolism
-P00374,Metabolism
-P00374,Nervous system
-P00374,Metabolism
-P00374,Metabolism
-P43005,Molecular transport
-P43005,Molecular transport
-P43005,Molecular transport
-P43005,Nervous system
-P43005,Metabolism
-P43005,Metabolism
-P43005,Molecular transport
-P43005,Metabolism
-P43005,Molecular transport
-P43005,Nervous system
-P43005,Molecular transport
-P43005,Nervous system
-P43005,Molecular transport
-P43005,Nervous system
-P43005,Molecular transport
-P43005,Cell death
-P43005,Nervous system
-P43005,Cell death
-P43005,Nervous system
-P43005,Nervous system
-P43005,Response to environment
-Q9HC16,Viruses
-Q9HC16,Viruses
-Q9HC16,Viruses
-Q9HC16,Viruses
-Q9HC16,Immune system
-P21589,Metabolism
-P21589,Metabolism
-P21589,Metabolism
-P43005,Molecular transport
-P43005,Metabolism
-P43005,Reactive oxygen species
-P43005,Molecular transport
-P21589,Metabolism
-P00352,Metabolism
-P00352,Toxins
-P00352,Metabolism
-P00352,Nervous system
-P00352,Vitamins
-P15121,Vitamins
-P00492,Metabolism
-P55263,Metabolism
-P55263,Metabolism
-P55263,Metabolism
-P55263,Metabolism
-P21554,Nervous system
-P34972,Nervous system
-P21554,Nervous system
-P34972,Nervous system
-P21554,Immune system
-P34972,Immune system
-P21554,Inflammation
-P21554,Vasculature
-P21554,Metabolism
-P34972,Metabolism
-P21554,Nervous system
-P21554,Nervous system
-P21554,Nervous system
-P34972,Immune system
-P32302,Immune system
-P15056,Metabolism
-P15056,Response to environment
-P15056,Molecular transport
-P31749,Metabolism
-P35573,Metabolism
-P04062,Immune system
-P04062,Autophagy
-P04062,Metabolism
-P04062,Metabolism
-P04062,Regulation of lipids
-P04062,Metabolism
-P04062,Regulation of lipids
-P04062,Regulation of lipids
-P04062,Regulation of lipids
-P04062,Immune system
-P04062,Nervous system
-P04062,Muscles
-P04062,Autophagy
-P04062,Mitochondria
-P04062,Nervous system
-P04062,Signal transduction
-P04062,Metabolism
-P04062,Metabolism
-P04062,Autophagy
-P04062,Cell component assembly
-P04062,Misfolded protein degradation
-P04062,Autophagy
-P04062,Cell growth
-P04062,Cell proliferation
-P04062,Skin
-P04062,Cellular respiration
-P04062,Response to environment
-P04062,Regulation of pH
-P04062,Hormones
-P04062,Skin
-P04150,Response to environment
-Q13315,Cell death
-Q13315,response to environment
-Q13315,Telomere maintenance
-Q13315,Telomere maintenance
-Q13315,Meiosis
-Q13315,Telomere maintenance
-Q13315,Autophagy
-Q13315,Cell growth
-Q13315,Cell proliferation
-Q13315,Metabolism
-Q13315,DNA damage response
-Q13315,Telomere maintenance
-Q13315,Telomere maintenance
-P00519,Cytoskeleton
-P00519,Cytoskeleton
-P00519,Cell cycle
-P00519,Immune system
-P00519,Immune system
-P00519,DNA damage response
-P00519,Mitochondria
-P00519,Cell death
-P00519,Mitosis
-P00519,Cell cycle
-P00519,Regulation of lipids
-P00519,Vasculature
-P00519,Nervous system
-P00519,Cytoskeleton
-P00519,Cytoskeleton
-P00519,Vasculature
-P00519,Extracellular matrix
-P00519,Cell cycle
-P00519,Cytoskeleton
-P00519,Nervous system
-P00519,Response to environment
-P52209,Metabolism
-P52209,Metabolism
-P52209,Metabolism
-P52209,Metabolism
-P15121,Hormones
-P15121,Metabolism
-P15121,Metabolism
-P15121,Metabolism
-P15121,Cell differentiation
-P15121,Metabolism
-P00918,Regulation of pH
-P00918,Molecular transport
-P00918,Nervous system
-P00918,Molecular transport
-P00918,Molecular transport
-P00918,Regulation of pH
-P00533,Metabolism
-P00533,Response to environment
-P42345,Metabolism
-P42345,Response to environment
-P26358,Metabolism
-P26358,Response to environment
-P26358,Vasculature
-P26358,Muscles
-P26358,Cell death
-P26358,Vasculature
-P26358,Muscles
-P26358,Cell differentiation
-P11926,Metabolism
-P11926,Metabolism
-P53355,Autophagy
-P53355,Cell death
-P54132,Response to environment
-P54132,Response to environment
-P54132,DNA damage response
-P54132,Mitosis
-P54132,Cell cycle
-P54132,Mitosis
-P54132,Cell cycle
-P54132,Protein-protein interaction
-P54132,Protein-protein interaction
-P54132,Cell cycle
-P54132,Cell cycle
-P54132,Cell cycle
-P50750,Cell cycle
-P54132,Cell cycle
-P54132,Telomere maintenance
-P54132,Telomere maintenance
-P10828,Hormones
-P10721,Hormones
-P07858,Hormones
-P07858,Signal transduction
-P07858,Hormones
-Q96GD4,UV
-Q96GD4,Response to environment
-Q09472,UV
-Q09472,Response to environment
-P04637,UV
-P04637,Response to environment
-Q05655,UV
-Q05655,Response to environment
-P27986,UV
-P27986,Response to environment
-P09874,UV
-P09874,Response to environment
-P35354,UV
-P35354,Response to environment
-Q92793,UV
-Q92793,Response to environment
-Q92793,Response to environment
-P80365,Hormones
-P80365,Metabolism
-P35869,Response to environment
-P35869,Response to environment
-P35869,Immune system
-P35869,Immune system
-O00444,Cytoskeleton
-P24941,Cytoskeleton
-P24941,Cell cycle
-P24941,Cell cycle
-P24941,Cell cycle
-P24941,Response to environment
-P24941,Vasodilatation
-P24941,Molecular transport
-P50750,Immune system
-P50750,DNA damage response
-P46098,Molecular transport
-P50750,Muscles
-P50750,Cell differentiation
-P46098,Nervous system
-P04637,Response to environment
-P55789,Response to environment
-P55789,Response to environment
-P55789,Toxins
-P55789,Immune system
-P55789,Nervous system
-P55789,Cell death
-P11474,Hormones
-P11474,Response to environment
-P11474,Cell proliferation
+"Uniprot_ID","SRI_tag"
+"P14618","Hormones"
+"P14618","Response to environment"
+"P14618","Cell proliferation"
+"O15530","Hormones"
+"O15530","Response to environment"
+"O15530","Cell proliferation"
+"P37231","Hormones"
+"P37231","Response to environment"
+"P37231","Cell proliferation"
+"P06213","Hormones"
+"P06213","Response to environment"
+"P06213","Cell proliferation"
+"Q92831","Hormones"
+"Q92831","Response to environment"
+"Q92831","Cell proliferation"
+"P27986","Hormones"
+"P27986","Response to environment"
+"P27986","Cell proliferation"
+"P12931","Hormones"
+"P12931","Response to environment"
+"P12931","Cell proliferation"
+"P09874","Hormones"
+"P09874","Response to environment"
+"P09874","Cell proliferation"
+"P31749","Hormones"
+"P31749","Response to environment"
+"P31749","Cell proliferation"
+"P14618","Metabolism"
+"P04406","Metabolism"
+"P14618","Vasculature"
+"O15530","Vasculature"
+"P14618","Cell death"
+"P11387","Cell death"
+"O15530","Cytoskeleton"
+"P42336","Cytoskeleton"
+"P53667","Cytoskeleton"
+"P11274","Cytoskeleton"
+"P00519","Cytoskeleton"
+"O15530","Metabolism"
+"O15530","Cell death"
+"O15530","Cell migration"
+"P06213","Metabolism"
+"P06213","Cell death"
+"P06213","Cell migration"
+"P42345","Metabolism"
+"P42345","Cell death"
+"P42345","Cell proliferation"
+"P42345","Cell migration"
+"P12931","Metabolism"
+"P12931","Cell death"
+"P12931","Cell migration"
+"P43005","Metabolism"
+"P43005","Cell death"
+"P43005","Cell proliferation"
+"P43005","Cell migration"
+"O15530","Calcium signaling"
+"P41595","Calcium signaling"
+"Q9NYA1","Calcium signaling"
+"P19174","Calcium signaling"
+"P20309","Calcium signaling"
+"P25024","Calcium signaling"
+"P32302","Calcium signaling"
+"P42336","Cell migration"
+"P42338","Cell migration"
+"P10586","Cell migration"
+"P06493","Cell migration"
+"Q12866","Cell migration"
+"P08581","Cell migration"
+"Q05397","Cell migration"
+"P48736","Cell migration"
+"P09619","Cell migration"
+"P19174","Cell migration"
+"P30530","Cell migration"
+"P04626","Cell migration"
+"P04626","Cell proliferation"
+"P00533","Cell migration"
+"P00533","Cell proliferation"
+"Q06124","Cell migration"
+"Q06124","Cell proliferation"
+"P19174","Cell proliferation"
+"P31749","Cell migration"
+"P42336","Cell proliferation"
+"Q14289","Cell migration"
+"Q14289","Cell proliferation"
+"Q05397","Cell proliferation"
+"P15056","Cell migration"
+"P15056","Cell proliferation"
+"P00519","Cell migration"
+"P00519","Cell proliferation"
+"P84022","Cell death"
+"P49841","Cell death"
+"Q16236","Cell death"
+"P00519","Cell death"
+"O15530","Immune system"
+"O15530","Cell differentiation"
+"P37231","Cell death"
+"P37231","Cell differentiation"
+"P37231","Cell migration"
+"P0DMV8","Cell death"
+"P0DMV8","Cell differentiation"
+"P0DMV8","Cell migration"
+"P0DMV8","Cell proliferation"
+"Q07869","Cell death"
+"Q07869","Cell differentiation"
+"Q07869","Cell migration"
+"Q07869","Cell proliferation"
+"P04637","Cell death"
+"P04637","Cell differentiation"
+"P04637","Cell migration"
+"P04637","Cell proliferation"
+"O15530","Signal transduction"
+"P53350","Signal transduction"
+"O95271","Signal transduction"
+"P06493","Signal transduction"
+"P10415","Signal transduction"
+"P49841","Signal transduction"
+"P42345","Signal transduction"
+"Q05655","Signal transduction"
+"P43405","Signal transduction"
+"Q16539","Signal transduction"
+"Q16512","Signal transduction"
+"P12931","Signal transduction"
+"P11387","Signal transduction"
+"P28482","Signal transduction"
+"P31749","Signal transduction"
+"O14920","Signal transduction"
+"Q9HC98","Signal transduction"
+"P68400","Signal transduction"
+"Q13627","Signal transduction"
+"Q92630","Signal transduction"
+"P43005","Signal transduction"
+"Q13315","Signal transduction"
+"P24941","Signal transduction"
+"Q16236","Vasculature"
+"P40763","Vasculature"
+"Q16665","Vasculature"
+"P38398","Vasculature"
+"Q14289","Vasculature"
+"Q16678","Vasculature"
+"Q9NYA1","Vasculature"
+"P19174","Vasculature"
+"P36544","Vasculature"
+"P31749","Vasculature"
+"O15530","Molecular transport"
+"Q99527","Molecular transport"
+"P00533","Molecular transport"
+"P27986","Molecular transport"
+"P31749","Molecular transport"
+"Q99527","Calcium signaling"
+"P00519","Calcium signaling"
+"P40763","Cell proliferation"
+"Q14432","Signal transduction"
+"Q08499","Signal transduction"
+"P35869","Signal transduction"
+"Q14432","Cell death"
+"Q14432","Cell differentiation"
+"Q14432","Cell migration"
+"Q14432","Cell proliferation"
+"P84022","Cell differentiation"
+"P84022","Cell migration"
+"P84022","Cell proliferation"
+"Q92769","Cell death"
+"Q92769","Cell differentiation"
+"Q92769","Cell migration"
+"Q92769","Cell proliferation"
+"P06241","Cell death"
+"P06241","Cell differentiation"
+"P06241","Cell migration"
+"P06241","Cell proliferation"
+"O14727","Cell death"
+"O14727","Cell differentiation"
+"O14727","Cell migration"
+"O14727","Cell proliferation"
+"P08069","Cell death"
+"P08069","Cell differentiation"
+"P08069","Cell migration"
+"P08069","Cell proliferation"
+"P04150","Cell death"
+"P04150","Cell differentiation"
+"P04150","Cell migration"
+"P04150","Cell proliferation"
+"P00519","Cell differentiation"
+"P41595","Signal transduction"
+"Q14432","Metabolism"
+"Q14432","Regulation of lipids"
+"P37231","Metabolism"
+"P37231","Regulation of lipids"
+"Q99714","Metabolism"
+"Q99714","Regulation of lipids"
+"P09960","Metabolism"
+"P09960","Regulation of lipids"
+"Q01469","Metabolism"
+"Q01469","Regulation of lipids"
+"P18054","Metabolism"
+"P18054","Regulation of lipids"
+"Q03181","Metabolism"
+"Q03181","Regulation of lipids"
+"P53350","Cell death"
+"P41595","Cell death"
+"P06493","Cell death"
+"P10415","Cell death"
+"Q13547","Cell death"
+"Q14289","Cell death"
+"P09211","Cell death"
+"P00533","Cell death"
+"Q07820","Cell death"
+"P19838","Cell death"
+"O15379","Cell death"
+"P15559","Cell death"
+"Q05397","Cell death"
+"P27986","Cell death"
+"P14174","Cell death"
+"Q9NYA1","Cell death"
+"Q03181","Cell death"
+"P09619","Cell death"
+"P30530","Cell death"
+"Q04206","Cell death"
+"P35916","Cell death"
+"P31749","Cell death"
+"P15056","Cell death"
+"P15121","Cell death"
+"P53355","Cell death"
+"P55789","Cell death"
+"Q14432","Vasculature"
+"Q14432","Response to environment"
+"P41595","Response to environment"
+"Q92769","Response to environment"
+"P06493","Response to environment"
+"P10415","Response to environment"
+"O15118","Response to environment"
+"P27695","Response to environment"
+"P27338","Response to environment"
+"Q14289","Response to environment"
+"P05412","Response to environment"
+"P16220","Response to environment"
+"P33527","Response to environment"
+"P11387","Response to environment"
+"P07949","Response to environment"
+"P35354","Response to environment"
+"P06239","Response to environment"
+"P43005","Response to environment"
+"P00519","Response to environment"
+"P80365","Response to environment"
+"P35869","Response to environment"
+"P50750","Response to environment"
+"Q07343","Signal transduction"
+"O76074","Signal transduction"
+"P42338","Signal transduction"
+"P37231","Signal transduction"
+"P40763","Signal transduction"
+"Q16665","Signal transduction"
+"Q9UM73","Signal transduction"
+"Q13554","Signal transduction"
+"P53667","Signal transduction"
+"Q02750","Signal transduction"
+"P08581","Signal transduction"
+"P04626","Signal transduction"
+"Q14289","Signal transduction"
+"P29466","Signal transduction"
+"P00533","Signal transduction"
+"P16220","Signal transduction"
+"P11274","Signal transduction"
+"P09619","Signal transduction"
+"P42226","Signal transduction"
+"P30530","Signal transduction"
+"P07949","Signal transduction"
+"P20309","Signal transduction"
+"P36544","Signal transduction"
+"P10721","Signal transduction"
+"P08069","Signal transduction"
+"P04150","Signal transduction"
+"Q92793","Signal transduction"
+"P46098","Signal transduction"
+"Q07343","Metabolism"
+"Q08499","Metabolism"
+"Q07343","Response to environment"
+"Q08499","Response to environment"
+"P29466","Response to environment"
+"P09211","Response to environment"
+"Q13133","Response to environment"
+"P19838","Response to environment"
+"P11274","Response to environment"
+"Q9HC29","Response to environment"
+"Q16539","Response to environment"
+"Q03181","Response to environment"
+"P30530","Response to environment"
+"Q04206","Response to environment"
+"Q00613","Response to environment"
+"P55789","Response to environment"
+"Q16236","Response to environment"
+"P04637","Response to environment"
+"Q07343","Immune system"
+"P06241","Immune system"
+"P12931","Immune system"
+"P06239","Immune system"
+"P43405","Immune system"
+"P48736","Immune system"
+"P25024","Immune system"
+"Q08499","Immune system"
+"P00519","Immune system"
+"Q07343","Calcium signaling"
+"P42336","Immune system"
+"P19174","Immune system"
+"P28482","Immune system"
+"O14920","Immune system"
+"P25105","Signal transduction"
+"P27695","Signal transduction"
+"Q16678","Signal transduction"
+"P48736","Signal transduction"
+"Q08499","Vasculature"
+"Q08499","Calcium signaling"
+"O76074","Metabolism"
+"O76074","Immune system"
+"P29350","Immune system"
+"P14902","Immune system"
+"P06213","Signal transduction"
+"Q9HC29","Signal transduction"
+"P14174","Signal transduction"
+"O76074","Vasodilatation"
+"P53350","Molecular transport"
+"P55072","Molecular transport"
+"P00519","Molecular transport"
+"P53350","Cell cycle"
+"Q9NYA1","Signal transduction"
+"P53350","Ubiquitin-proteasome system"
+"P0DMV8","Ubiquitin-proteasome system"
+"P49841","Ubiquitin-proteasome system"
+"P55072","Ubiquitin-proteasome system"
+"P31749","Ubiquitin-proteasome system"
+"P04062","Ubiquitin-proteasome system"
+"P06493","Molecular transport"
+"P06241","Molecular transport"
+"P12931","Molecular transport"
+"P09874","Molecular transport"
+"P53350","Proteolysis"
+"Q92769","Proteolysis"
+"P53350","Autophagy"
+"P53350","Misfolded protein degradation"
+"Q9UBN7","Misfolded protein degradation"
+"Q09472","Misfolded protein degradation"
+"P12931","Misfolded protein degradation"
+"P42858","Misfolded protein degradation"
+"Q92793","Misfolded protein degradation"
+"Q16236","Autophagy"
+"Q16236","Ubiquitin-proteasome system"
+"Q16236","Signal transduction"
+"P38398","Autophagy"
+"P38398","Ubiquitin-proteasome system"
+"P38398","Signal transduction"
+"P55072","Autophagy"
+"P55072","Signal transduction"
+"P31749","Autophagy"
+"P53350","Cell proliferation"
+"O00444","Cell proliferation"
+"Q96GD4","Cell proliferation"
+"P53350","Protein-protein interaction"
+"P12931","Protein-protein interaction"
+"P42336","Tissue development"
+"Q03181","Tissue development"
+"P42336","Vasculature"
+"P05412","Vasculature"
+"P54760","Vasculature"
+"P50281","Vasculature"
+"Q05397","Vasculature"
+"P43405","Vasculature"
+"Q16539","Vasculature"
+"P48736","Vasculature"
+"P09619","Vasculature"
+"P35354","Vasculature"
+"P42336","Cell death"
+"P42336","Response to environment"
+"Q99527","Response to environment"
+"O75460","Response to environment"
+"P08069","Response to environment"
+"Q16678","Cell migration"
+"P00519","Vasculature"
+"P42336","Metabolism"
+"P40763","Metabolism"
+"Q9UM73","Metabolism"
+"Q16539","Metabolism"
+"P31749","Metabolism"
+"P10253","Metabolism"
+"P42336","Cell growth"
+"P42336","Skin"
+"P48736","Cell death"
+"P48736","Skin"
+"P42336","Endocytosis"
+"Q12866","Endocytosis"
+"P08581","Endocytosis"
+"P30530","Endocytosis"
+"P42336","Autophagy"
+"P42338","Cell growth"
+"P42338","Cell proliferation"
+"P42338","Cell death"
+"P42338","Autophagy"
+"P41595","Cell growth"
+"P41595","Cell proliferation"
+"P41595","Autophagy"
+"P04626","Cell growth"
+"P04626","Cell death"
+"P04626","Autophagy"
+"P27986","Cell growth"
+"P27986","Autophagy"
+"P48736","Cell growth"
+"P48736","Cell proliferation"
+"P48736","Autophagy"
+"P31749","Cell growth"
+"P08069","Cell growth"
+"P08069","Autophagy"
+"P42338","Metabolism"
+"P48736","Metabolism"
+"P42336","Signal transduction"
+"P27986","Metabolism"
+"Q9UBN7","Signal transduction"
+"P35354","Signal transduction"
+"P15056","Signal transduction"
+"P08581","Metabolism"
+"P08581","Cell death"
+"P08581","Cell proliferation"
+"P00533","Metabolism"
+"Q05397","Metabolism"
+"P30530","Metabolism"
+"P30530","Cell proliferation"
+"P07949","Metabolism"
+"P07949","Cell death"
+"P07949","Cell proliferation"
+"P07949","Cell migration"
+"P08069","Metabolism"
+"O15379","Autophagy"
+"O15379","Cell growth"
+"O15379","Cell proliferation"
+"Q12866","Metabolism"
+"Q12866","Cell death"
+"Q12866","Cell proliferation"
+"P42336","Cellular respiration"
+"P25105","Response to environment"
+"Q16678","Response to environment"
+"P04062","Response to environment"
+"P41279","Immune system"
+"Q06124","Immune system"
+"P31749","Immune system"
+"P35916","Vasculature"
+"P42338","Vasculature"
+"P42338","Wound healing"
+"Q9UBN7","Autophagy"
+"O15118","Autophagy"
+"P04637","Autophagy"
+"P04062","Autophagy"
+"P00519","Autophagy"
+"P42338","Calcium signaling"
+"Q13002","Calcium signaling"
+"P36544","Calcium signaling"
+"P42338","Chemotaxis"
+"P25105","Chemotaxis"
+"Q02750","Chemotaxis"
+"Q13822","Chemotaxis"
+"Q16539","Chemotaxis"
+"P28482","Chemotaxis"
+"P42338","Endocytosis"
+"O15118","Endocytosis"
+"P48736","Endocytosis"
+"P00519","Endocytosis"
+"O75460","Cell proliferation"
+"O75460","Vasculature"
+"P50281","Cell proliferation"
+"P42338","Cell adhesion"
+"P07949","Cell adhesion"
+"P42338","Cell cycle"
+"P42338","Cell differentiation"
+"P42338","Cell motility"
+"P18031","Cell cycle"
+"P18031","Cell death"
+"P18031","Cell differentiation"
+"P18031","Cell motility"
+"P18031","Cell proliferation"
+"P37231","Cell cycle"
+"P37231","Cell motility"
+"P29350","Cell cycle"
+"P29350","Cell death"
+"P29350","Cell differentiation"
+"P29350","Cell motility"
+"P29350","Cell proliferation"
+"P04035","Cell cycle"
+"P04035","Cell death"
+"P04035","Cell differentiation"
+"P04035","Cell motility"
+"P04035","Cell proliferation"
+"P09211","Cell cycle"
+"P09211","Cell differentiation"
+"P09211","Cell motility"
+"P09211","Cell proliferation"
+"Q05655","Cell cycle"
+"Q05655","Cell death"
+"Q05655","Cell differentiation"
+"Q05655","Cell motility"
+"Q05655","Cell proliferation"
+"P04062","Cell cycle"
+"P04062","Cell death"
+"P04062","Cell differentiation"
+"P04062","Cell motility"
+"P04062","Cell proliferation"
+"Q99527","Metabolism"
+"Q99527","Cell death"
+"Q99527","Cell proliferation"
+"Q99527","Cell migration"
+"Q07869","Metabolism"
+"P09917","Vasculature"
+"P49841","Autophagy"
+"P53355","Autophagy"
+"P35916","Cell migration"
+"P42338","Immune system"
+"Q8TDS4","Immune system"
+"P42338","Vasodilatation"
+"Q16665","Vasodilatation"
+"P41595","Vasodilatation"
+"Q14289","Vasodilatation"
+"P31749","Vasodilatation"
+"P00374","Vasodilatation"
+"P42338","Cytoskeleton"
+"P48736","Cytoskeleton"
+"P10415","Cell adhesion"
+"P31749","Cytoskeleton"
+"P23219","Immune system"
+"P23219","Inflammation"
+"P16152","Immune system"
+"P16152","Inflammation"
+"P35354","Immune system"
+"P35354","Inflammation"
+"P25105","Inflammation"
+"Q16236","Inflammation"
+"P40763","Inflammation"
+"Q99527","Inflammation"
+"P14902","Inflammation"
+"P35367","Inflammation"
+"P19838","Inflammation"
+"P42345","Inflammation"
+"P14174","Inflammation"
+"P48736","Inflammation"
+"Q9NYA1","Inflammation"
+"P30530","Inflammation"
+"Q04206","Inflammation"
+"P31749","Inflammation"
+"O14920","Inflammation"
+"P10721","Inflammation"
+"P06746","Inflammation"
+"P34972","Inflammation"
+"P23219","Hormones"
+"P14174","Hormones"
+"P14174","Immune system"
+"P35354","Hormones"
+"P23219","Cell proliferation"
+"Q9UM73","Cell proliferation"
+"P05412","Cell proliferation"
+"O75030","Cell proliferation"
+"P42226","Cell proliferation"
+"P10721","Cell proliferation"
+"P11474","Cell proliferation"
+"P23219","Reactive oxygen species"
+"P23219","Response to environment"
+"O75874","Reactive oxygen species"
+"O75874","Response to environment"
+"P50281","Reactive oxygen species"
+"P50281","Response to environment"
+"P15559","Reactive oxygen species"
+"P15559","Response to environment"
+"P35354","Reactive oxygen species"
+"P31749","Reactive oxygen species"
+"P00519","Reactive oxygen species"
+"P25105","Immune system"
+"P25105","Regulation of lipids"
+"P12931","Regulation of lipids"
+"P84022","Immune system"
+"Q13822","Immune system"
+"P08069","Immune system"
+"P34972","Immune system"
+"P32302","Immune system"
+"P25105","Muscles"
+"P25105","Nervous system"
+"P25105","Cell proliferation"
+"P25105","Autophagy"
+"P25105","Vasculature"
+"P25105","Metabolism"
+"Q9HC29","Inflammation"
+"P43405","Inflammation"
+"Q06124","Inflammation"
+"P09619","Regulation of lipids"
+"P10721","Regulation of lipids"
+"P25105","Molecular transport"
+"P25105","Cell death"
+"P25105","Cell differentiation"
+"P40763","Cell death"
+"P40763","Cell differentiation"
+"Q9HC29","Cell death"
+"Q9HC29","Cell proliferation"
+"Q9HC29","Cell differentiation"
+"P43405","Cell death"
+"P43405","Cell proliferation"
+"P43405","Cell differentiation"
+"P27986","Cell differentiation"
+"P14174","Cell proliferation"
+"P14174","Cell differentiation"
+"Q06124","Cell death"
+"Q06124","Cell differentiation"
+"P25105","Cell migration"
+"P25105","Regulation of pH"
+"P25105","Homeostasis"
+"P25105","Bacteria"
+"P08069","Molecular transport"
+"P51151","Exocytosis"
+"P51151","Molecular transport"
+"O95271","Molecular transport"
+"P10415","Molecular transport"
+"Q96LD8","Ubiquitin-proteasome system"
+"P06493","Ubiquitin-proteasome system"
+"O75604","Ubiquitin-proteasome system"
+"P18031","Cytoskeleton"
+"P10721","Cytoskeleton"
+"P18031","Unfolded protein response"
+"P0DMV8","Unfolded protein response"
+"O75460","Unfolded protein response"
+"Q00613","Unfolded protein response"
+"Q16236","Unfolded protein response"
+"P55072","Unfolded protein response"
+"P18031","Hormones"
+"P40763","Hormones"
+"P42226","Hormones"
+"P49841","Hormones"
+"P49841","Cell proliferation"
+"P14735","Hormones"
+"P14735","Cell proliferation"
+"P17706","Hormones"
+"P17706","Cell proliferation"
+"P08069","Hormones"
+"P18031","Cell adhesion"
+"P18031","Cell migration"
+"Q99527","Cell adhesion"
+"Q99527","Cell differentiation"
+"P09211","Cell adhesion"
+"P09211","Cell migration"
+"P17706","Cell adhesion"
+"P17706","Cell differentiation"
+"P17706","Cell migration"
+"P00519","Cell adhesion"
+"Q05655","Hormones"
+"P18031","Signal transduction"
+"P18031","Vasculature"
+"P18031","Cell growth"
+"P18031","Metabolism"
+"P10586","Metabolism"
+"P29350","Metabolism"
+"Q06124","Metabolism"
+"P17706","Metabolism"
+"P18031","Immune system"
+"P09619","Immune system"
+"P09619","Cell differentiation"
+"O75460","Cell death"
+"O75460","Cell differentiation"
+"O75460","Cell growth"
+"Q14289","Cell differentiation"
+"Q14289","Cell growth"
+"P43405","Cell growth"
+"P18031","Endocytosis"
+"Q9NYA1","Endocytosis"
+"P18031","Molecular transport"
+"P18031","Inflammation"
+"P29350","Inflammation"
+"P10586","Cell adhesion"
+"P54760","Cell adhesion"
+"Q16678","Cell adhesion"
+"P12931","Cell adhesion"
+"P10586","Nervous system"
+"P10586","Signal transduction"
+"P55072","Cell death"
+"P06239","Cell death"
+"P27361","Cell death"
+"P27361","Cell differentiation"
+"P27361","Cell migration"
+"P27361","Cell proliferation"
+"P84022","Cell-cell adhesion"
+"P00533","Cell differentiation"
+"Q13133","Cell differentiation"
+"Q05397","Cell differentiation"
+"P55055","Cell differentiation"
+"P19793","Cell differentiation"
+"Q03181","Cell differentiation"
+"P12931","Cell differentiation"
+"P10828","Cell differentiation"
+"P31749","Cell differentiation"
+"P06239","Cell differentiation"
+"P84022","Viruses"
+"Q16665","Viruses"
+"P19838","Viruses"
+"Q16539","Viruses"
+"P10070","Viruses"
+"Q13936","Immune system"
+"P84022","Cell cycle"
+"P19838","Cell cycle"
+"P84022","Cell growth"
+"P0DMV8","Cell growth"
+"P10415","Cell growth"
+"P04637","Cell growth"
+"Q03181","Cell growth"
+"P02545","Cell proliferation"
+"Q02750","Cell proliferation"
+"Q00534","Cell proliferation"
+"Q9UBS5","Cell proliferation"
+"Q16678","Cell proliferation"
+"P35354","Cell proliferation"
+"P84022","Calcium signaling"
+"P49286","Calcium signaling"
+"P84022","Inflammation"
+"P37231","Inflammation"
+"P09917","Inflammation"
+"Q13133","Inflammation"
+"Q07869","Inflammation"
+"P11274","Inflammation"
+"Q05655","Inflammation"
+"Q03181","Inflammation"
+"P17706","Inflammation"
+"P21589","Inflammation"
+"P04062","Inflammation"
+"P84022","Metabolism"
+"P04035","Metabolism"
+"P06241","Metabolism"
+"Q04206","Metabolism"
+"P84022","Wound healing"
+"P09917","Wound healing"
+"P84022","Signal transduction"
+"O95271","Cell death"
+"O95271","Cell differentiation"
+"O95271","Cell proliferation"
+"P19838","Cell differentiation"
+"P19838","Cell proliferation"
+"P55072","Cell differentiation"
+"P55072","Cell proliferation"
+"P40763","Cell migration"
+"P50281","Cell migration"
+"P27986","Cell migration"
+"Q9NYA1","Cell migration"
+"P10721","Cell migration"
+"Q13315","Cell migration"
+"Q92769","Wound healing"
+"P42345","Wound healing"
+"P84022","Extracellular matrix"
+"P84022","Cell adhesion"
+"P29466","Inflammation"
+"P84022","Vasodilatation"
+"P06213","Vasodilatation"
+"Q14289","Metabolism"
+"P35354","Metabolism"
+"P35354","Vasodilatation"
+"P84022","Chemotaxis"
+"P84022","Molecular transport"
+"O15379","Molecular transport"
+"Q05655","Molecular transport"
+"Q16539","Molecular transport"
+"P35354","Molecular transport"
+"P84022","Immune response"
+"Q16665","Cell death"
+"Q16665","Cell differentiation"
+"Q16665","Cell migration"
+"Q16665","Cell proliferation"
+"P09874","Signal transduction"
+"P84022","Vasculature"
+"P05412","Cell growth"
+"P05412","Cell death"
+"P05412","Cell differentiation"
+"P05412","Cell migration"
+"P15428","Cell death"
+"P15428","Cell differentiation"
+"P15428","Cell migration"
+"P15428","Cell proliferation"
+"P09874","Cell death"
+"P09874","Cell differentiation"
+"P09874","Cell migration"
+"P04626","Wound healing"
+"Q07869","Wound healing"
+"Q03181","Wound healing"
+"P09619","Wound healing"
+"Q16236","Metabolism"
+"Q16236","Toxins"
+"Q16236","Aging"
+"Q96GD4","Aging"
+"P27695","Aging"
+"P15559","Aging"
+"P09619","Aging"
+"P04798","Aging"
+"P35354","Aging"
+"O14727","Aging"
+"P06746","Aging"
+"P21554","Aging"
+"Q16236","Homeostasis"
+"P27695","Homeostasis"
+"P15559","Homeostasis"
+"Q16236","Hormones"
+"Q16236","Vasoconstriction"
+"P19838","Hormones"
+"P19838","Vasoconstriction"
+"Q05655","Vasoconstriction"
+"Q04206","Hormones"
+"Q04206","Vasoconstriction"
+"Q00613","Hormones"
+"Q00613","Vasoconstriction"
+"P08069","Vasoconstriction"
+"P04798","Response to environment"
+"P56818","Response to environment"
+"P56819","Response to environment"
+"P56817","Response to environment"
+"P10415","Autophagy"
+"P11166","Autophagy"
+"P11166","Response to environment"
+"Q16236","Reactive oxygen species"
+"Q92769","Reactive oxygen species"
+"P06493","Reactive oxygen species"
+"Q9UBN7","Reactive oxygen species"
+"Q9UBN7","Response to environment"
+"O75460","Reactive oxygen species"
+"P27695","Reactive oxygen species"
+"Q16678","Reactive oxygen species"
+"Q05655","Reactive oxygen species"
+"Q05655","Response to environment"
+"Q9NYA1","Reactive oxygen species"
+"Q9NYA1","Response to environment"
+"P12931","Reactive oxygen species"
+"P42226","Reactive oxygen species"
+"P42226","Response to environment"
+"P30530","Reactive oxygen species"
+"Q04206","Reactive oxygen species"
+"Q00613","Reactive oxygen species"
+"P0DMV8","Reactive oxygen species"
+"P0DMV8","Response to environment"
+"P33527","Reactive oxygen species"
+"P09874","Reactive oxygen species"
+"Q16236","Cell proliferation"
+"Q16236","Cell differentiation"
+"P38398","Cell death"
+"P38398","Cell proliferation"
+"P38398","Cell differentiation"
+"Q16678","Cell death"
+"Q16678","Cell differentiation"
+"Q16539","Cell death"
+"Q16539","Cell proliferation"
+"Q16539","Cell differentiation"
+"P28482","Cell death"
+"P28482","Cell proliferation"
+"P28482","Cell differentiation"
+"Q04206","Cell proliferation"
+"Q04206","Cell differentiation"
+"O14920","Cell death"
+"O14920","Cell proliferation"
+"O14920","Cell differentiation"
+"P55789","Cell proliferation"
+"P55789","Cell differentiation"
+"Q16236","Molecular transport"
+"P06213","Molecular transport"
+"Q06124","Molecular transport"
+"Q14289","Reactive oxygen species"
+"P16152","Metabolism"
+"P16152","Reactive oxygen species"
+"Q16678","Metabolism"
+"P04637","Metabolism"
+"P04637","Reactive oxygen species"
+"Q16539","Reactive oxygen species"
+"P09619","Metabolism"
+"P09619","Reactive oxygen species"
+"Q16665","Response to environment"
+"P55072","Metabolism"
+"P04062","Metabolism"
+"Q16236","Immune system"
+"P00374","Reactive oxygen species"
+"Q9BQF6","Immune system"
+"Q9BQF6","Viruses"
+"O75030","Cell differentiation"
+"P30530","Cell differentiation"
+"P02545","Response to environment"
+"P42345","Response to environment"
+"P07237","Response to environment"
+"P43405","Response to environment"
+"P06493","Cell differentiation"
+"P16152","Cell differentiation"
+"P07858","Cell differentiation"
+"Q99714","Response to environment"
+"Q07869","Regulation of lipids"
+"Q07869","Response to environment"
+"P04798","Regulation of lipids"
+"P37231","Homeostasis"
+"P40763","Homeostasis"
+"P09917","Homeostasis"
+"P06213","Homeostasis"
+"Q01469","Homeostasis"
+"P06737","Homeostasis"
+"P49286","Homeostasis"
+"Q06124","Homeostasis"
+"P17706","Homeostasis"
+"P31749","Homeostasis"
+"P08069","Homeostasis"
+"P21554","Homeostasis"
+"Q13133","Hormones"
+"Q07869","Hormones"
+"P19793","Hormones"
+"Q03181","Hormones"
+"P10828","Hormones"
+"Q06124","Hormones"
+"P37231","Immune response"
+"Q99527","Immune response"
+"Q14289","Immune response"
+"Q05397","Immune response"
+"P06241","Immune response"
+"Q9HC29","Immune response"
+"P43405","Immune response"
+"P14174","Immune response"
+"P48736","Immune response"
+"P12931","Immune response"
+"P30530","Immune response"
+"Q04206","Immune response"
+"O14920","Immune response"
+"P06239","Immune response"
+"Q9HC16","Immune response"
+"Q13133","Homeostasis"
+"P37231","Molecular transport"
+"Q01469","Molecular transport"
+"P37231","Immune system"
+"Q09472","Cell differentiation"
+"Q09472","Immune system"
+"P35610","Cell differentiation"
+"P35610","Immune system"
+"P05412","Immune system"
+"P37231","Vasculature"
+"P37231","Cholesterol"
+"Q13133","Cholesterol"
+"Q13133","Regulation of lipids"
+"Q07869","Cholesterol"
+"P55055","Cholesterol"
+"P55055","Regulation of lipids"
+"Q03181","Cholesterol"
+"P37231","Wound healing"
+"Q13133","Immune system"
+"P55055","Immune system"
+"P17706","Immune system"
+"P17706","Regulation of lipids"
+"Q07869","Immune system"
+"P37231","Mitochondria"
+"P37231","Cell growth"
+"P37231","Muscles"
+"Q03181","Cell proliferation"
+"Q03181","Muscles"
+"P19793","Inflammation"
+"P19793","Regulation of lipids"
+"Q8TDS4","Inflammation"
+"Q8TDS4","Regulation of lipids"
+"P19793","Cholesterol"
+"P16220","Cell differentiation"
+"P16220","Regulation of lipids"
+"P31749","Regulation of lipids"
+"P09874","Cell growth"
+"P09874","Vasculature"
+"P37231","Circadian rhythm"
+"P06493","Circadian rhythm"
+"Q9Y2K7","Circadian rhythm"
+"P49841","Circadian rhythm"
+"Q13133","Circadian rhythm"
+"Q07869","Circadian rhythm"
+"O15379","Circadian rhythm"
+"P42345","Circadian rhythm"
+"P11388","Circadian rhythm"
+"P55055","Cell death"
+"P55055","Cell growth"
+"P19793","Cell death"
+"P19793","Cell growth"
+"O95271","Cell cycle"
+"P06493","Cell cycle"
+"P06493","Cell proliferation"
+"P30305","Cell cycle"
+"P30305","Cell proliferation"
+"Q00534","Cell cycle"
+"P51955","Cell cycle"
+"P51955","Cell proliferation"
+"Q9HC98","Cell cycle"
+"Q9HC98","Cell proliferation"
+"P04150","Cell cycle"
+"P24941","Cell cycle"
+"P24941","Cell proliferation"
+"O14980","Molecular transport"
+"Q00613","Molecular transport"
+"O95271","Telomere maintenance"
+"P09874","Telomere maintenance"
+"Q96GD4","Telomere maintenance"
+"P27361","Telomere maintenance"
+"P28482","Telomere maintenance"
+"P51955","Telomere maintenance"
+"Q13315","Telomere maintenance"
+"O95271","Metabolism"
+"P09874","Metabolism"
+"O95271","Protein-protein interaction"
+"O95271","Ubiquitin-proteasome system"
+"P10415","Protein-protein interaction"
+"P10415","Ubiquitin-proteasome system"
+"Q9UBN7","Protein-protein interaction"
+"Q9UBN7","Ubiquitin-proteasome system"
+"P38398","Protein-protein interaction"
+"P43250","Cell death"
+"P43250","Cell differentiation"
+"P43250","Cell proliferation"
+"P68400","Cell death"
+"P68400","Cell differentiation"
+"P68400","Cell proliferation"
+"P42226","Inflammation"
+"P43005","Inflammation"
+"P10721","Immune system"
+"Q05655","Metabolism"
+"P36544","Cell death"
+"P36544","Cell proliferation"
+"P36544","Cell differentiation"
+"P04626","Metabolism"
+"P43405","Metabolism"
+"P35916","Metabolism"
+"P06239","Metabolism"
+"Q13627","Metabolism"
+"P00519","Metabolism"
+"P29350","Cell adhesion"
+"P43405","Cell adhesion"
+"P10415","Cell proliferation"
+"Q13547","Cell proliferation"
+"P09619","Cell proliferation"
+"P35916","Cell proliferation"
+"Q00613","Cell proliferation"
+"P11926","Cell proliferation"
+"P29350","Cell growth"
+"P29350","Autophagy"
+"Q99527","Cell growth"
+"Q99527","Autophagy"
+"P06213","Cell growth"
+"P06213","Autophagy"
+"Q05397","Cell growth"
+"Q05397","Autophagy"
+"Q03181","Autophagy"
+"P12931","Cell growth"
+"P12931","Autophagy"
+"P09619","Cell growth"
+"P09619","Autophagy"
+"P10721","Cell growth"
+"P10721","Cell death"
+"P10721","Autophagy"
+"Q9UM73","Cell death"
+"P27695","Cell death"
+"P29466","Cell death"
+"Q13315","Cell death"
+"P07858","Cell death"
+"P29350","Cell migration"
+"P04626","Cell adhesion"
+"P04626","Cell differentiation"
+"P00533","Cell adhesion"
+"P43405","Cell migration"
+"P29350","Calcium signaling"
+"Q14289","Calcium signaling"
+"Q9HAS3","Molecular transport"
+"P14679","Cell proliferation"
+"P04798","Cell proliferation"
+"P50750","Cell proliferation"
+"Q05397","Hormones"
+"P12931","Inflammation"
+"P40763","Autophagy"
+"P08581","Autophagy"
+"Q07820","Autophagy"
+"P42345","Autophagy"
+"O75164","Autophagy"
+"P40763","Metablosim"
+"Q07869","Metablosim"
+"Q16665","Inflammation"
+"P0DMV8","Inflammation"
+"P40763","Immune system"
+"P0DMV8","Immune system"
+"Q9UM73","Immune system"
+"Q9HC29","Immune system"
+"Q9NYA1","Immune system"
+"Q04206","Immune system"
+"P10721","Cell differentiation"
+"P40763","Molecular transport"
+"P02545","Molecular transport"
+"P04637","Molecular transport"
+"P43405","Molecular transport"
+"P42226","Immune system"
+"Q16678","Hormones"
+"P15559","Hormones"
+"P15428","Hormones"
+"P30531","Hormones"
+"P09619","Hormones"
+"P47898","Hormones"
+"P11474","Hormones"
+"P09960","Hormones"
+"Q16665","Mitochondria"
+"Q16665","Nervous system"
+"Q9UBN7","Mitochondria"
+"Q9UBN7","Nervous system"
+"Q16665","Immune system"
+"Q16665","Homeostasis"
+"P27986","Homeostasis"
+"Q16665","Extracelluar matrix"
+"Q16665","Metabolism"
+"Q16665","Wound healing"
+"P49841","Wound healing"
+"Q16665","Reactive oxygen species"
+"P10415","Reactive oxygen species"
+"P38398","Reactive oxygen species"
+"P11274","Reactive oxygen species"
+"Q16665","Autophagy"
+"Q16665","Cell growth"
+"P42858","Autophagy"
+"P42858","Mitochondria"
+"P41595","Vasculature"
+"Q9UBN7","Cell migration"
+"Q13822","Cell migration"
+"Q16665","Hormones"
+"P38398","Cell growth"
+"Q16678","Cell growth"
+"P35916","Cell growth"
+"P35354","Cell growth"
+"Q09472","Metabolism"
+"P09211","Reactive oxygen species"
+"Q8TDS4","Metabolism"
+"Q9UM73","Regulation of lipids"
+"Q99714","Hormones"
+"P11712","Hormones"
+"P05177","Hormones"
+"P10635","Hormones"
+"P04798","Hormones"
+"Q99714","Mitochondria"
+"P09874","Mitochondria"
+"P04035","Cholesterol"
+"P04035","Regulation of lipids"
+"P04035","Exocytosis"
+"P04035","Hormones"
+"P09960","Inflammation"
+"P09917","Metabolism"
+"P09960","Response to environment"
+"Q13002","Nervous system"
+"P39086","Nervous system"
+"P43005","Nervous system"
+"Q13002","Cell cycle"
+"Q13002","Cell death"
+"P00533","Cell cycle"
+"P08069","Cell cycle"
+"Q96GD4","Cell death"
+"Q09472","Cell death"
+"O75604","Cell death"
+"Q92630","Cell death"
+"Q99527","Signal transduction"
+"P47898","Signal transduction"
+"P21554","Signal transduction"
+"P34972","Signal transduction"
+"P41279","Cell cycle"
+"Q99527","Cell cycle"
+"Q92831","Cell cycle"
+"Q09472","Cell cycle"
+"P12931","Cell cycle"
+"P27361","Cell cycle"
+"P28482","Cell cycle"
+"O75604","Cell cycle"
+"P68400","Cell cycle"
+"P35869","Cell cycle"
+"Q99527","Hormones"
+"P00533","Hormones"
+"P27695","Hormones"
+"P04150","Hormones"
+"Q99527","Immune system"
+"Q99527","Regulation of lipids"
+"P55210","Cell death"
+"P07339","Cell death"
+"P11388","Cell death"
+"P35354","Cell death"
+"P42858","Cell death"
+"P21554","Cell death"
+"Q00613","Cell death"
+"Q13936","Calcium signaling"
+"P48736","Calcium signaling"
+"P19174","Cell death"
+"P41595","Cell adhesion"
+"P41595","Cell differentiation"
+"P41595","Cell migration"
+"Q02750","Cell adhesion"
+"Q02750","Cell differentiation"
+"Q02750","Cell migration"
+"Q14289","Cell adhesion"
+"P05412","Cell adhesion"
+"Q9HC29","Cell adhesion"
+"Q9HC29","Cell migration"
+"P14174","Cell adhesion"
+"P14174","Cell migration"
+"P27361","Cell adhesion"
+"P09619","Cell adhesion"
+"Q06124","Cell adhesion"
+"P35916","Cell adhesion"
+"P35916","Cell differentiation"
+"P36544","Cell adhesion"
+"P36544","Cell migration"
+"P15056","Cell adhesion"
+"P15056","Cell differentiation"
+"Q99527","Muscles"
+"Q99527","Nervous system"
+"P35367","Muscles"
+"P35367","Nervous system"
+"P35367","Cell proliferation"
+"P35367","Autophagy"
+"P35916","Signal transduction"
+"Q99527","Cellular respiration"
+"Q99527","Mitochondria"
+"P04637","Cellular respiration"
+"P04637","Mitochondria"
+"Q99527","Vasodilatation"
+"Q03181","Vasodilatation"
+"P0DMV8","Metabolism"
+"P55072","Response to environment"
+"P0DMV8","Hormones"
+"O15118","Hormones"
+"P0DMV8","Molecular transport"
+"O15118","Molecular transport"
+"O15118","Cell death"
+"O75164","Cell death"
+"P0DMV8","Cell component assembly"
+"Q00613","Cell component assembly"
+"P0DMV8","Cellular respiration"
+"P0DMV8","Mitochondria"
+"P0DMV8","Ubiquitination"
+"Q9BY41","Ubiquitination"
+"P06241","Ubiquitination"
+"P31749","Ubiquitination"
+"P0DMV8","Cytoskeleton"
+"P29466","Cell proliferation"
+"P29466","Cell differentiation"
+"P0DMV8","Protein folding"
+"P02545","DNA damage response"
+"P02545","Cell death"
+"P02545","Cellular respiration"
+"P02545","Mitochondria"
+"P31749","Cellular respiration"
+"P31749","Mitochondria"
+"P02545","Aging"
+"P04637","Aging"
+"P02545","Cell migration"
+"P02545","Telomere maintenance"
+"Q9BY41","Telomere maintenance"
+"P04183","Metabolism"
+"P41595","Regulation of lipids"
+"P00533","Regulation of lipids"
+"P06493","Cell adhesion"
+"P28482","Cell adhesion"
+"P28482","Cell migration"
+"P41595","Nervous system"
+"P41595","Cell division"
+"P41595","Immune system"
+"P04406","Immune system"
+"P29466","Immune system"
+"Q9HC98","Immune system"
+"P06239","Calcium signaling"
+"P41595","Vasoconstriction"
+"P05091","Metabolism"
+"P15121","Metabolism"
+"P05091","Nervous system"
+"Q9UM73","Cell cycle"
+"P06213","Cell cycle"
+"Q12866","Cell cycle"
+"P08581","Cell cycle"
+"P04626","Cell cycle"
+"P54760","Cell cycle"
+"P09619","Cell cycle"
+"P30530","Cell cycle"
+"P07949","Cell cycle"
+"P35916","Cell cycle"
+"P10721","Cell cycle"
+"Q9UM73","Nervous system"
+"Q13554","Calcium signaling"
+"P10415","Calcium signaling"
+"P09211","Metabolism"
+"P09917","Immune system"
+"P10415","Immune system"
+"P09917","Regulation of lipids"
+"P33527","Metabolism"
+"P33527","Regulation of lipids"
+"P09211","Regulation of lipids"
+"P15428","Inflammation"
+"P18054","Inflammation"
+"P11712","Regulation of lipids"
+"P05177","Regulation of lipids"
+"P10635","Regulation of lipids"
+"P09917","Cell proliferation"
+"P09917","Response to environment"
+"P55055","Response to environment"
+"Q16539","Inflammation"
+"P09917","Cell differentiation"
+"Q9UBN7","Cell differentiation"
+"P09917","Hormones"
+"P49286","Hormones"
+"P49286","Response to environment"
+"P49286","Cell proliferation"
+"P21554","Hormones"
+"P21554","Response to environment"
+"P21554","Cell proliferation"
+"P09917","Reactive oxygen species"
+"P53667","Ubiquitination"
+"P00519","Ubiquitination"
+"P53667","Cell cycle"
+"P14902","Metabolism"
+"P14902","Cell death"
+"Q16539","Immune system"
+"P14902","Response to environment"
+"P15428","Response to environment"
+"P05186","Response to environment"
+"P34972","Response to environment"
+"O75874","Metabolism"
+"O75874","Regulation of lipids"
+"O75874","Hormones"
+"P00492","Metabolism"
+"P55263","Metabolism"
+"P00492","Immune system"
+"P00492","Nervous system"
+"P27338","Metabolism"
+"P27338","Nervous system"
+"Q92769","Nervous system"
+"P27361","Nervous system"
+"P28482","Nervous system"
+"P00519","Nervous system"
+"Q92769","Vitamins"
+"P49841","Response to environment"
+"P49841","Vitamins"
+"Q14289","Vitamins"
+"P16220","Vitamins"
+"P07949","Vitamins"
+"Q13315","Response to environment"
+"Q13315","Vitamins"
+"Q92769","Circadian rhythm"
+"Q13547","Circadian rhythm"
+"Q03164","Circadian rhythm"
+"P11387","Circadian rhythm"
+"O75604","Circadian rhythm"
+"P35869","Circadian rhythm"
+"Q92769","Skin"
+"Q13547","Cell differentiation"
+"Q13547","Skin"
+"P10070","Cell differentiation"
+"P10070","Skin"
+"Q92769","Metabolism"
+"Q92769","Extracellular matrix"
+"P09619","Extracellular matrix"
+"Q92769","Inflammation"
+"Q92769","Immune system"
+"Q92769","Vasculature"
+"P06241","Vasculature"
+"Q00613","Immune system"
+"Q00613","Vasculature"
+"P10721","Vasculature"
+"P09619","Response to environment"
+"P06746","Response to environment"
+"Q9UBS5","Response to environment"
+"P28482","Response to environment"
+"P36544","Response to environment"
+"P35367","Response to environment"
+"P35367","Immune system"
+"P35367","Signal transduction"
+"P35367","Vasoconstriction"
+"O00519","Vasoconstriction"
+"P35354","Vasoconstriction"
+"P00519","Vasoconstriction"
+"P35367","Vasculature"
+"P11274","Vasculature"
+"P12931","Vasculature"
+"P06493","Aging"
+"P10415","Aging"
+"P14174","Aging"
+"P06493","Cell component assembly"
+"P06493","Cytoskeleton"
+"P04406","Cytoskeleton"
+"Q13509","Cytoskeleton"
+"P10070","Cell cycle"
+"P06493","Cellular respiration"
+"P06493","Mitochondria"
+"P10721","Response to environment"
+"P06241","Response to environment"
+"P06493","Toxins"
+"P10415","Toxins"
+"P27338","Toxins"
+"Q16678","Toxins"
+"P15559","Toxins"
+"P30531","Response to environment"
+"P30531","Toxins"
+"P09619","Toxins"
+"P34913","Response to environment"
+"P34913","Toxins"
+"P35869","Toxins"
+"Q9Y2K7","DNA damage response"
+"P09884","DNA damage response"
+"P06746","DNA damage response"
+"Q13315","DNA damage response"
+"Q02750","Cell cycle"
+"Q16539","Cell cycle"
+"Q13315","Cell cycle"
+"Q02750","Skin"
+"P11274","Cell differentiation"
+"P11274","Skin"
+"Q02750","Cell death"
+"P07949","Cell differentiation"
+"Q00613","Cell differentiation"
+"Q00613","Cell migration"
+"Q02750","miRNA"
+"P00533","miRNA"
+"P04637","miRNA"
+"Q02750","Cell component assembly"
+"Q02750","Molecular transport"
+"P12931","Cell component assembly"
+"P27361","Cell component assembly"
+"P27361","Molecular transport"
+"P28482","Cell component assembly"
+"P28482","Molecular transport"
+"Q02750","Response to environment"
+"P27361","Response to environment"
+"P30305","Signal transduction"
+"Q05397","Signal transduction"
+"P10415","Cytoskeleton"
+"P11274","Cell adhesion"
+"P10415","Cell cycle"
+"Q06124","Cell cycle"
+"P06746","Cell death"
+"P10415","Metabolism"
+"P10415","Skin"
+"P10415","Cell differentiation"
+"O75030","Skin"
+"P10721","Skin"
+"P10415","Cell development"
+"P10415","Cell migration"
+"O75030","Cell migration"
+"P10415","Regulation of pH"
+"P10415","DNA damage response"
+"P14174","DNA damage response"
+"P10415","Mitochondria"
+"P12931","Mitochondria"
+"P00533","Cell growth"
+"P50281","Cell growth"
+"Q9NYA1","Cell growth"
+"P68400","Cell growth"
+"P10415","Cellular respiration"
+"P10415","Immunsystem"
+"P10415","Inflammation"
+"Q07820","Immunsystem"
+"Q07820","Inflammation"
+"Q04206","Immunsystem"
+"P05186","Immunsystem"
+"P05186","Inflammation"
+"P35354","Immunsystem"
+"P35573","Immunsystem"
+"P35573","Inflammation"
+"P35573","Response to environment"
+"P80365","Immunsystem"
+"P80365","Inflammation"
+"P10415","UV"
+"Q04206","UV"
+"P49841","Immune system"
+"P49841","Nervous system"
+"P31749","Nervous system"
+"P49841","Metabolism"
+"P06737","Metabolism"
+"P42345","Immune system"
+"Q92630","Immune system"
+"Q07869","Nervous system"
+"Q00613","Nervous system"
+"P04062","Nervous system"
+"P49841","Localization"
+"Q14289","Nervous system"
+"P49841","Cell differentiation"
+"P49841","Cell adhesion"
+"Q00534","Cell adhesion"
+"P49841","Cell component assembly"
+"P42858","Cell component assembly"
+"P49841","Mitochondria"
+"P06241","Nervous system"
+"P09874","Nervous system"
+"P49841","Molecular transport"
+"P49841","Cytoskeleton"
+"P07949","Nervous system"
+"Q09472","Response to environment"
+"Q92793","Response to environment"
+"P04626","Cytoskeleton"
+"O75496","Cell cycle"
+"P15428","Cell cycle"
+"P35354","Cell cycle"
+"Q13547","Cell growth"
+"Q13547","Vasculature"
+"P06241","Cell growth"
+"Q13547","Hormones"
+"Q13547","Immune system"
+"P09211","Immune system"
+"Q9NYA1","Cell proliferation"
+"P06213","Nervous system"
+"P27361","Metabolism"
+"P06213","Development"
+"Q92630","Metabolism"
+"P06213","Meiosis"
+"P06213","Mitosis"
+"Q9NYA1","Mitosis"
+"Q9NYA1","Cell cycle"
+"P09619","Mitosis"
+"P06213","Protein-protein interaction"
+"P08069","Protein-protein interaction"
+"P04062","Protein-protein interaction"
+"P06213","Endocytosis"
+"P43405","Endocytosis"
+"P06213","Viruses"
+"O15118","Viruses"
+"P30530","Viruses"
+"P07858","Viruses"
+"Q9UBN7","Cell component assembly"
+"P55072","Cell component assembly"
+"P55072","Misfolded protein degradation"
+"Q9UBN7","Molecular transport"
+"Q9UBN7","Metabolism"
+"Q9UBN7","Cytoskeleton"
+"Q9UBN7","Proteolysis"
+"Q13133","Proteolysis"
+"P55055","Proteolysis"
+"P04637","Proteolysis"
+"P31749","Proteolysis"
+"Q969S8","Metabolism"
+"Q9UBN7","Cell death"
+"Q9UBN7","Hormones"
+"Q09472","Hormones"
+"Q16512","Hormones"
+"Q09472","Autophagy"
+"Q13315","Autophagy"
+"P07339","Molecular transport"
+"O75460","Autophagy"
+"P04406","Autophagy"
+"Q9UBN7","Cell motility"
+"Q9UBN7","Cell growth"
+"Q9UBN7","Cell proliferation"
+"P15056","Molecular transport"
+"O15118","Regulation of lipids"
+"O00748","Metabolism"
+"O00748","Hormones"
+"P09211","Hormones"
+"P15428","Metabolism"
+"P48147","Proteolysis"
+"P55210","Proteolysis"
+"P29466","Proteolysis"
+"P07339","Proteolysis"
+"P50281","Proteolysis"
+"P14735","Proteolysis"
+"P56818","Proteolysis"
+"P56819","Proteolysis"
+"P56817","Proteolysis"
+"P07858","Proteolysis"
+"P10415","Mitosis"
+"Q9GZU7","Cell cycle"
+"Q9GZU7","Mitosis"
+"Q9GZU7","Nervous system"
+"Q03164","Cell death"
+"Q9HC98","Cell death"
+"P35869","Cell death"
+"P55210","UV"
+"P55210","Response to environment"
+"P14679","UV"
+"P14679","Response to environment"
+"Q12866","Immune system"
+"P30530","Immune system"
+"P11274","Endocytosis"
+"Q9HC29","Endocytosis"
+"Q12866","Cell adhesion"
+"P27986","Cell adhesion"
+"P30530","Cell adhesion"
+"O43570","Molecular transport"
+"Q9ULX7","Metabolism"
+"O43570","Metabolism"
+"Q9Y2D0","Metabolism"
+"Q8N1Q1","Metabolism"
+"P00374","Metabolism"
+"P00918","Metabolism"
+"Q13936","Molecular transport"
+"Q13936","Metabolism"
+"Q9Y2D0","Bacteria"
+"P06737","Bacteria"
+"Q00534","Cell differentiation"
+"Q00534","Nervous system"
+"P00519","Cell cycle"
+"Q00534","Immune system"
+"Q00534","Skin"
+"P05412","Skin"
+"P00533","Skin"
+"P14174","Skin"
+"Q9NYA1","Skin"
+"P09619","Skin"
+"P00519","Skin"
+"Q00534","Cell motility"
+"Q16512","Cell motility"
+"P00519","Cell motility"
+"Q00534","Viruses"
+"P12931","Viruses"
+"P04798","Viruses"
+"P08172","Viruses"
+"O14920","Viruses"
+"P11926","Viruses"
+"P11712","Metabolism"
+"P05177","Metabolism"
+"Q16678","Regulation of lipids"
+"P04798","Metabolism"
+"P10635","Metabolism"
+"P15559","Metabolism"
+"P35869","Metabolism"
+"P08581","Development"
+"P08581","Skin"
+"P18054","Skin"
+"P08581","Cytoskeleton"
+"P27986","Cytoskeleton"
+"P08581","Immune system"
+"P08581","Cell growth"
+"P08581","Chemotaxis"
+"P08581","Nervous system"
+"Q16539","Cell growth"
+"Q04206","Vasculature"
+"Q04206","Cell growth"
+"O75460","Metabolism"
+"P14735","Metabolism"
+"O75460","Misfolded protein degradation"
+"P27986","Misfolded protein degradation"
+"O75460","Muscles"
+"P05412","Muscles"
+"P15428","Muscles"
+"P26358","Muscles"
+"P26358","Cell proliferation"
+"P38398","DNA damage response"
+"P04637","DNA damage response"
+"P09874","DNA damage response"
+"P55072","DNA damage response"
+"P28482","DNA damage response"
+"P11388","DNA damage response"
+"Q92630","DNA damage response"
+"P00519","DNA damage response"
+"P54132","DNA damage response"
+"P38398","Hormones"
+"P38398","Metabolism"
+"Q16539","DNA damage response"
+"P38398","X chromosome inactivation"
+"P38398","Regulation of lipids"
+"P38398","Cell cycle"
+"P00533","DNA damage response"
+"O15379","Ubiquitin-proteasome system"
+"O15379","Protein-protein interaction"
+"Q9NYA1","Ubiquitin-proteasome system"
+"Q9NYA1","Autophagy"
+"Q9NYA1","Protein-protein interaction"
+"P50281","Hormones"
+"P04062","Hormones"
+"Q9UBS5","Nervous system"
+"P28566","Nervous system"
+"Q9UBS5","Metabolism"
+"P21554","Nervous system"
+"Q9UBS5","Hormones"
+"P04626","Nervous system"
+"P04626","Immune system"
+"P07237","Cell adhesion"
+"Q13315","Cell adhesion"
+"P04626","Molecular transport"
+"P04626","Vasculature"
+"Q13822","Vasculature"
+"Q02750","Cell motility"
+"Q13822","Cell motility"
+"P50281","Cell motility"
+"Q05397","Cell motility"
+"Q13822","Metabolism"
+"Q13822","Regulation of lipids"
+"P19174","Regulation of lipids"
+"P19174","Metabolism"
+"P12931","Cell motility"
+"Q9HC29","Metabolism"
+"P14174","Metabolism"
+"O00519","Regulation of lipids"
+"O00519","Metabolism"
+"P27695","DNA damage response"
+"P27695","Metabolism"
+"P27695","Muscles"
+"P27695","Cell cycle"
+"P04798","Cell cycle"
+"P31749","Cell cycle"
+"P27695","Telomere maintenance"
+"P54132","Telomere maintenance"
+"P21397","Metabolism"
+"P21397","Nervous system"
+"P27338","Reactive oxygen species"
+"P05177","Reactive oxygen species"
+"P04798","Reactive oxygen species"
+"P27338","Hormones"
+"P05177","Cellular respiration"
+"P00352","Metabolism"
+"P05177","Toxins"
+"P11274","Metabolism"
+"Q14289","Immune system"
+"Q14289","Muscles"
+"Q05397","Cell adhesion"
+"Q14289","Molecular transport"
+"Q14289","Cytoskeleton"
+"P42345","Cytoskeleton"
+"P55789","Metabolism"
+"P36544","Nervous system"
+"P35916","Immune system"
+"Q14289","Autophagy"
+"Q9HC29","Cell growth"
+"Q9HC29","Autophagy"
+"P35354","Nervous system"
+"Q05397","Cytoskeleton"
+"P06241","Cytoskeleton"
+"P53355","Nervous system"
+"P30531","Calcium signaling"
+"Q14289","Hormones"
+"Q14289","Protein-protein interaction"
+"Q05397","Protein-protein interaction"
+"P12931","Cytoskeleton"
+"P30530","Vasculature"
+"P30530","Cell growth"
+"P05412","Calcium signaling"
+"P15056","Calcium signaling"
+"P05412","Reactive oxygen species"
+"P00533","Reactive oxygen species"
+"P27361","Reactive oxygen species"
+"P28482","Reactive oxygen species"
+"P05412","Nervous system"
+"P05412","Viruses"
+"Q09472","Viruses"
+"P50750","Viruses"
+"P51570","Metabolism"
+"P04066","Metabolism"
+"P53355","Immune system"
+"P04406","Cell cycle"
+"P00374","Cell cycle"
+"P53355","Cell cycle"
+"P33527","Inflammation"
+"P09874","Proteolysis"
+"P07339","Immune system"
+"P07339","Metabolism"
+"Q13315","Metabolism"
+"P16152","Vitamins"
+"P09211","Nervous system"
+"P09211","Inflammation"
+"P09211","Skin"
+"P04637","Skin"
+"P09211","Vasodilatation"
+"P43405","Reactive oxygen species"
+"P00533","Calcium signaling"
+"P00533","Cytoskeleton"
+"Q16539","Cytoskeleton"
+"P00533","Hair"
+"P00533","Development"
+"Q04206","Hair"
+"Q04206","Development"
+"P00533","Cell-cell junction"
+"P00533","Immune system"
+"P00533","Vasodilatation"
+"P00533","Autophagy"
+"P00533","UV"
+"P00533","Response to environment"
+"P31749","UV"
+"P11166","Molecular transport"
+"Q03181","Molecular transport"
+"P11166","Metabolism"
+"P11166","Regulation of lipids"
+"Q16875","Metabolism"
+"P54760","Nervous system"
+"Q05397","Nervous system"
+"Q13509","Nervous system"
+"P10070","Nervous system"
+"P54760","Cell migration"
+"P54760","Cell differentiation"
+"P12931","Nervous system"
+"Q06124","Nervous system"
+"Q06124","Vasculature"
+"Q13133","Cell death"
+"P00352","Response to environment"
+"Q13133","Endocytosis"
+"P55055","Endocytosis"
+"Q13133","Autophagy"
+"Q13133","Metabolism"
+"P55055","Metabolism"
+"Q13133","Molecular transport"
+"P55055","Molecular transport"
+"Q07869","Autophagy"
+"Q07869","Reactive oxygen species"
+"Q92831","Metabolism"
+"P42345","Regulation of lipids"
+"Q07869","Viruses"
+"Q07869","Molecular transport"
+"Q07820","Cell differentiation"
+"Q07820","Nervous system"
+"Q07820","DNA damage response"
+"P19838","Virus"
+"P19838","Immune system"
+"P19838","Metabolism"
+"P19838","Molecular transport"
+"P19838","Regulation of lipids"
+"P19838","Vitamins"
+"P19838","Extracellular matrix"
+"Q16678","Extracellular matrix"
+"Q16678","Immune system"
+"Q16678","Vasodilatation"
+"P15559","Vasodilatation"
+"P50281","Extracellular matrix"
+"P50281","Metabolism"
+"P07858","Extracellular matrix"
+"P07858","Metabolism"
+"P50281","Cell differentiation"
+"P50281","Skin"
+"P50281","Cell adhesion"
+"P50281","Immune system"
+"P50281","Cytoskeleton"
+"P50281","Molecular transport"
+"P50281","Tissue development"
+"P06213","Skin"
+"P06213","Tissue development"
+"Q07869","Skin"
+"Q07869","Tissue development"
+"Q01469","Skin"
+"Q01469","Tissue development"
+"Q01469","Response to environment"
+"O15379","Response to environment"
+"Q01469","Cell differentiation"
+"Q01469","Hormones"
+"Q01469","Nervous system"
+"O15379","Immune system"
+"O15379","Metabolism"
+"P27361","Autophagy"
+"P28482","Autophagy"
+"P42345","Cell component assembly"
+"P10253","Autophagy"
+"P10253","Cell component assembly"
+"P04062","Cell component assembly"
+"P42345","Cell growth"
+"P42345","Skin"
+"P42345","Wounding healing"
+"Q05655","Cytoskeleton"
+"P09619","Cytoskeleton"
+"P16220","Cell growth"
+"P42345","Molecular transport"
+"P42345","Nervous system"
+"P55055","Autophagy"
+"O75164","Response to environment"
+"P10415","Nervous system"
+"P16220","Nervous system"
+"P08069","Nervous system"
+"P16220","Hormones"
+"P16220","Metabolism"
+"P16220","Cell component assembly"
+"P15559","Response to enviornment"
+"P15559","Nervous system"
+"P15428","Immune system"
+"P15428","Cell growth"
+"P14735","Immune system"
+"P14735","Vasodilatation"
+"P14735","Aging"
+"P04062","Aging"
+"Q13315","Aging"
+"P14735","Ubiquitin-proteasome system"
+"Q09472","DNA damage response"
+"Q09472","Cell migration"
+"Q09472","Cell proliferation"
+"Q92793","Cell death"
+"Q92793","Cell differentiation"
+"Q92793","Cell migration"
+"Q92793","Cell proliferation"
+"Q09472","Mitochondria"
+"Q09472","Cytoskeleton"
+"Q92793","Immune system"
+"Q09472","Nervous system"
+"Q05397","Muscles"
+"Q05397","Cell-cell adhesion"
+"P00519","Cell-cell adhesion"
+"Q05397","Development"
+"Q05397","Skin"
+"P31749","Skin"
+"Q05397","Immune system"
+"P27361","Immune system"
+"Q05397","Wound healing"
+"P48736","Cell adhesion"
+"P27361","Cytoskeleton"
+"P28482","Cytoskeleton"
+"P56818","Nervous system"
+"P56819","Nervous system"
+"P56817","Nervous system"
+"P06241","Reactive oxygen species"
+"P06241","Inflammation"
+"P19174","Inflammation"
+"P11274","Immune system"
+"P11274","Cell proliferation"
+"P06746","Cell proliferation"
+"P11274","Molecular transport"
+"P11274","Cell cycle"
+"Q9HC29","Bacteria"
+"Q05655","Bacteria"
+"P43405","Bacteria"
+"Q9HC29","Vasodilatation"
+"Q9HC29","Reactive oxygen species"
+"Q9HC29","Hormones"
+"Q9HC29","Ubiquitin-proteasome system"
+"Q9HC29","Protein-protein interaction"
+"Q9HC29","Viruses"
+"P27361","Viruses"
+"P28482","Viruses"
+"Q16539","Bacteria"
+"Q04206","Bacteria"
+"P04637","UV"
+"P04637","Circadian rhythm"
+"P04637","Nervous system"
+"O75604","Nervous system"
+"P04637","Immune system"
+"P24941","Mitochondria"
+"P06737","Mitochondria"
+"P04637","Cell cycle"
+"P04637","Telomere maintenance"
+"P12931","Telomere maintenance"
+"P04637","Protein-protein interaction"
+"P04637","Tissue development"
+"P54132","Response to environment"
+"P04637","Viruses"
+"Q05655","Chemotaxis"
+"P33527","Chemotaxis"
+"P09619","Chemotaxis"
+"P10721","Chemotaxis"
+"P25024","Chemotaxis"
+"P32302","Chemotaxis"
+"P53355","Response to environment"
+"Q05655","Immune system"
+"P18054","Immune system"
+"Q05655","Regulation of lipids"
+"Q05655","DNA damage response"
+"Q05655","Nervous system"
+"P43405","Regulation of lipids"
+"P43405","Fungi"
+"P21589","Immune system"
+"P43405","Tissue development"
+"P35916","Tissue development"
+"P43405","Calcium signaling"
+"P25024","Endocytosis"
+"P43405","Hormones"
+"O75030","Cell death"
+"P33527","Molecular transport"
+"P43005","Molecular transport"
+"Q96FL8","Molecular transport"
+"O15245","Molecular transport"
+"O75751","Molecular transport"
+"P10635","Protein-protein interaction"
+"P27986","Extracellular matrix"
+"P35573","Metabolism"
+"Q16539","Regulation of lipids"
+"P18054","Reactive oxygen species"
+"Q9UKM7","Metabolism"
+"P06280","Metabolism"
+"Q9UKM7","Ubiquitin-proteasome system"
+"Q9UKM7","Autophagy"
+"Q13627","DNA damage response"
+"P14174","Regulation of lipids"
+"P14174","Protein-protein interaction"
+"Q99720","Protein-protein interaction"
+"Q04206","Regulation of lipids"
+"Q06124","DNA damage response"
+"Q16539","Response to enviornment"
+"P27361","Response to enviornment"
+"P28482","Response to enviornment"
+"P31749","Response to enviornment"
+"Q16539","Autophagy"
+"P35354","Cell differentiation"
+"Q16539","Muscles"
+"Q16539","Cell adhesion"
+"Q16539","Nervous system"
+"P31749","Muscles"
+"P19793","Vitamins"
+"P09619","Vitamins"
+"Q16512","Cell migration"
+"Q16512","Cell proliferation"
+"Q16512","Immune system"
+"Q13315","Cell proliferation"
+"Q13315","Immune system"
+"Q99720","Cell death"
+"Q99720","Molecular transport"
+"P48736","Localization"
+"Q9UBE0","Mitochondria"
+"P35869","Vasculature"
+"Q9NYA1","Regulation of lipids"
+"Q9NYA1","Muscles"
+"P35354","Muscles"
+"P20309","Muscles"
+"Q9NYA1","Molecular transport"
+"Q9NYA1","Nervous system"
+"Q9NYA1","Cell differentiation"
+"P04062","Regulation of lipids"
+"Q03181","Cell adhesion"
+"Q03181","Cell migration"
+"Q03181","Extracellular matrix"
+"Q03181","Vitamins"
+"P04798","Vitamins"
+"O15245","Toxins"
+"O75751","Toxins"
+"P12931","Cell-cell junction"
+"P12931","Bacteria"
+"P12931","Tissue development"
+"P12931","Guts"
+"Q969S8","Autophagy"
+"P12931","Endocytosis"
+"P12931","Regulation of pH"
+"O75751","Immune system"
+"O75751","Response to environment"
+"P27361","Endocytosis"
+"P28482","Endocytosis"
+"P27361","DNA damage response"
+"P27361","Regulation of pH"
+"P28482","Regulation of pH"
+"P34972","Nervous system"
+"O14920","Response to environment"
+"O14920","Cell migration"
+"P49286","Vasculature"
+"P49286","Sleep"
+"P49286","Circadian rhythm"
+"P30531","Nervous system"
+"P09619","Lipid signaling"
+"P09619","Membrane trafficking"
+"P19174","Lipid signaling"
+"P19174","Membrane trafficking"
+"Q06124","Cell growth"
+"P09619","Molecular transport"
+"P09619","Muscles"
+"Q06124","Response to environment"
+"Q06124","Wound healing"
+"Q06124","Regulation of lipids"
+"O15118","Cholesterol"
+"P35610","Cholesterol"
+"P35610","Regulation of lipids"
+"P09874","Immune system"
+"P09874","Muscles"
+"P09874","Vasoconstriction"
+"Q96FL8","Toxins"
+"O14980","Ubiquitin-proteasome system"
+"P55072","Ubiquitination"
+"P55072","Mitochondria"
+"P55072","Cellular respiration"
+"P06493","DNA damage response"
+"P46063","DNA damage response"
+"Q9NUW8","DNA damage response"
+"Q00613","DNA damage response"
+"Q969S8","DNA damage response"
+"P24941","DNA damage response"
+"P50750","DNA damage response"
+"Q04206","Nervous system"
+"Q04206","Amyloids"
+"P36544","Amyloids"
+"P07949","Cell size"
+"P07949","Immune system"
+"P07949","Vasculature"
+"P17706","Chemotaxis"
+"P17706","Cell death"
+"P17706","Vasculature"
+"P17706","Response to environment"
+"P17706","Unfolded protein response"
+"P14679","Melanin"
+"P10721","Melanin"
+"P14679","Vitamins"
+"P05186","Vitamins"
+"P35354","Vitamins"
+"O75604","Ubiquitination"
+"P43005","Vasculature"
+"P04798","Toxins"
+"P04798","Wound healing"
+"P07237","Immune system"
+"P07237","Extracellular matrix"
+"P07237","Protein folding"
+"P07237","Cell death"
+"P35354","Hair"
+"P35354","Cell migration"
+"P35354","Wound healing"
+"P20309","Nervous system"
+"P20309","Vasoconstriction"
+"P56818","Amyloids"
+"P56819","Amyloids"
+"P56817","Amyloids"
+"P47898","Nervous system"
+"P06280","Vasodilatation"
+"P21554","Metabolism"
+"P21554","Vasodilatation"
+"P34972","Metabolism"
+"P34972","Vasodilatation"
+"P21554","Regulation of lipids"
+"O14727","Hormones"
+"O14727","DNA damage response"
+"P54707","Regulation of pH"
+"P36544","Metabolism"
+"P36544","Regulation of lipids"
+"P36544","Vasodilatation"
+"P08172","Nervous system"
+"P08172","Muscles"
+"O14920","Cytoskeleton"
+"O14920","Cell-cell junction"
+"O14920","Cell motility"
+"Q00613","Misfolded protein degradation"
+"Q00613","Cytoskeleton"
+"P51955","Meiosis"
+"P24941","Meiosis"
+"P51955","Mitosis"
+"P51955","Cytoskeleton"
+"P42858","Cytoskeleton"
+"P42858","Molecular transport"
+"P42858","Calcium signaling"
+"P42858","Signal transduction"
+"P10721","Metabolism"
+"P10721","Cell adhesion"
+"P10721","Cell motility"
+"P10721","Differentiation"
+"P10721","Proliferation"
+"P10721","Muscles"
+"P35610","Response to environment"
+"P34913","Regulation of lipids"
+"P34913","Metabolism"
+"P06239","Homeostasis"
+"P43005","Homeostasis"
+"P06239","Cell-cell junction"
+"P06239","Cell adhesion"
+"P04150","Immune system"
+"P08069","Vitamins"
+"P68400","Protein folding"
+"P68400","Ubiquitination"
+"P09884","Cell cycle"
+"P09884","Mitosis"
+"P09884","Immune system"
+"Q13627","Cytoskeleton"
+"P00374","Nervous system"
+"Q9HC16","Viruses"
+"Q9HC16","Immune system"
+"P21589","Metabolism"
+"P43005","Reactive oxygen species"
+"P00352","Toxins"
+"P00352","Nervous system"
+"P00352","Vitamins"
+"P15121","Vitamins"
+"P21554","Immune system"
+"P21554","Inflammation"
+"P21554","Vasculature"
+"P15056","Metabolism"
+"P15056","Response to environment"
+"P04062","Immune system"
+"P04062","Muscles"
+"P04062","Mitochondria"
+"P04062","Signal transduction"
+"P04062","Misfolded protein degradation"
+"P04062","Cell growth"
+"P04062","Skin"
+"P04062","Cellular respiration"
+"P04062","Regulation of pH"
+"P04150","Response to environment"
+"Q13315","response to environment"
+"Q13315","Meiosis"
+"Q13315","Cell growth"
+"P00519","Mitochondria"
+"P00519","Mitosis"
+"P00519","Regulation of lipids"
+"P00519","Extracellular matrix"
+"P52209","Metabolism"
+"P15121","Hormones"
+"P15121","Cell differentiation"
+"P00918","Regulation of pH"
+"P00918","Molecular transport"
+"P00918","Nervous system"
+"P26358","Metabolism"
+"P26358","Response to environment"
+"P26358","Vasculature"
+"P26358","Cell death"
+"P26358","Cell differentiation"
+"P11926","Metabolism"
+"P54132","Mitosis"
+"P54132","Cell cycle"
+"P54132","Protein-protein interaction"
+"P50750","Cell cycle"
+"P10721","Hormones"
+"P07858","Hormones"
+"P07858","Signal transduction"
+"Q96GD4","UV"
+"Q96GD4","Response to environment"
+"Q09472","UV"
+"Q05655","UV"
+"P27986","UV"
+"P09874","UV"
+"P35354","UV"
+"Q92793","UV"
+"P80365","Hormones"
+"P80365","Metabolism"
+"P35869","Immune system"
+"O00444","Cytoskeleton"
+"P24941","Cytoskeleton"
+"P24941","Response to environment"
+"P24941","Vasodilatation"
+"P24941","Molecular transport"
+"P50750","Immune system"
+"P46098","Molecular transport"
+"P50750","Muscles"
+"P50750","Cell differentiation"
+"P46098","Nervous system"
+"P55789","Toxins"
+"P55789","Immune system"
+"P55789","Nervous system"
+"P11474","Response to environment"
